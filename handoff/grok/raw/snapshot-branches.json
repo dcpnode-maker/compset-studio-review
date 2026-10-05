@@ -1,7 +1,7 @@
 [
   {
     "path": "E:\\YellowWorkspace\\CodexWorktrees\\harness-app\\yellow",
-    "branch": "grok-review/yellow/wip-yellow-34168dc8-20261005",
+    "branch": "grok-review/yellow/wip-yellow-34168dc8-20261005-sanitized-v3",
     "head": "d29142b39d9d6641a56bb0f8546b5745d5a4e9bc",
     "dirty": true,
     "compset": false,
@@ -9,10 +9,10 @@
       "E:\\YellowWorkspace\\CodexWorktrees\\harness-app\\yellow",
       "\\\\?\\E:\\YellowWorkspace\\CodexWorktrees\\harness-app\\yellow"
     ],
-    "snapshot_sha": "ed85307c0b6c246d73afb70d13ce531caa45e7a9",
-    "tree": "8e797e0aec1c5e421d44536696b34e88a50d4cac",
+    "snapshot_sha": "cafb3cc1b790b3ac6097dd30d699a34c4b31c897",
+    "tree": "2054c94729f1f85ecb6d3609a153ecf122e631ac",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 6 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 7,
     "sanitized_paths": [
@@ -26,12 +26,14 @@
       "DECISIONS.log"
     ],
     "push": "NOT_PUSHED",
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-yellow-34168dc8-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-yellow-34168dc8-20261005",
+    "local_removal_commit": "402e691e303a7ef2f2a2e55730eab0c1de79301d",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-yellow-34168dc8-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Worktrees\\phase-7-resource-receiving-20261001",
-    "branch": "grok-review/yellow/phase-7-resource-receiving-20261001-fd4e7066-20261005",
+    "branch": "grok-review/yellow/phase-7-resource-receiving-20261001-fd4e7066-20261005-sanitized-v3",
     "head": "2b096e5f1bf932403a91a4e8f9f135d99465f691",
     "dirty": false,
     "compset": false,
@@ -39,10 +41,10 @@
       "E:/YellowWorkspace/Worktrees/phase-7-resource-receiving-20261001",
       "E:\\YellowWorkspace\\Worktrees\\phase-7-resource-receiving-20261001"
     ],
-    "snapshot_sha": "30482a983970d1fc0a20d6e4d9ee6a152076eab1",
-    "tree": "3df022fbe125e8c7befaab7087c76067f6cc92da",
+    "snapshot_sha": "bee5790ad7db6995241790d517763a7b60c616cf",
+    "tree": "68cac70c545f9fcb00539d514fa1c6487e08591f",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -130,12 +132,14 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/phase-7-resource-receiving-20261001-fd4e7066-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/phase-7-resource-receiving-20261001-fd4e7066-20261005",
+    "local_removal_commit": "7759c54802bde18c4067172e9848f86a34414479",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/phase-7-resource-receiving-20261001-fd4e7066-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "D:\\Yellow\\git-live-order611-source-v2",
-    "branch": "grok-review/yellow/wip-git-live-order611-source-v2-83b1a0bf-20261005",
+    "branch": "grok-review/yellow/wip-git-live-order611-source-v2-83b1a0bf-20261005-sanitized-v3",
     "head": "e06e400a57485cc10a8a35c21dcb1e01b5a667d1",
     "dirty": true,
     "compset": false,
@@ -145,10 +149,10 @@
       "D:/Yellow/git-live-order611-source-v2",
       "E:\\YellowWorkspace\\Worktrees\\git-live-order611-source-v2"
     ],
-    "snapshot_sha": "8db4efcba096fdd638e34e878a697c7411b4e7b5",
-    "tree": "fc3bafe5c183dc58210cfa857b4e99fb297827ea",
+    "snapshot_sha": "b9dc7f99aaf6018103cba9dda484b73e38159ff2",
+    "tree": "a1e3e13800a39178de4804b5af0e3d19eaa2b309",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 172 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 178,
     "sanitized_paths": [
@@ -254,12 +258,14 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-git-live-order611-source-v2-83b1a0bf-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-git-live-order611-source-v2-83b1a0bf-20261005",
+    "local_removal_commit": "aa59a4e52bbe23ce064d2d55f0378693d229dc7a",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-git-live-order611-source-v2-83b1a0bf-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\Documents\\Codex\\2026-08-14\\cl\\outputs\\yellow-order175-folio-responsive-containment",
-    "branch": "grok-review/yellow/wip-yellow-order175-folio-responsive-containment-4b49a215-20261005",
+    "branch": "grok-review/yellow/wip-yellow-order175-folio-responsive-containment-4b49a215-20261005-sanitized-v3",
     "head": "75a2eba1cd34d0512d010bf3f91230ebed4720e7",
     "dirty": true,
     "compset": false,
@@ -270,10 +276,10 @@
       "C:/Users/astha/Documents/Codex/2026-08-14/cl/outputs/yellow-order175-folio-responsive-containment",
       "E:\\YellowWorkspace\\Documents\\Codex\\2026-08-14\\cl\\outputs\\yellow-order175-folio-responsive-containment"
     ],
-    "snapshot_sha": "a9f87dfd0a087b91996051b1a6ea603008d08ac7",
-    "tree": "4d41022cbee6c837e55897ce03865237bb1f01be",
+    "snapshot_sha": "f52cedc403a5b5d9048693016a6091d7a175b10e",
+    "tree": "4a6c64d35060ef03aa299fe9efe5d5bf5d4ee522",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 7 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 166,
     "sanitized_paths": [
@@ -5256,12 +5262,14 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-yellow-order175-folio-responsive-containment-4b49a215-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-yellow-order175-folio-responsive-containment-4b49a215-20261005",
+    "local_removal_commit": "c7d76afa9eceab3539a8c316ce1476ac48878b93",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-yellow-order175-folio-responsive-containment-4b49a215-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\.codex\\worktrees\\yellow-harness-controller\\yellow",
-    "branch": "grok-review/yellow/yellow-cd338898-20261005",
+    "branch": "grok-review/yellow/yellow-cd338898-20261005-sanitized-v3",
     "head": "09d1a02de56380eaee6116f444ccc1816372505c",
     "dirty": false,
     "compset": false,
@@ -5273,10 +5281,10 @@
       "C:/Users/astha/.codex/worktrees/yellow-harness-controller/yellow",
       "E:\\YellowWorkspace\\CodexWorktrees\\yellow-harness-controller\\yellow"
     ],
-    "snapshot_sha": "aaba83953d517c4727ac9354de32d1be8d766e98",
-    "tree": "9c909b1386274aed84d14dabd003e8df72bf4507",
+    "snapshot_sha": "b6e2dea0a2892c6c46b465283a3a1b60e7de2452",
+    "tree": "ee4d57d34ec46970ba7ffdbdec4a811132323b82",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 6 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 5,
     "sanitized_paths": [
@@ -5288,12 +5296,14 @@
       "DECISIONS.log"
     ],
     "push": "NOT_PUSHED",
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/yellow-cd338898-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/yellow-cd338898-20261005",
+    "local_removal_commit": "9079ff9081975dccbf6e4726e9b670ca8a9714ed",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/yellow-cd338898-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\.codex\\worktrees\\pr-repairs\\yellow",
-    "branch": "grok-review/yellow/wip-yellow-6abbab39-20261005",
+    "branch": "grok-review/yellow/wip-yellow-6abbab39-20261005-sanitized-v3",
     "head": "d6e57ff7f91ee5ffb6e51f8e6d748294458afa45",
     "dirty": true,
     "compset": false,
@@ -5306,10 +5316,10 @@
       "C:/Users/astha/.codex/worktrees/pr-repairs/yellow",
       "E:\\YellowWorkspace\\CodexWorktrees\\pr-repairs\\yellow"
     ],
-    "snapshot_sha": "60008dc19a01375c8b208733b1cf6af2c8428ba1",
-    "tree": "83b76aa5972bf24384f5972468d93e129b340d3f",
+    "snapshot_sha": "798a2fcae1bf578164a775c732547c63a5547cff",
+    "tree": "3f6cd548fa15a0a0f9d30cbae637d1bef8cca6ec",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 172 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 170,
     "sanitized_paths": [
@@ -5393,12 +5403,14 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-yellow-6abbab39-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-yellow-6abbab39-20261005",
+    "local_removal_commit": "1da0da246e51c00cc80af9829079f8fd58ff2b7c",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-yellow-6abbab39-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\.codex\\worktrees\\harness-astra-handoff\\yellow",
-    "branch": "grok-review/yellow/yellow-b762f7ca-20261005",
+    "branch": "grok-review/yellow/yellow-b762f7ca-20261005-sanitized-v3",
     "head": "01c9ffa4d35894c29c93bf66556d6c26848a24be",
     "dirty": false,
     "compset": false,
@@ -5412,10 +5424,10 @@
       "C:/Users/astha/.codex/worktrees/harness-astra-handoff/yellow",
       "E:\\YellowWorkspace\\CodexWorktrees\\harness-astra-handoff\\yellow"
     ],
-    "snapshot_sha": "943bef0b475463453f747afe7cef9b11062fd698",
-    "tree": "e0c543e2eeca639f37e704e1634f5c6257c6ba2a",
+    "snapshot_sha": "96ceefbd7141498d61c5ca0ef992312d679972bb",
+    "tree": "9559a6d28d9670c0798162df854a816278865e0d",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 7 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 166,
     "sanitized_paths": [
@@ -5496,12 +5508,14 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/yellow-b762f7ca-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/yellow-b762f7ca-20261005",
+    "local_removal_commit": "6cb2d21a4dab17cdcb5ac3fe1efa7f58a42854bc",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/yellow-b762f7ca-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\.codex\\worktrees\\bnbme-compset\\yellow",
-    "branch": "grok-review/yellow/yellow-bcadcc61-20261005",
+    "branch": "grok-review/yellow/yellow-bcadcc61-20261005-sanitized-v3",
     "head": "57876f9d1760bb1f06fab77dad38631ee31d5784",
     "dirty": false,
     "compset": false,
@@ -5516,10 +5530,10 @@
       "C:/Users/astha/.codex/worktrees/bnbme-compset/yellow",
       "E:\\YellowWorkspace\\CodexWorktrees\\bnbme-compset\\yellow"
     ],
-    "snapshot_sha": "1935054bc2a1fe5ddeb2e210b7fb4a9a9dcc101c",
-    "tree": "bf602f4a9d0941869f4430fd7ff2567e524e21e5",
+    "snapshot_sha": "ac14c48ce4cbb66b64e3bb2077062e283835831b",
+    "tree": "c44ff5dae2b58373db9ce4ce227790cf986f798a",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 6 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 5,
     "sanitized_paths": [
@@ -5531,12 +5545,14 @@
       "DECISIONS.log"
     ],
     "push": "NOT_PUSHED",
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/yellow-bcadcc61-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/yellow-bcadcc61-20261005",
+    "local_removal_commit": "60d55444045e3fcdf580f5f99b227a248956b6e6",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/yellow-bcadcc61-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Documents\\Codex\\2026-08-14\\cl\\outputs\\yellow",
-    "branch": "grok-review/yellow/wip-yellow-a2a8e237-20261005",
+    "branch": "grok-review/yellow/wip-yellow-a2a8e237-20261005-sanitized-v3",
     "head": "57876f9d1760bb1f06fab77dad38631ee31d5784",
     "dirty": true,
     "compset": false,
@@ -5554,10 +5570,10 @@
       "\\\\?\\E:\\YellowWorkspace\\Documents\\Codex\\2026-08-14\\cl\\outputs\\yellow",
       "\\\\?\\C:\\Users\\astha\\Documents\\Codex\\2026-08-14\\cl\\outputs\\yellow"
     ],
-    "snapshot_sha": "beb6b7599ba56862a04d6142a7f83e6edeaae95e",
-    "tree": "506a58687ccf70e30df91895a14bac5ffd2d72f1",
+    "snapshot_sha": "bb729bb76dab158fb4c575ab76f71cfefd08fa06",
+    "tree": "e6806ac46f1a82776fb390d147bdfe1406a86097",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 6 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 13,
     "sanitized_paths": [
@@ -5756,22 +5772,24 @@
       "handoff/orders/485-public-session-credential-binding.md",
       "handoff/reviews/485-public-session-credential-binding.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-yellow-a2a8e237-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-yellow-a2a8e237-20261005",
+    "local_removal_commit": "2c87095b5b41615413c7ccf60970cbc17681146b",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-yellow-a2a8e237-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-1eebbd82",
-    "branch": "grok-review/yellow/wip-runtime-research-flow-1eebbd82-2ce79bcd-20261005",
+    "branch": "grok-review/yellow/wip-runtime-research-flow-1eebbd82-2ce79bcd-20261005-sanitized-v3",
     "head": "1eebbd82d9d3fdf6cb87d6a4685855e1cc619238",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-1eebbd82"
     ],
-    "snapshot_sha": "5079942f701f84b5a9a154450975ab4edd0624aa",
-    "tree": "e8b9707e054d375a66338a1a9be88db0de763b9d",
+    "snapshot_sha": "0d6b6f34691c2cfa875bb8326dd78e9374882e27",
+    "tree": "3d6aca043b0df760d8572db2b634ba309a8cc1cb",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -5872,22 +5890,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-1eebbd82-2ce79bcd-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-research-flow-1eebbd82-2ce79bcd-20261005",
+    "local_removal_commit": "0b7c255c892745bbb93c4d33eecdc7991ecc91aa",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-1eebbd82-2ce79bcd-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-2b096e5f",
-    "branch": "grok-review/yellow/wip-runtime-research-flow-2b096e5f-032c44db-20261005",
+    "branch": "grok-review/yellow/wip-runtime-research-flow-2b096e5f-032c44db-20261005-sanitized-v3",
     "head": "2b096e5f1bf932403a91a4e8f9f135d99465f691",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-2b096e5f"
     ],
-    "snapshot_sha": "e94d809b099b9b7bdc10d0b937b430c9db5e4dce",
-    "tree": "4cc2a94b0d64c4799b4bc22f346fd4aa63f46d3e",
+    "snapshot_sha": "69faadb54d722f8ca44f450a1fdb39f814d621b1",
+    "tree": "fdf8a32b918e681c1775bba66c1409e40d0f1af7",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -5988,22 +6008,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-2b096e5f-032c44db-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-research-flow-2b096e5f-032c44db-20261005",
+    "local_removal_commit": "e84ff0141d6240a7d623553363dffdfdac346c7d",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-2b096e5f-032c44db-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\Recovery\\RESOURCE-20261001\\restore-20261001-proof-v2",
-    "branch": "grok-review/yellow/wip-restore-20261001-proof-v2-15702174-20261005",
+    "branch": "grok-review/yellow/wip-restore-20261001-proof-v2-15702174-20261005-sanitized-v3",
     "head": "e06e400a57485cc10a8a35c21dcb1e01b5a667d1",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\Recovery\\RESOURCE-20261001\\restore-20261001-proof-v2"
     ],
-    "snapshot_sha": "c7a994a536d45196c9b4d166e12a084182d9186e",
-    "tree": "fe16fcf1cd93216e858b9c35201844254b287d3a",
+    "snapshot_sha": "8d45b325d51d365e94afb03e2454eb8f52ff8a8a",
+    "tree": "9a804d6fd8b9db8b98bd143473f7367f891f8446",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 172 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 178,
     "sanitized_paths": [
@@ -6109,22 +6131,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-restore-20261001-proof-v2-15702174-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-restore-20261001-proof-v2-15702174-20261005",
+    "local_removal_commit": "8250ee0ceefc7e9f2b59f6ddbc37ba00ae154fa2",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-restore-20261001-proof-v2-15702174-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\CompSetStudio",
-    "branch": "grok-review/compset/wip-compsetstudio-e8827b49-20261005",
+    "branch": "grok-review/compset/wip-compsetstudio-e8827b49-20261005-sanitized-v3",
     "head": "82f1477b3b062fb861be43be68125f0afaeeeff4",
     "dirty": true,
     "compset": true,
     "aliases": [
       "E:\\YellowWorkspace\\CompSetStudio"
     ],
-    "snapshot_sha": "adaee4d038da6ff13e98f1ca2eb1995bcda4d159",
-    "tree": "5965050da3426d11b679f99b36d8764b55488b21",
+    "snapshot_sha": "6a7fa6102b70f0d12c2e40e713a341af1aeeb4ea",
+    "tree": "00c670451dc4f07b0277a4cc4d35e0f035982397",
     "parent_retained": false,
-    "history_reason": "private CompSet history excluded; secret-free public source copy",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 4,
     "sanitized_paths": [
@@ -6139,22 +6163,24 @@
       "server_stdout.log"
     ],
     "push": "NOT_PUSHED",
-    "url": "https://github.com/dcpnode-maker/compset-studio-review/tree/grok-review/compset/wip-compsetstudio-e8827b49-20261005",
+    "unpublished_prior_branch": "grok-review/compset/wip-compsetstudio-e8827b49-20261005",
+    "local_removal_commit": "0befbc0ed1ae48f454e766ca0acba343abf964dc",
+    "url": "https://github.com/dcpnode-maker/compset-studio-review/tree/grok-review/compset/wip-compsetstudio-e8827b49-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-calendar-0ffb1288",
-    "branch": "grok-review/yellow/wip-runtime-calendar-0ffb1288-6bef9dda-20261005",
+    "branch": "grok-review/yellow/wip-runtime-calendar-0ffb1288-6bef9dda-20261005-sanitized-v3",
     "head": "0ffb1288a9bb6470da2865c83b4f473377d94f04",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-calendar-0ffb1288"
     ],
-    "snapshot_sha": "e0a1c03f465366d182794e021398eacca61c6c28",
-    "tree": "b66be38b15e99e7b7897bab1ba494c78165e7257",
+    "snapshot_sha": "5a4fa1e34e482b03d9963a154cce7877fe1d5fd2",
+    "tree": "fd6ba83908b6bdbf3dbb1f1b3cbeee61f33e9f70",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -6255,22 +6281,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-calendar-0ffb1288-6bef9dda-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-calendar-0ffb1288-6bef9dda-20261005",
+    "local_removal_commit": "bf1d7a159771a71f75f83f6d0e83ceff1ea04d03",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-calendar-0ffb1288-6bef9dda-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-today-65ba856b",
-    "branch": "grok-review/yellow/runtime-today-65ba856b-06eb1d25-20261005",
+    "branch": "grok-review/yellow/runtime-today-65ba856b-06eb1d25-20261005-sanitized-v3",
     "head": "65ba856b02c9071bd65cad83670d20a34e632787",
     "dirty": false,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-today-65ba856b"
     ],
-    "snapshot_sha": "14cb81615033b22575909c7d241df44a7d257dc6",
-    "tree": "0693d3ed8edfe21007c832342848ba8b1c3cfafb",
+    "snapshot_sha": "783a5b8e6653a5fb77878db61d559c0b6646b1b2",
+    "tree": "dee1f3e652e4a2283a2287a96cf012ed3ca4bc8c",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -6358,22 +6386,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/runtime-today-65ba856b-06eb1d25-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/runtime-today-65ba856b-06eb1d25-20261005",
+    "local_removal_commit": "3aec5674d564060cb0dde4aaafa38c7d3772de00",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/runtime-today-65ba856b-06eb1d25-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\yellow-fast-20261005\\crm-tasks",
-    "branch": "grok-review/yellow/wip-crm-tasks-ed8b1f64-20261005",
+    "branch": "grok-review/yellow/wip-crm-tasks-ed8b1f64-20261005-sanitized-v3",
     "head": "3cfa8b3bd6ce5038a4a6947726b80a9bacd26773",
     "dirty": true,
     "compset": false,
     "aliases": [
       "C:\\Users\\astha\\yellow-fast-20261005\\crm-tasks"
     ],
-    "snapshot_sha": "1e4fb8e4b70345395cfc2b6abbc3a72ff1d88421",
-    "tree": "413986326449f9a2bfd2ff6ab4566abcc917c7b6",
+    "snapshot_sha": "2275637d88aedf15ef4668dc8910500bdd5cb4f6",
+    "tree": "f68fd5131323aadedfa53083f51d647753051142",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 178 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 196,
     "sanitized_paths": [
@@ -6576,12 +6606,14 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-crm-tasks-ed8b1f64-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-crm-tasks-ed8b1f64-20261005",
+    "local_removal_commit": "7d1b47d3e474c7e87ca91460acbee6c9980dcf35",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-crm-tasks-ed8b1f64-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\hosting\\public-demo-autologin-patch-v1\\verification-worktree",
-    "branch": "grok-review/yellow/wip-verification-worktree-62cabbd3-20261005",
+    "branch": "grok-review/yellow/wip-verification-worktree-62cabbd3-20261005-sanitized-v3",
     "head": "35d2f1c2f1dfba3c6f6353103bdc91e3526b982b",
     "dirty": true,
     "compset": false,
@@ -6590,10 +6622,10 @@
       "E:/YellowWorkspace/Data/BuildArtifacts/yellow-receiving-build-20261001-v1/hosting/public-demo-autologin-patch-v1/verification-worktree",
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\hosting\\public-demo-autologin-patch-v1\\verification-worktree"
     ],
-    "snapshot_sha": "c35aae682cd11c875d22f9599a68dcd20cf854c0",
-    "tree": "29773c48c32dad4caf55c9dbf7ad125cb472ac59",
+    "snapshot_sha": "99b835f7d7d6fecdbe86860f3daa6d613dd3d423",
+    "tree": "fa802fa7adcb7045258b88df949384f786830506",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 176 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 174,
     "sanitized_paths": [
@@ -6693,22 +6725,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-verification-worktree-62cabbd3-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-verification-worktree-62cabbd3-20261005",
+    "local_removal_commit": "871b90c99e35dbae9182ae45d28012d2784b8a20",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-verification-worktree-62cabbd3-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Documents\\Codex\\yellow-prototype-review-20261002\\journey-v2\\laptop\\housekeeping-shell-composition65-v1\\proof\\package-base",
-    "branch": "grok-review/yellow/wip-package-base-c50efc30-20261005",
+    "branch": "grok-review/yellow/wip-package-base-c50efc30-20261005-sanitized-v3",
     "head": "HEAD",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Documents\\Codex\\yellow-prototype-review-20261002\\journey-v2\\laptop\\housekeeping-shell-composition65-v1\\proof\\package-base"
     ],
-    "snapshot_sha": "f9db84ce5652b6a58ee1bfe9ba7c487bffaec636",
-    "tree": "3f9cfda764b62fe6c1705e0da242e7e60029df9e",
+    "snapshot_sha": "801f9171851f68dd2bf4a5efb1026edd8cd0d7c8",
+    "tree": "3088970addf85cf6d58cd1ac3b040342b22fb22a",
     "parent_retained": false,
-    "history_reason": "unborn source fragment",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 176,
     "sanitized_paths": [
@@ -6797,22 +6831,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-package-base-c50efc30-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-package-base-c50efc30-20261005",
+    "local_removal_commit": "6d6221bec627bc544faa6eab7eedf9f175775d2c",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-package-base-c50efc30-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\yellow-recovery-20261004\\order72-onto69-candidate",
-    "branch": "grok-review/yellow/order72-onto69-candidate-e3bbd030-20261005",
+    "branch": "grok-review/yellow/order72-onto69-candidate-e3bbd030-20261005-sanitized-v3",
     "head": "2b096e5f1bf932403a91a4e8f9f135d99465f691",
     "dirty": false,
     "compset": false,
     "aliases": [
       "C:\\Users\\astha\\yellow-recovery-20261004\\order72-onto69-candidate"
     ],
-    "snapshot_sha": "a6c73a4a22f7353393fb85bc64cb2eb0c78ad960",
-    "tree": "0f6718362c979260554917b4cd674cc2df4f9b74",
+    "snapshot_sha": "631dffcf86593b31b341bd7829d6fb1e514be5af",
+    "tree": "68cac70c545f9fcb00539d514fa1c6487e08591f",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -6900,12 +6936,14 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/order72-onto69-candidate-e3bbd030-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/order72-onto69-candidate-e3bbd030-20261005",
+    "local_removal_commit": "d096cf4673df46edbea5a65986c339818a7fd6bc",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/order72-onto69-candidate-e3bbd030-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\yellow-recovery-20261004\\runtimes\\3cfa8b3bd6ce5038a4a6947726b80a9bacd26773",
-    "branch": "grok-review/yellow/wip-3cfa8b3bd6ce5038a4a6947726b80a9bacd26773-4a9ab3d8-20261005",
+    "branch": "grok-review/yellow/wip-3cfa8b3bd6ce5038a4a6947726b80a9bacd26773-4a9ab3d8-20261005-sanitized-v3",
     "head": "3cfa8b3bd6ce5038a4a6947726b80a9bacd26773",
     "dirty": true,
     "compset": false,
@@ -6913,10 +6951,10 @@
       "C:/Users/astha/yellow-recovery-20261004/runtimes/3cfa8b3bd6ce5038a4a6947726b80a9bacd26773",
       "C:\\Users\\astha\\yellow-recovery-20261004\\runtimes\\3cfa8b3bd6ce5038a4a6947726b80a9bacd26773"
     ],
-    "snapshot_sha": "b3bce77e7a5cb514b79e062178ae72423d22f6f2",
-    "tree": "3b74c8f22d51ea359b1bdaf0711856f714af2ed1",
+    "snapshot_sha": "1c207178659d95f0afd383d5abae2a0c9cc4438c",
+    "tree": "540a36d91eb831ced6af1d07ad06086d9b2de173",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 178 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 176,
     "sanitized_paths": [
@@ -7005,12 +7043,14 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-3cfa8b3bd6ce5038a4a6947726b80a9bacd26773-4a9ab3d8-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-3cfa8b3bd6ce5038a4a6947726b80a9bacd26773-4a9ab3d8-20261005",
+    "local_removal_commit": "5746cf38b6843caf009d288efebf33d0e9aede11",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-3cfa8b3bd6ce5038a4a6947726b80a9bacd26773-4a9ab3d8-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\yellow-recovery-20261004\\order72-onto69-candidate-final",
-    "branch": "grok-review/yellow/wip-order72-onto69-candidate-final-e72bd59d-20261005",
+    "branch": "grok-review/yellow/wip-order72-onto69-candidate-final-e72bd59d-20261005-sanitized-v3",
     "head": "3cfa8b3bd6ce5038a4a6947726b80a9bacd26773",
     "dirty": true,
     "compset": false,
@@ -7019,10 +7059,10 @@
       "C:/Users/astha/yellow-recovery-20261004/order72-onto69-candidate-final",
       "C:\\Users\\astha\\yellow-recovery-20261004\\order72-onto69-candidate-final"
     ],
-    "snapshot_sha": "5f6310440e6c2adefa07bb16950752d07f8f4f4e",
-    "tree": "9e5bac41cfdc4e5e5e09c61f7ff5914037d77da1",
+    "snapshot_sha": "3424ef56a90710380cc1b85b9886829cea35ad42",
+    "tree": "c69f7b8def902a7bd6f8c0960635a158f694d5e9",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 178 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 186,
     "sanitized_paths": [
@@ -7218,12 +7258,14 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-order72-onto69-candidate-final-e72bd59d-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-order72-onto69-candidate-final-e72bd59d-20261005",
+    "local_removal_commit": "8760a895726bc25fe1a77ff8828c3e5603743727",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-order72-onto69-candidate-final-e72bd59d-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\yellow-fast-20261005\\calendar-values",
-    "branch": "grok-review/yellow/calendar-values-82ec8c66-20261005",
+    "branch": "grok-review/yellow/calendar-values-82ec8c66-20261005-sanitized-v3",
     "head": "ccea8de907bef7268e4168c418afd98fdf452095",
     "dirty": false,
     "compset": false,
@@ -7233,10 +7275,10 @@
       "C:/Users/astha/yellow-fast-20261005/calendar-values",
       "C:\\Users\\astha\\yellow-fast-20261005\\calendar-values"
     ],
-    "snapshot_sha": "cbeef30467068ee30879a335843243b70595d18a",
-    "tree": "fd1f4c0d3c94a7e1919b95fc22b085a612ffd434",
+    "snapshot_sha": "b758bf7dcd7385475965ecb39a0fb1769ab95279",
+    "tree": "5e0ad8b6e80b0ac68d21dcf67a183d781b926b85",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 178 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 176,
     "sanitized_paths": [
@@ -7325,12 +7367,14 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/calendar-values-82ec8c66-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/calendar-values-82ec8c66-20261005",
+    "local_removal_commit": "cc44208a94748ba29e49e33799449614b8587313",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/calendar-values-82ec8c66-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\yellow-recovery-20261004\\order72-laptop-review",
-    "branch": "grok-review/yellow/wip-order72-laptop-review-b1f4f321-20261005",
+    "branch": "grok-review/yellow/wip-order72-laptop-review-b1f4f321-20261005-sanitized-v3",
     "head": "2b096e5f1bf932403a91a4e8f9f135d99465f691",
     "dirty": true,
     "compset": false,
@@ -7341,10 +7385,10 @@
       "C:/Users/astha/yellow-recovery-20261004/order72-laptop-review",
       "C:\\Users\\astha\\yellow-recovery-20261004\\order72-laptop-review"
     ],
-    "snapshot_sha": "b5ad51e3943b19f9700aaa8d7bd9dd0fca11a1b2",
-    "tree": "044adb7a6cc425ff57e38ff43995e93ec0d9a953",
+    "snapshot_sha": "ba987cda399f2f510b3ad46b0c809f088119c4c6",
+    "tree": "fd7c4653784dbdc2bacc731f821556bcbd926f47",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -7432,22 +7476,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-order72-laptop-review-b1f4f321-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-order72-laptop-review-b1f4f321-20261005",
+    "local_removal_commit": "8dffa5982588ca69e2766fc56057da0ee46722de",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-order72-laptop-review-b1f4f321-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\yellow-fast-20261005\\stay-billing",
-    "branch": "grok-review/yellow/wip-stay-billing-289fbe1b-20261005",
+    "branch": "grok-review/yellow/wip-stay-billing-289fbe1b-20261005-sanitized-v3",
     "head": "3cfa8b3bd6ce5038a4a6947726b80a9bacd26773",
     "dirty": true,
     "compset": false,
     "aliases": [
       "C:\\Users\\astha\\yellow-fast-20261005\\stay-billing"
     ],
-    "snapshot_sha": "6e7dd5cfa96890f6b3940134a4071d653c0c5ac6",
-    "tree": "d0f010ee301aab9eb6bd26cd0d3bae437fc747f4",
+    "snapshot_sha": "713562dfd70499c0a79bb7d1605f748e39b48a58",
+    "tree": "78c0ec19f34f84d0b1bde0c2d4a2255e7b34c17f",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 178 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 176,
     "sanitized_paths": [
@@ -7536,22 +7582,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-stay-billing-289fbe1b-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-stay-billing-289fbe1b-20261005",
+    "local_removal_commit": "9c7f0ac84609bc62781b33ffb7cc6c91157fe70e",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-stay-billing-289fbe1b-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-today-v3-eb05ba83",
-    "branch": "grok-review/yellow/wip-runtime-today-v3-eb05ba83-26108f78-20261005",
+    "branch": "grok-review/yellow/wip-runtime-today-v3-eb05ba83-26108f78-20261005-sanitized-v3",
     "head": "eb05ba83ec41664eff0834d98a293fb58e5bb955",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-today-v3-eb05ba83"
     ],
-    "snapshot_sha": "40d68f2b919f6110e8875c92a9f103e807061c1c",
-    "tree": "cd2641de2486defda5dcb571454e2b104ee35c61",
+    "snapshot_sha": "c2607bf26c796704269ab3fb2ab837ec83c347c4",
+    "tree": "aec782149ce56e5777012fbc51b1dae579e64d40",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -7652,22 +7700,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-today-v3-eb05ba83-26108f78-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-today-v3-eb05ba83-26108f78-20261005",
+    "local_removal_commit": "0e93c0851ca0ab7f8ed25b74c6418b7c49a1d602",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-today-v3-eb05ba83-26108f78-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\Recovery\\RESOURCE-20261001\\receiving-5f087ef1-v2\\actual-source-restore",
-    "branch": "grok-review/yellow/wip-actual-source-restore-86908aab-20261005",
+    "branch": "grok-review/yellow/wip-actual-source-restore-86908aab-20261005-sanitized-v3",
     "head": "5f087ef1fd9987c45c6aa10eadc6ce63fc79e926",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\Recovery\\RESOURCE-20261001\\receiving-5f087ef1-v2\\actual-source-restore"
     ],
-    "snapshot_sha": "4ffa98f0881c5a159f73024bebf5541eb03c7cc9",
-    "tree": "dbd50add991b3a0f33bf08f2d80d8259dcdc41e2",
+    "snapshot_sha": "63b23d5097aadfbe061a0654f6b56441fdf9ceb2",
+    "tree": "cf7ab53a8bf96b38fc221574a73ee5de1be48c84",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 175 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 173,
     "sanitized_paths": [
@@ -7753,22 +7803,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-actual-source-restore-86908aab-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-actual-source-restore-86908aab-20261005",
+    "local_removal_commit": "99c2a60fba3579eefc537b8f1ea4a5b0743217eb",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-actual-source-restore-86908aab-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-8bd09c25",
-    "branch": "grok-review/yellow/wip-runtime-research-flow-8bd09c25-964d27f3-20261005",
+    "branch": "grok-review/yellow/wip-runtime-research-flow-8bd09c25-964d27f3-20261005-sanitized-v3",
     "head": "8bd09c25bb73083aebaab62d68ea464d838258aa",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-8bd09c25"
     ],
-    "snapshot_sha": "a7876f3892f2e8faad73dac84d21b487829e72aa",
-    "tree": "bc5d648a17e186a10c0d2d9c6451a0646c04a285",
+    "snapshot_sha": "71e75998101dfc3699f8e087da407b38023a6e29",
+    "tree": "00c50d42eb43ebf01ef660b017fe7bee945f8491",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -7869,22 +7921,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-8bd09c25-964d27f3-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-research-flow-8bd09c25-964d27f3-20261005",
+    "local_removal_commit": "f49e8591058c32a8f524cfb11f475349227c9264",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-8bd09c25-964d27f3-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-9438906c",
-    "branch": "grok-review/yellow/wip-runtime-research-flow-9438906c-f842dc3e-20261005",
+    "branch": "grok-review/yellow/wip-runtime-research-flow-9438906c-f842dc3e-20261005-sanitized-v3",
     "head": "9438906c4b8920652d72281daa25e86e9c71bd9d",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-9438906c"
     ],
-    "snapshot_sha": "42879f08aaccdf2256e061bee49cdaeb03e8942a",
-    "tree": "88813f2cde7aea167534ba17150329774abfe2e5",
+    "snapshot_sha": "d854018942eede7cd16704ae1a333aa947664ea2",
+    "tree": "9ec82b82b0138727c6c1e514d1aafffe3bccd3ba",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -7985,22 +8039,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-9438906c-f842dc3e-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-research-flow-9438906c-f842dc3e-20261005",
+    "local_removal_commit": "17e04f3f0eaa030c40590faecdb228f088e9a946",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-9438906c-f842dc3e-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-5d855ba5",
-    "branch": "grok-review/yellow/wip-runtime-research-flow-5d855ba5-eed5b0b4-20261005",
+    "branch": "grok-review/yellow/wip-runtime-research-flow-5d855ba5-eed5b0b4-20261005-sanitized-v3",
     "head": "5d855ba570636b1821bff385c905fa2ab4f21c24",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-5d855ba5"
     ],
-    "snapshot_sha": "3badeb7d605d11150c80bf2a3bea0abc7fd02ea0",
-    "tree": "0c117f1ed2171741d09e2973ecfa2d8942fd58dc",
+    "snapshot_sha": "172d4b78eb5db0cac35d20ae70c2fc8ad212b108",
+    "tree": "7bbf5a37cf925b98e7b2850e6cc5a86771143165",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -8101,22 +8157,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-5d855ba5-eed5b0b4-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-research-flow-5d855ba5-eed5b0b4-20261005",
+    "local_removal_commit": "e3e1c85c8d403748a05537545916ab4566706b62",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-5d855ba5-eed5b0b4-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-preview-e27da80e",
-    "branch": "grok-review/yellow/wip-runtime-preview-e27da80e-87ee9cf4-20261005",
+    "branch": "grok-review/yellow/wip-runtime-preview-e27da80e-87ee9cf4-20261005-sanitized-v3",
     "head": "e27da80e2e4a55dc653f455adc7b2d271253d20b",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-preview-e27da80e"
     ],
-    "snapshot_sha": "936a1869090b92e9daffdde51fcac38d22481b34",
-    "tree": "f86d8100c7b53078df0e26c57029ca5820911cde",
+    "snapshot_sha": "5e6fe7a3746f55bd52f5deff3442480b8a6ef398",
+    "tree": "cec7edd56ea8492d7e48c4293ae1c80f7d9e6a65",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 176 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 174,
     "sanitized_paths": [
@@ -8216,22 +8274,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-preview-e27da80e-87ee9cf4-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-preview-e27da80e-87ee9cf4-20261005",
+    "local_removal_commit": "bf06ee414625d0f3ce4f7419dda422deda047842",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-preview-e27da80e-87ee9cf4-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-bdc721b2",
-    "branch": "grok-review/yellow/wip-runtime-research-flow-bdc721b2-4b8fb8e6-20261005",
+    "branch": "grok-review/yellow/wip-runtime-research-flow-bdc721b2-4b8fb8e6-20261005-sanitized-v3",
     "head": "bdc721b26d2811afeff902d537e13761c1212434",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-bdc721b2"
     ],
-    "snapshot_sha": "41e1b9307dab3e974b3920026987083eb46dffa0",
-    "tree": "1188d894a195560d814bd2900f00192e94df8173",
+    "snapshot_sha": "76b8b753c40049e47ec52b93e186c078e973dc93",
+    "tree": "a9fa6ee54e7b9a84b13e5598347c5b4d4b64dcfd",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -8332,43 +8392,47 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-bdc721b2-4b8fb8e6-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-research-flow-bdc721b2-4b8fb8e6-20261005",
+    "local_removal_commit": "be26c2cdcfd03fe46e434f2ab9ff41a24c6dcded",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-bdc721b2-4b8fb8e6-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "D:\\Yellow\\temp\\order745\\workspace",
-    "branch": "grok-review/yellow/wip-workspace-058b762b-20261005",
+    "branch": "grok-review/yellow/wip-workspace-058b762b-20261005-sanitized-v3",
     "head": "HEAD",
     "dirty": true,
     "compset": false,
     "aliases": [
       "D:\\Yellow\\temp\\order745\\workspace"
     ],
-    "snapshot_sha": "5748d681a8f233f45f4b9cb0d2dd3a50daf1fc07",
-    "tree": "9a42066c849698437d98de234e7fee1c9a60be67",
+    "snapshot_sha": "69ca96c328aa9e0eefa18b4eeeeec28c48c7e1e4",
+    "tree": "8595dca52ab23950778fc70194481a577b2ab5c6",
     "parent_retained": false,
-    "history_reason": "unborn source fragment",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 0,
     "sanitized_paths": [],
     "excluded_paths": [],
     "push": "NOT_PUSHED",
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-workspace-058b762b-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-workspace-058b762b-20261005",
+    "local_removal_commit": "44f614ef398ce62a74472f582eb82bd08b93c4c0",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-workspace-058b762b-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-312d4f46",
-    "branch": "grok-review/yellow/wip-runtime-research-flow-312d4f46-a69955ea-20261005",
+    "branch": "grok-review/yellow/wip-runtime-research-flow-312d4f46-a69955ea-20261005-sanitized-v3",
     "head": "312d4f46384fc90accc78506d846631133524025",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-312d4f46"
     ],
-    "snapshot_sha": "218ab4a2504c77512b249e07b4fea5c5cdb0b3ca",
-    "tree": "7ace3bb74d6122959e84acdf6ae14ce822c032e4",
+    "snapshot_sha": "be385be4f8c032f69c25c2a725b6d7b4f87218e5",
+    "tree": "03522d8c15cf9f86dda3ff620c765b61bc47c970",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -8469,22 +8533,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-312d4f46-a69955ea-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-research-flow-312d4f46-a69955ea-20261005",
+    "local_removal_commit": "fbb2f3846b81ef1e10cc1b220fab0596fefdf423",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-312d4f46-a69955ea-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-browser-session-3039ac",
-    "branch": "grok-review/yellow/wip-runtime-browser-session-3039ac-2c9c9ad0-20261005",
+    "branch": "grok-review/yellow/wip-runtime-browser-session-3039ac-2c9c9ad0-20261005-sanitized-v3",
     "head": "3039ac9345503b2e0aec07759d5686493b3ff3c7",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-browser-session-3039ac"
     ],
-    "snapshot_sha": "521f9ab0f0d6ec32610cb78d4d3c843fd9ea645e",
-    "tree": "39bdbfc7cb83f49c28b3851f5b91277b5642da25",
+    "snapshot_sha": "cedd7f1eaeb3e6850a69189cd818dcb354ed33f0",
+    "tree": "8b5796c2c349cf2379769915cd3944379169906b",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 176 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 174,
     "sanitized_paths": [
@@ -8584,22 +8650,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-browser-session-3039ac-2c9c9ad0-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-browser-session-3039ac-2c9c9ad0-20261005",
+    "local_removal_commit": "ed1167103082adfa266bda469cc0474b2403c547",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-browser-session-3039ac-2c9c9ad0-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-6f315712",
-    "branch": "grok-review/yellow/wip-runtime-research-flow-6f315712-bb6e7010-20261005",
+    "branch": "grok-review/yellow/wip-runtime-research-flow-6f315712-bb6e7010-20261005-sanitized-v3",
     "head": "6f3157126a3e353f931c288b3f5365b0152aed78",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-6f315712"
     ],
-    "snapshot_sha": "ae52384ef65b2e71fbdfcef3539263ddfea3d180",
-    "tree": "81ba5c811f6c01963450e23cec88b6bb8112be00",
+    "snapshot_sha": "7f432762e60b29074de058665b68adcb10778d0e",
+    "tree": "1fc06d2469b05f6d61a0484dda83f7f088277aa7",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -8700,22 +8768,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-6f315712-bb6e7010-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-research-flow-6f315712-bb6e7010-20261005",
+    "local_removal_commit": "7f1c3e46a381af22547cc998f85050cc52ab63e3",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-6f315712-bb6e7010-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\Recovery\\RESOURCE-20261001\\restore-hk-20261001T111103Z-0539999111",
-    "branch": "grok-review/yellow/wip-restore-hk-20261001t111103z-0539999111-fa86d407-20261005",
+    "branch": "grok-review/yellow/wip-restore-hk-20261001t111103z-0539999111-fa86d407-20261005-sanitized-v3",
     "head": "e06e400a57485cc10a8a35c21dcb1e01b5a667d1",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\Recovery\\RESOURCE-20261001\\restore-hk-20261001T111103Z-0539999111"
     ],
-    "snapshot_sha": "94728b0bc1b311d2e0c4ca28941528eb23cd60ff",
-    "tree": "f6790f895834facc624170b62f19db6d075e6671",
+    "snapshot_sha": "0d04f80397278b4d16173e4c2154504557024ce9",
+    "tree": "c0927869ceb9732e6ef63ace4921359b9e9529cd",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 172 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 178,
     "sanitized_paths": [
@@ -8821,22 +8891,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-restore-hk-20261001t111103z-0539999111-fa86d407-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-restore-hk-20261001t111103z-0539999111-fa86d407-20261005",
+    "local_removal_commit": "30f2586edfae7d6292a85371bfbc076b683a9f09",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-restore-hk-20261001t111103z-0539999111-fa86d407-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Documents\\Codex\\yellow-prototype-review-20261002\\journey-v2\\laptop\\shell-layout62-v1\\proof\\package-base",
-    "branch": "grok-review/yellow/wip-package-base-a45967f9-20261005",
+    "branch": "grok-review/yellow/wip-package-base-a45967f9-20261005-sanitized-v3",
     "head": "HEAD",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Documents\\Codex\\yellow-prototype-review-20261002\\journey-v2\\laptop\\shell-layout62-v1\\proof\\package-base"
     ],
-    "snapshot_sha": "d7bb0b71436898714c7585f864b69245202ccb72",
-    "tree": "4ebc3cc82b00efd54537f82c2dc99960ff8855e4",
+    "snapshot_sha": "254261aa059bc9b3b76ca7b248d9a206cf09d77f",
+    "tree": "e0fd91f92882c5c6986608eff4f6ab72e741eef6",
     "parent_retained": false,
-    "history_reason": "unborn source fragment",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -8924,22 +8996,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-package-base-a45967f9-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-package-base-a45967f9-20261005",
+    "local_removal_commit": "5a34cb6d5fefc66367d5aa0131000b01c47bfef4",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-package-base-a45967f9-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\hosting\\public-demo-autologin-independent-review\\workspace",
-    "branch": "grok-review/yellow/wip-workspace-1fe869d1-20261005",
+    "branch": "grok-review/yellow/wip-workspace-1fe869d1-20261005-sanitized-v3",
     "head": "35d2f1c2f1dfba3c6f6353103bdc91e3526b982b",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\hosting\\public-demo-autologin-independent-review\\workspace"
     ],
-    "snapshot_sha": "11d4d6fd8ec4f21ec7bf9ac2109ad26e5ddb1ac3",
-    "tree": "8e1b52cf194ce9779cb17aab07640c88b89407a3",
+    "snapshot_sha": "1c4b4f50cdaee365ff929142169d270e1a95bdde",
+    "tree": "dcb24a750ddecec397d4ecfb998ee60c188e50c3",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 176 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 174,
     "sanitized_paths": [
@@ -9026,22 +9100,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-workspace-1fe869d1-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-workspace-1fe869d1-20261005",
+    "local_removal_commit": "89f6a058ca169cc009917c081f37d87889c70a81",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-workspace-1fe869d1-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Documents\\Codex\\yellow-prototype-review-20261002\\journey-v2\\laptop\\housekeeping-shell-composition65-v1\\proof\\package-base-v2",
-    "branch": "grok-review/yellow/wip-package-base-v2-3bca38a1-20261005",
+    "branch": "grok-review/yellow/wip-package-base-v2-3bca38a1-20261005-sanitized-v3",
     "head": "HEAD",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Documents\\Codex\\yellow-prototype-review-20261002\\journey-v2\\laptop\\housekeeping-shell-composition65-v1\\proof\\package-base-v2"
     ],
-    "snapshot_sha": "79fcef180957fe6909a0e69b5691d166bf3358bb",
-    "tree": "3f9cfda764b62fe6c1705e0da242e7e60029df9e",
+    "snapshot_sha": "12063d9468e848b68b5974261eebc9d415a38d53",
+    "tree": "3088970addf85cf6d58cd1ac3b040342b22fb22a",
     "parent_retained": false,
-    "history_reason": "unborn source fragment",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 176,
     "sanitized_paths": [
@@ -9130,22 +9206,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-package-base-v2-3bca38a1-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-package-base-v2-3bca38a1-20261005",
+    "local_removal_commit": "4fc4e8e5c0444b3c493fcf48a3875d9071857b3f",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-package-base-v2-3bca38a1-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-c1b7c2b8",
-    "branch": "grok-review/yellow/wip-runtime-research-flow-c1b7c2b8-338e4921-20261005",
+    "branch": "grok-review/yellow/wip-runtime-research-flow-c1b7c2b8-338e4921-20261005-sanitized-v3",
     "head": "c1b7c2b80a103b53d29d175e8087776f3cdd776e",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-c1b7c2b8"
     ],
-    "snapshot_sha": "529235c3e8c573dcb6e1c57f954688f809e33d19",
-    "tree": "925b301a933a861a5c1c68c7f21d1d7052230a53",
+    "snapshot_sha": "9ba7aed9fc533f7b52e191ac858e1109065d133e",
+    "tree": "08590e2de1acb46a45e093f9fb925bb6627ba1dd",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -9246,22 +9324,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-c1b7c2b8-338e4921-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-research-flow-c1b7c2b8-338e4921-20261005",
+    "local_removal_commit": "f72e2b9d8e46d7970656499a65b137062a074e3d",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-c1b7c2b8-338e4921-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\Recovery\\RESOURCE-20261001\\restore-20261001-source-proof",
-    "branch": "grok-review/yellow/wip-restore-20261001-source-proof-96b7345f-20261005",
+    "branch": "grok-review/yellow/wip-restore-20261001-source-proof-96b7345f-20261005-sanitized-v3",
     "head": "e06e400a57485cc10a8a35c21dcb1e01b5a667d1",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\Recovery\\RESOURCE-20261001\\restore-20261001-source-proof"
     ],
-    "snapshot_sha": "cfe5b5cb01cbd696d0b62b8f3d8f41ee22390d4e",
-    "tree": "d65940755afbab22b4f6dd12359dc65b28e9e482",
+    "snapshot_sha": "7d25dd84b0c8918181a3716af4e98087618d76d7",
+    "tree": "5c925b04f916ea16a926546b1aa6daa960e9b8a7",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 172 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 178,
     "sanitized_paths": [
@@ -9367,22 +9447,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-restore-20261001-source-proof-96b7345f-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-restore-20261001-source-proof-96b7345f-20261005",
+    "local_removal_commit": "1d23c7b9060bb954c08c19b9065a49ecf82cfb05",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-restore-20261001-source-proof-96b7345f-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-today-v2-65ba856b",
-    "branch": "grok-review/yellow/wip-runtime-today-v2-65ba856b-ab03afb7-20261005",
+    "branch": "grok-review/yellow/wip-runtime-today-v2-65ba856b-ab03afb7-20261005-sanitized-v3",
     "head": "65ba856b02c9071bd65cad83670d20a34e632787",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-today-v2-65ba856b"
     ],
-    "snapshot_sha": "bc4e5ff9ffddc3620730ec10e0be221a9f814faa",
-    "tree": "0ff329adc51b909565fa8172712c58b50bf2a652",
+    "snapshot_sha": "eba2fb2e62d1499d42c0c542438488398902d0bd",
+    "tree": "6b64eee7a488fb24e58d8b0432e68f3a4fd42e8a",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -9483,22 +9565,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-today-v2-65ba856b-ab03afb7-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-today-v2-65ba856b-ab03afb7-20261005",
+    "local_removal_commit": "bbd48f396d5b052de5a6181df50baf3c8354a020",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-today-v2-65ba856b-ab03afb7-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-staff-modules-a22290e4",
-    "branch": "grok-review/yellow/wip-runtime-staff-modules-a22290e4-deb9639e-20261005",
+    "branch": "grok-review/yellow/wip-runtime-staff-modules-a22290e4-deb9639e-20261005-sanitized-v3",
     "head": "a22290e42c481651efc9fb65e54ab78b32c28817",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-staff-modules-a22290e4"
     ],
-    "snapshot_sha": "3cde27d5c9f24dbd5d936ee3bfa854540ce4b840",
-    "tree": "7e1dce64b210361b9f87825e5509bafcd200ed34",
+    "snapshot_sha": "be1022a2a4711ab4222f51ccd61d7d901b72730c",
+    "tree": "e5cc2a03b310fad04826442d87d4ebffc979a13a",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 176 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 174,
     "sanitized_paths": [
@@ -9598,22 +9682,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-staff-modules-a22290e4-deb9639e-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-staff-modules-a22290e4-deb9639e-20261005",
+    "local_removal_commit": "92025b8a496873c0dabce06a216727807220ec2e",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-staff-modules-a22290e4-deb9639e-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-navigation-93bf7f94",
-    "branch": "grok-review/yellow/wip-runtime-navigation-93bf7f94-80cd818d-20261005",
+    "branch": "grok-review/yellow/wip-runtime-navigation-93bf7f94-80cd818d-20261005-sanitized-v3",
     "head": "93bf7f94ce36bbe67404853661ed40f641b5db01",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-navigation-93bf7f94"
     ],
-    "snapshot_sha": "54390631a28a2c22e06e6826af15a27bf41f2055",
-    "tree": "110bd60d4b8878de7a3519710bbb14b4e95d7da8",
+    "snapshot_sha": "3584f02784d73b59f81134d6d6daddca23b48f62",
+    "tree": "bc35ead0d1084d8f569632d262f21983d680816e",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 176 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 174,
     "sanitized_paths": [
@@ -9713,22 +9799,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-navigation-93bf7f94-80cd818d-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-navigation-93bf7f94-80cd818d-20261005",
+    "local_removal_commit": "14f840b38effc7c658e4143493e856bbb1c17994",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-navigation-93bf7f94-80cd818d-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\compset-cloud-handoff-20261003-v1\\source",
-    "branch": "grok-review/compset/source-d84d8c76-20261005",
+    "branch": "grok-review/compset/source-d84d8c76-20261005-sanitized-v3",
     "head": "098190f6f5105be03907610b2979982193643223",
     "dirty": false,
     "compset": true,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\compset-cloud-handoff-20261003-v1\\source"
     ],
-    "snapshot_sha": "83ba1ed99a4466d508cb37bd06be5f0c206d1c36",
-    "tree": "d06dcc753a24271436f215d38fec5f5149906fc6",
+    "snapshot_sha": "0dea873a2549f9aadb5ee47662cf6b79abd242f5",
+    "tree": "e302ee8cb4a9a10084eff48c2edba93ea68bd3b6",
     "parent_retained": false,
-    "history_reason": "private CompSet history excluded; secret-free public source copy",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 2,
     "sanitized_paths": [
@@ -9737,22 +9825,24 @@
     ],
     "excluded_paths": [],
     "push": "NOT_PUSHED",
-    "url": "https://github.com/dcpnode-maker/compset-studio-review/tree/grok-review/compset/source-d84d8c76-20261005",
+    "unpublished_prior_branch": "grok-review/compset/source-d84d8c76-20261005",
+    "local_removal_commit": "18de72f9ecf79d6a4005fc064f51c911f6588a78",
+    "url": "https://github.com/dcpnode-maker/compset-studio-review/tree/grok-review/compset/source-d84d8c76-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-reference-ui-326e80",
-    "branch": "grok-review/yellow/wip-runtime-reference-ui-326e80-cf05a827-20261005",
+    "branch": "grok-review/yellow/wip-runtime-reference-ui-326e80-cf05a827-20261005-sanitized-v3",
     "head": "326e80c8d936362059496e2aa41d28651a05e386",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-reference-ui-326e80"
     ],
-    "snapshot_sha": "40959d6850ca711c161039b11cce829eb93575ea",
-    "tree": "0151b2cbb249f9b56a52b61e0f1120f07509a7bb",
+    "snapshot_sha": "a238c1ef8cc782d3e649412bd8352fecf586f5cd",
+    "tree": "79d58e22bddc86029399aeeac792ac34c9287dfb",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 176 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 174,
     "sanitized_paths": [
@@ -9852,22 +9942,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-reference-ui-326e80-cf05a827-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-reference-ui-326e80-cf05a827-20261005",
+    "local_removal_commit": "f8eec4d355199fe69777f2742804012cb1169c61",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-reference-ui-326e80-cf05a827-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\Recovery\\RESOURCE-20261001\\receiving-b9ba702a\\actual-source-restore",
-    "branch": "grok-review/yellow/wip-actual-source-restore-1bbd97eb-20261005",
+    "branch": "grok-review/yellow/wip-actual-source-restore-1bbd97eb-20261005-sanitized-v3",
     "head": "b9ba702a074a487feeafa056abb49abcdcf01ba8",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\Recovery\\RESOURCE-20261001\\receiving-b9ba702a\\actual-source-restore"
     ],
-    "snapshot_sha": "a7f47100f33472e901b8cfc14d556532bdf1c5e0",
-    "tree": "7b26f69fb25f1e6cdf872b05a0cb45dcffd77380",
+    "snapshot_sha": "3fee4ecbd059d0d218c2f6db87bc6ab5b38bbf9a",
+    "tree": "69ca82851009a901aa4c0ff3bf5d9f20f56c8c32",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 175 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 173,
     "sanitized_paths": [
@@ -9953,43 +10045,47 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-actual-source-restore-1bbd97eb-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-actual-source-restore-1bbd97eb-20261005",
+    "local_removal_commit": "2de1ba036d0c725096a0e72e33c2d2117cf40980",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-actual-source-restore-1bbd97eb-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Documents\\Codex\\yellow-prototype-review-20261002\\journey-v2\\11r\\original-reservation-journey54-v1\\patch-staging",
-    "branch": "grok-review/yellow/wip-patch-staging-4f8b58f8-20261005",
+    "branch": "grok-review/yellow/wip-patch-staging-4f8b58f8-20261005-sanitized-v3",
     "head": "HEAD",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Documents\\Codex\\yellow-prototype-review-20261002\\journey-v2\\11r\\original-reservation-journey54-v1\\patch-staging"
     ],
-    "snapshot_sha": "4bd0804479d732dd4b235f09d2af2034965141ba",
-    "tree": "4c70ae36b0c021bd12e5c8b1920f4c826a49aef5",
+    "snapshot_sha": "a8f9505949c33f85aa3b6dd814d6bbce45c49de5",
+    "tree": "c7ad64922a23ba0c4f7e27a65ea2fa2858c97571",
     "parent_retained": false,
-    "history_reason": "unborn source fragment",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 0,
     "sanitized_paths": [],
     "excluded_paths": [],
     "push": "NOT_PUSHED",
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-patch-staging-4f8b58f8-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-patch-staging-4f8b58f8-20261005",
+    "local_removal_commit": "9933fc08f8660c1c45b79c88a2bdc4c3cf8902a1",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-patch-staging-4f8b58f8-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-c2ba896a",
-    "branch": "grok-review/yellow/wip-runtime-research-flow-c2ba896a-a0be730d-20261005",
+    "branch": "grok-review/yellow/wip-runtime-research-flow-c2ba896a-a0be730d-20261005-sanitized-v3",
     "head": "c2ba896ab52c34d69617c209a7ad31c630c33a98",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-research-flow-c2ba896a"
     ],
-    "snapshot_sha": "4677f19bcf4856a3d036e59f0e3a872165b6e4bf",
-    "tree": "e2b97fdb3c5b6962155933094c7e3d6e9e0efe1c",
+    "snapshot_sha": "676656570399d2b26a86257671e84c14ea2d627d",
+    "tree": "d3ae24425938f0fdc76240f277e1fefd4454608f",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 177 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 175,
     "sanitized_paths": [
@@ -10090,22 +10186,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-c2ba896a-a0be730d-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-research-flow-c2ba896a-a0be730d-20261005",
+    "local_removal_commit": "5abc209a63ed1d7e4a11cbeba250dc7b284886f5",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-research-flow-c2ba896a-a0be730d-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\yellow-fast-20261005\\group-inquiry",
-    "branch": "grok-review/yellow/wip-group-inquiry-faa7796a-20261005",
+    "branch": "grok-review/yellow/wip-group-inquiry-faa7796a-20261005-sanitized-v3",
     "head": "3cfa8b3bd6ce5038a4a6947726b80a9bacd26773",
     "dirty": true,
     "compset": false,
     "aliases": [
       "C:\\Users\\astha\\yellow-fast-20261005\\group-inquiry"
     ],
-    "snapshot_sha": "0bac4ae1ec8a5dcf9212550589ba4e611b428af0",
-    "tree": "08beb86f80093c97c01c3875b2a7e8f5704aa2c4",
+    "snapshot_sha": "a66e3f0a892e87d2ffdef99cd938b32a5b1aa58d",
+    "tree": "1fe122ffc8de6455c0c475bfd0a67426550d7d8e",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 178 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 176,
     "sanitized_paths": [
@@ -10194,22 +10292,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-group-inquiry-faa7796a-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-group-inquiry-faa7796a-20261005",
+    "local_removal_commit": "1e762fd522e61a6e3024f648d462b216455b7b17",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-group-inquiry-faa7796a-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-444072",
-    "branch": "grok-review/yellow/wip-runtime-444072-61c9a487-20261005",
+    "branch": "grok-review/yellow/wip-runtime-444072-61c9a487-20261005-sanitized-v3",
     "head": "444072ffdff2b7745345d88f71b603c17e11ace6",
     "dirty": true,
     "compset": false,
     "aliases": [
       "E:\\YellowWorkspace\\Data\\BuildArtifacts\\yellow-receiving-build-20261001-v1\\runtime-444072"
     ],
-    "snapshot_sha": "1d52a03f297f0605814a5b617f998a933d6c9aa7",
-    "tree": "d6e34bdfc6e66d23dd5f6bfbdeb8080bbcd78f33",
+    "snapshot_sha": "a58505b94da4c5e7921196e77ccac2b696d90884",
+    "tree": "07077237db44dbb4b7ef9941e14bc9dc3d7b5d69",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 175 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 173,
     "sanitized_paths": [
@@ -10306,22 +10406,24 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-444072-61c9a487-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-runtime-444072-61c9a487-20261005",
+    "local_removal_commit": "fe2c96d5de1170d46c268ed606f70bfd20b08a43",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-runtime-444072-61c9a487-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   },
   {
     "path": "C:\\Users\\astha\\yellow-fast-20261005\\integration",
-    "branch": "grok-review/yellow/wip-integration-d7dc049e-20261005",
+    "branch": "grok-review/yellow/wip-integration-d7dc049e-20261005-sanitized-v3",
     "head": "3cfa8b3bd6ce5038a4a6947726b80a9bacd26773",
     "dirty": true,
     "compset": false,
     "aliases": [
       "C:\\Users\\astha\\yellow-fast-20261005\\integration"
     ],
-    "snapshot_sha": "3e62d31a3ee4f47239f0a796d1583680ca6a0e9a",
-    "tree": "5e4b50684035a37d110b6d2e88c9302c119ddeb1",
+    "snapshot_sha": "7caffb354b59d8134ed235d08f370fc32de5b3aa",
+    "tree": "24a9536dfa95339862f6ff3fef0b3e52075301e2",
     "parent_retained": false,
-    "history_reason": "new reachable history blocked: 178 candidate(s); source-only snapshot, original ancestry not published",
+    "history_reason": "source-only sanitized-v2 export; unsafe earlier local snapshot ancestry excluded",
     "source_scanner_exit": 0,
     "source_candidates_redacted": 176,
     "sanitized_paths": [
@@ -10410,7 +10512,9 @@
       "handoff/orders/265-rotate-exposed-local-credentials.md",
       "handoff/reviews/265-rotate-exposed-local-credentials.md"
     ],
-    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-integration-d7dc049e-20261005",
+    "unpublished_prior_branch": "grok-review/yellow/wip-integration-d7dc049e-20261005",
+    "local_removal_commit": "cafe75e4093ba06f9bf175f1638638165529a37d",
+    "url": "https://github.com/dcpnode-maker/yellow/tree/grok-review/yellow/wip-integration-d7dc049e-20261005-sanitized-v3",
     "publication": "SCANNED_PENDING_PUSH"
   }
 ]
