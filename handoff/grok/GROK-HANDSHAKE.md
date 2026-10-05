@@ -18,7 +18,7 @@ The founder supplied 3503b0c and 2026-09-07 as the public comparison reference. 
 
 ## Dump branches
 
-These are snapshot branch names, not release approvals. Actual commit IDs, exclusions, parent preservation and push results are recorded in PUBLISHED-BRANCHES.md and raw/snapshot-branches.json. Clean parent history is retained only if its new reachable history passes the secret scan; otherwise a source-only snapshot is used and the ancestry limitation is stated.
+These are snapshot branch names, not release approvals. Actual commit IDs, exclusions, parent preservation and push results are recorded in PUBLISHED-BRANCHES.md and raw/snapshot-branches.json. All 52 published review branches are source-only exports; unsafe original history was excluded. Original SHAs and history limitations remain in the raw records and branch manifest.
 
 - grok-review/yellow/wip-yellow-34168dc8-20261005-sanitized-v3 — E:\YellowWorkspace\CodexWorktrees\harness-app\yellow — original d29142b39d9d6641a56bb0f8546b5745d5a4e9bc
 - grok-review/yellow/phase-7-resource-receiving-20261001-fd4e7066-20261005-sanitized-v3 — E:\YellowWorkspace\Worktrees\phase-7-resource-receiving-20261001 — original 2b096e5f1bf932403a91a4e8f9f135d99465f691
@@ -37,7 +37,7 @@ These are snapshot branch names, not release approvals. Actual commit IDs, exclu
 - grok-review/yellow/wip-runtime-calendar-0ffb1288-6bef9dda-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\runtime-calendar-0ffb1288 — original 0ffb1288a9bb6470da2865c83b4f473377d94f04
 - grok-review/yellow/runtime-today-65ba856b-06eb1d25-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\runtime-today-65ba856b — original 65ba856b02c9071bd65cad83670d20a34e632787
 - grok-review/yellow/wip-crm-tasks-ed8b1f64-20261005-sanitized-v3 — C:\Users\astha\yellow-fast-20261005\crm-tasks — original 3cfa8b3bd6ce5038a4a6947726b80a9bacd26773
-- grok-review/yellow/wip-package-base-c50efc30-20261005-sanitized-v3 — E:\YellowWorkspace\Documents\Codex\yellow-prototype-review-20261002\journey-v2\laptop\housekeeping-shell-composition65-v1\proof\package-base — original HEAD
+- grok-review/yellow/wip-package-base-c50efc30-20261005-sanitized-v3 — E:\YellowWorkspace\Documents\Codex\yellow-prototype-review-20261002\journey-v2\laptop\housekeeping-shell-composition65-v1\proof\package-base — original HEAD UNRESOLVED (unborn fragment; raw Git error preserved)
 - grok-review/yellow/order72-onto69-candidate-e3bbd030-20261005-sanitized-v3 — C:\Users\astha\yellow-recovery-20261004\order72-onto69-candidate — original 2b096e5f1bf932403a91a4e8f9f135d99465f691
 - grok-review/yellow/wip-3cfa8b3bd6ce5038a4a6947726b80a9bacd26773-4a9ab3d8-20261005-sanitized-v3 — C:\Users\astha\yellow-recovery-20261004\runtimes\3cfa8b3bd6ce5038a4a6947726b80a9bacd26773 — original 3cfa8b3bd6ce5038a4a6947726b80a9bacd26773
 - grok-review/yellow/wip-order72-onto69-candidate-final-e72bd59d-20261005-sanitized-v3 — C:\Users\astha\yellow-recovery-20261004\order72-onto69-candidate-final — original 3cfa8b3bd6ce5038a4a6947726b80a9bacd26773
@@ -51,14 +51,14 @@ These are snapshot branch names, not release approvals. Actual commit IDs, exclu
 - grok-review/yellow/wip-runtime-research-flow-5d855ba5-eed5b0b4-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\runtime-research-flow-5d855ba5 — original 5d855ba570636b1821bff385c905fa2ab4f21c24
 - grok-review/yellow/wip-runtime-preview-e27da80e-87ee9cf4-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\runtime-preview-e27da80e — original e27da80e2e4a55dc653f455adc7b2d271253d20b
 - grok-review/yellow/wip-runtime-research-flow-bdc721b2-4b8fb8e6-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\runtime-research-flow-bdc721b2 — original bdc721b26d2811afeff902d537e13761c1212434
-- grok-review/yellow/wip-workspace-058b762b-20261005-sanitized-v3 — D:\Yellow\temp\order745\workspace — original HEAD
+- grok-review/yellow/wip-workspace-058b762b-20261005-sanitized-v3 — D:\Yellow\temp\order745\workspace — original HEAD UNRESOLVED (unborn fragment; raw Git error preserved)
 - grok-review/yellow/wip-runtime-research-flow-312d4f46-a69955ea-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\runtime-research-flow-312d4f46 — original 312d4f46384fc90accc78506d846631133524025
 - grok-review/yellow/wip-runtime-browser-session-3039ac-2c9c9ad0-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\runtime-browser-session-3039ac — original 3039ac9345503b2e0aec07759d5686493b3ff3c7
 - grok-review/yellow/wip-runtime-research-flow-6f315712-bb6e7010-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\runtime-research-flow-6f315712 — original 6f3157126a3e353f931c288b3f5365b0152aed78
 - grok-review/yellow/wip-restore-hk-20261001t111103z-0539999111-fa86d407-20261005-sanitized-v3 — E:\YellowWorkspace\Data\Recovery\RESOURCE-20261001\restore-hk-20261001T111103Z-0539999111 — original e06e400a57485cc10a8a35c21dcb1e01b5a667d1
-- grok-review/yellow/wip-package-base-a45967f9-20261005-sanitized-v3 — E:\YellowWorkspace\Documents\Codex\yellow-prototype-review-20261002\journey-v2\laptop\shell-layout62-v1\proof\package-base — original HEAD
+- grok-review/yellow/wip-package-base-a45967f9-20261005-sanitized-v3 — E:\YellowWorkspace\Documents\Codex\yellow-prototype-review-20261002\journey-v2\laptop\shell-layout62-v1\proof\package-base — original HEAD UNRESOLVED (unborn fragment; raw Git error preserved)
 - grok-review/yellow/wip-workspace-1fe869d1-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\hosting\public-demo-autologin-independent-review\workspace — original 35d2f1c2f1dfba3c6f6353103bdc91e3526b982b
-- grok-review/yellow/wip-package-base-v2-3bca38a1-20261005-sanitized-v3 — E:\YellowWorkspace\Documents\Codex\yellow-prototype-review-20261002\journey-v2\laptop\housekeeping-shell-composition65-v1\proof\package-base-v2 — original HEAD
+- grok-review/yellow/wip-package-base-v2-3bca38a1-20261005-sanitized-v3 — E:\YellowWorkspace\Documents\Codex\yellow-prototype-review-20261002\journey-v2\laptop\housekeeping-shell-composition65-v1\proof\package-base-v2 — original HEAD UNRESOLVED (unborn fragment; raw Git error preserved)
 - grok-review/yellow/wip-runtime-research-flow-c1b7c2b8-338e4921-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\runtime-research-flow-c1b7c2b8 — original c1b7c2b80a103b53d29d175e8087776f3cdd776e
 - grok-review/yellow/wip-restore-20261001-source-proof-96b7345f-20261005-sanitized-v3 — E:\YellowWorkspace\Data\Recovery\RESOURCE-20261001\restore-20261001-source-proof — original e06e400a57485cc10a8a35c21dcb1e01b5a667d1
 - grok-review/yellow/wip-runtime-today-v2-65ba856b-ab03afb7-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\runtime-today-v2-65ba856b — original 65ba856b02c9071bd65cad83670d20a34e632787
@@ -67,7 +67,7 @@ These are snapshot branch names, not release approvals. Actual commit IDs, exclu
 - grok-review/compset/source-d84d8c76-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\compset-cloud-handoff-20261003-v1\source — original 098190f6f5105be03907610b2979982193643223
 - grok-review/yellow/wip-runtime-reference-ui-326e80-cf05a827-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\runtime-reference-ui-326e80 — original 326e80c8d936362059496e2aa41d28651a05e386
 - grok-review/yellow/wip-actual-source-restore-1bbd97eb-20261005-sanitized-v3 — E:\YellowWorkspace\Data\Recovery\RESOURCE-20261001\receiving-b9ba702a\actual-source-restore — original b9ba702a074a487feeafa056abb49abcdcf01ba8
-- grok-review/yellow/wip-patch-staging-4f8b58f8-20261005-sanitized-v3 — E:\YellowWorkspace\Documents\Codex\yellow-prototype-review-20261002\journey-v2\11r\original-reservation-journey54-v1\patch-staging — original HEAD
+- grok-review/yellow/wip-patch-staging-4f8b58f8-20261005-sanitized-v3 — E:\YellowWorkspace\Documents\Codex\yellow-prototype-review-20261002\journey-v2\11r\original-reservation-journey54-v1\patch-staging — original HEAD UNRESOLVED (unborn fragment; raw Git error preserved)
 - grok-review/yellow/wip-runtime-research-flow-c2ba896a-a0be730d-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\runtime-research-flow-c2ba896a — original c2ba896ab52c34d69617c209a7ad31c630c33a98
 - grok-review/yellow/wip-group-inquiry-faa7796a-20261005-sanitized-v3 — C:\Users\astha\yellow-fast-20261005\group-inquiry — original 3cfa8b3bd6ce5038a4a6947726b80a9bacd26773
 - grok-review/yellow/wip-runtime-444072-61c9a487-20261005-sanitized-v3 — E:\YellowWorkspace\Data\BuildArtifacts\yellow-receiving-build-20261001-v1\runtime-444072 — original 444072ffdff2b7745345d88f71b603c17e11ace6
@@ -93,7 +93,7 @@ URL: https://yellow-live-app.yellow-dcpnode-1676cc6f.workers.dev/ready; HTTP 200
 
 Laptop listeners observed: app 127.0.0.1:3184 PID 13328; PostgreSQL 127.0.0.1:55492 PID 14788. Another Python listener exists at 127.0.0.1:8765 PID 21436; its role is UNVERIFIED. The attempted 127.0.0.1:8080/health endpoint refused connection; this does not prove CompSet has no other runtime. No guest rows, credentials, holds, reservations or financial writes were queried or created.
 
-Final readiness check: 2026-10-05T06:03:07.540681+00:00. Both local and public /ready returned HTTP 200 with the same 3cfa8b3bd6ce5038a4a6947726b80a9bacd26773 / frontier 103 payload. All 61 readable original HEAD and porcelain-status outputs match the initial inventory (raw/worktree-status-final.json). One registered D: worktree is unavailable; no source was fabricated.
+Final readiness check: 2026-10-05T06:44:41.634636+00:00. Both local and public /ready returned HTTP 200 with the same 3cfa8b3bd6ce5038a4a6947726b80a9bacd26773 / frontier 103 payload. All 61 readable original HEAD and porcelain-status outputs match the initial inventory (raw/worktree-status-final.json). One registered D: worktree is unavailable; no source was fabricated.
 
 ## Workflow proof
 
@@ -138,7 +138,7 @@ Local Codex: 1,688 records attempted, 1,559 existing rollouts, 129 missing. All 
 
 ## Worktrees, Drive and PRs
 
-61 readable Git locations and one unavailable registered worktree (D:/Yellow/git-live-order611-source) were inventoried. Duplicate Windows extended-path aliases are preserved in the inventory; 52 distinct Yellow/CompSet/source-fragment locations have review branches planned. Seven auxiliary third-party/harness locations are inventoried but not published as Yellow. Raw command outputs preserve status, stash, branches, origin/main..HEAD, diff stats, untracked paths and fetch results. Unborn fragment repositories and unavailable references are explicitly errors, not fabricated commits.
+61 readable Git locations and one unavailable registered worktree (D:/Yellow/git-live-order611-source) were inventoried. Duplicate Windows extended-path aliases are preserved in the inventory; 52 distinct Yellow/CompSet/source-fragment locations have public review branches verified. Seven auxiliary third-party/harness locations are inventoried but not published as Yellow. Raw command outputs preserve status, stash, branches, origin/main..HEAD, diff stats, untracked paths and fetch results. Unborn fragment repositories and unavailable references are explicitly errors, not fabricated commits.
 
 Drive was searched for Yellow and CompSet metadata only. No Drive contents were fetched, cloned, downloaded or changed. Metadata is in raw/drive-*-metadata.json. GitHub PR inventories are raw/yellow-pr-list.json (101 entries, 11 open) and raw/compset-pr-list.json (zero entries); no PR was merged.
 
@@ -154,6 +154,6 @@ Use only clone commands whose publication is confirmed in PUBLISHED-BRANCHES.md.
 
 ## Failures and scan
 
-Missing local rollouts, unavailable Claude/Cursor transcripts, ChatGPT item/history limits, unresolved origin/main references and unborn fragment repositories are recorded rather than replaced with summaries. SECRET-SCAN.md records the final scan scope/results. Read-only readiness is the only fresh live proof collected. Original dirty source and untracked work remain on the laptop.
+Missing local rollouts, unavailable Claude/Cursor transcripts, ChatGPT item/history limits, unresolved origin/main references and unborn fragment repositories are recorded rather than replaced with summaries. GitHub push protection rejected the initial transcript export for OpenRouter/GCP credential formats; no review refs were accepted then. Provider-specific redaction was added and new source-only sanitized-v3 branches were accepted without bypass or force push. SECRET-SCAN.md records the final scan scope/results. Read-only readiness is the only fresh live proof collected. Original dirty source and untracked work remain on the laptop.
 
 STOP: This is a handoff. No fix sequence is started. Grok is to return the next sequence to the founder.

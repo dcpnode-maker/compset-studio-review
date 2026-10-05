@@ -458,7 +458,7 @@ A  handoff/orders/188-multi-window-folio-routing.md
 A  handoff/orders/189-approved-order188-local-promotion.md
 A  handoff/orders/190-current-project-status-through-order189.md
 A  handoff/orders/191-approved-status-local-promotion.md
-A  handoff/orders/192-token-«REDACTED-SECRET»
+A  handoff/orders/192-token-only-payment-foundation.md
 A  handoff/orders/193-hosted-payment-deposit-workbench.md
 A  handoff/orders/194-approved-hosted-deposit-local-promotion.md
 A  handoff/orders/195-six-native-appearance-rebuild.md
@@ -1302,7 +1302,7 @@ A  handoff/reviews/188-multi-window-folio-routing-independent.md
 A  handoff/reviews/189-approved-order188-local-promotion-independent.md
 A  handoff/reviews/190-current-project-status-through-order189-independent.md
 A  handoff/reviews/191-approved-status-local-promotion-independent.md
-A  handoff/reviews/192-token-«REDACTED-SECRET»
+A  handoff/reviews/192-token-only-payment-foundation-independent.md
 A  handoff/reviews/193-hosted-payment-deposit-workbench-independent.md
 A  handoff/reviews/195-six-native-appearance-rebuild-review.md
 A  handoff/reviews/199-phase-5-financial-journey-gate.md
