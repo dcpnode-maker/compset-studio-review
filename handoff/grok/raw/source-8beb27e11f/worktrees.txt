@@ -1,0 +1,5 @@
+exit=0
+worktree D:/Yellow/runtime/free-claude-code/source
+HEAD bf59598ccc04b02befa1d649dfbcc569534c365c
+branch refs/heads/main
+

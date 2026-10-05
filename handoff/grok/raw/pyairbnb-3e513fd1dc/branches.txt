@@ -1,0 +1,4 @@
+exit=0
+* main                1ee4151 [origin/main] Merge pull request #64 from pedro-peixot0/feat/typed-calendar-contract
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main 1ee4151 Merge pull request #64 from pedro-peixot0/feat/typed-calendar-contract

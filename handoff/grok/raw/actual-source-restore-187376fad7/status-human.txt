@@ -1,0 +1,9 @@
+exit=0
+## HEAD (no branch)
+ M frontend/yellow/src/housekeeping-floor-model.ts
+ M frontend/yellow/src/workspaces/HousekeepingFloorWorkbench.tsx
+ M frontend/yellow/src/workspaces/housekeeping-floor.css
+ M handoff/orders/RESOURCE-20261001-receiving-source-build.md
+ M handoff/receipts/RESOURCE-20261001-receiving-source-review.md
+ M tests/housekeeping-floor-client.test.ts
+ M tests/housekeeping-floor-model.test.ts

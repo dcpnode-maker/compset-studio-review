@@ -1,0 +1,5 @@
+exit=0
+worktree E:/YellowWorkspace/Data/BuildArtifacts/yellow-receiving-build-20261001-v1/runtime-research-flow-8bd09c25
+HEAD 8bd09c25bb73083aebaab62d68ea464d838258aa
+detached
+

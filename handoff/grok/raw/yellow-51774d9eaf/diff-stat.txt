@@ -1,0 +1,11 @@
+exit=0
+ AGENTS.md                                          |   9 ++
+ handoff/LEDGER.md                                  |  26 ++++
+ tools/yellow-harness/worker-jobs/README.md         |  30 ++++
+ tools/yellow-harness/worker-jobs/operator.mjs      |  54 ++++++-
+ tools/yellow-harness/worker-jobs/owned-job.py      | 171 ++++++++++++++++++++-
+ tools/yellow-harness/worker-jobs/progress.mjs      |  17 +-
+ tools/yellow-harness/worker-jobs/test_operator.mjs |  45 +++++-
+ tools/yellow-harness/worker-jobs/test_owned_job.py |  28 ++++
+ tools/yellow-harness/worker-jobs/test_progress.mjs |  11 +-
+ 9 files changed, 376 insertions(+), 15 deletions(-)

@@ -1,0 +1,5 @@
+exit=0
+worktree E:/YellowWorkspace/Data/Recovery/RESOURCE-20261001/receiving-5f087ef1-v2/actual-source-restore
+HEAD 5f087ef1fd9987c45c6aa10eadc6ce63fc79e926
+detached
+

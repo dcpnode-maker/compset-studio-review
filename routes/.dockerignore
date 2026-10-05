@@ -1,0 +1,4 @@
+data/
+__pycache__/
+working_proxies.txt
+working_proxies.json

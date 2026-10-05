@@ -1,0 +1,5 @@
+{
+  "exit": 0,
+  "stdout": "",
+  "stderr": "From https://github.com/dcpnode-maker/yellow\n   bdb94cad..7b64ede3  phase-7/guest-booking-invitation-20261001 -> origin/phase-7/guest-booking-invitation-20261001\n * [new branch]        phase-7/laptop-live-hosting-status-20261002 -> origin/phase-7/laptop-live-hosting-status-20261002\n * [new branch]        phase-7/public-booking-site-20261002 -> origin/phase-7/public-booking-site-20261002\n   a00ca3f9..9ff27ad8  phase-7/release-local-gates-20261001 -> origin/phase-7/release-local-gates-20261001\n * [new branch]        phase-7/source-checkpoint-58cd09ad-20261001 -> origin/phase-7/source-checkpoint-58cd09ad-20261001\n * [new branch]        phase-7/source-checkpoint-9ff27ad-20261001 -> origin/phase-7/source-checkpoint-9ff27ad-20261001\n * [new branch]        phase-7/source-checkpoints-20261001 -> origin/phase-7/source-checkpoints-20261001\n"
+}

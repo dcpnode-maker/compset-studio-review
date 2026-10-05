@@ -1,0 +1,5 @@
+exit=0
+worktree E:/YellowWorkspace/Data/Recovery/RESOURCE-20261001/restore-hk-20261001T111103Z-0539999111
+HEAD e06e400a57485cc10a8a35c21dcb1e01b5a667d1
+detached
+

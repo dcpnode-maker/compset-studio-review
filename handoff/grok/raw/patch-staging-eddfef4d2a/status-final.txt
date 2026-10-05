@@ -1,0 +1,10 @@
+exit=0
+AM frontend/yellow/src/reservation-board.ts
+AM frontend/yellow/src/reservation-navigation.ts
+AM frontend/yellow/src/yellow-api.tsx
+AM src/contexts/reservations/board.ts
+AM src/contexts/reservations/index.ts
+AM src/http/operator.ts
+ A tests/order754-reservation-journey-client.test.ts
+ A tests/order754-reservation-journey-http.test.ts
+ A tests/order754-reservation-journey.test.ts

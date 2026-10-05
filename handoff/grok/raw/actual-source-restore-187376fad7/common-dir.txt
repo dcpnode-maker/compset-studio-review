@@ -1,0 +1,2 @@
+exit=0
+E:/YellowWorkspace/Data/Recovery/RESOURCE-20261001/receiving-5f087ef1-v2/actual-source-restore/.git

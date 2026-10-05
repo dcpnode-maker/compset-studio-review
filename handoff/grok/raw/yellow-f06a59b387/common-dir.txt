@@ -1,0 +1,2 @@
+exit=0
+E:/YellowWorkspace/Documents/Codex/2026-08-14/cl/outputs/yellow/.git

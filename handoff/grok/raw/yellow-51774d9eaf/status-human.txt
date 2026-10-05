@@ -1,0 +1,59 @@
+exit=0
+## phase-0/harness-app
+ M AGENTS.md
+ M handoff/LEDGER.md
+ M tools/yellow-harness/worker-jobs/README.md
+ M tools/yellow-harness/worker-jobs/operator.mjs
+ M tools/yellow-harness/worker-jobs/owned-job.py
+ M tools/yellow-harness/worker-jobs/progress.mjs
+ M tools/yellow-harness/worker-jobs/test_operator.mjs
+ M tools/yellow-harness/worker-jobs/test_owned_job.py
+ M tools/yellow-harness/worker-jobs/test_progress.mjs
+?? handoff/CODEX-RETURN.md
+?? handoff/orders/HARNESS-001-controller-execution-foundation.md
+?? handoff/orders/HARNESS-002-upstream-product-adoption.md
+?? handoff/orders/HARNESS-003-worker-plans.md
+?? handoff/orders/HARNESS-011-free-workers-build-review.md
+?? handoff/orders/HARNESS-012-github-workspace-connection.md
+?? handoff/orders/HARNESS-013-codex-primary-kaggle-only.md
+?? handoff/orders/HARNESS-014-tokenharbor-free-connector.md
+?? handoff/orders/HARNESS-018-pinned-runtime-microtasks.md
+?? handoff/orders/HARNESS-019-e-drive-storage-migration.md
+?? handoff/orders/HARNESS-020-discussion-intake-and-build-continuity.md
+?? handoff/orders/HARNESS-021-minute-console-progress.md
+?? handoff/orders/HARNESS-022-dispatch-size-preflight.md
+?? handoff/orders/HARNESS-023-kaggle-native-runtime.md
+?? handoff/orders/HARNESS-024-model-fit-work-packets.md
+?? handoff/questions/HARNESS-012-lifecycle-reconciliation.md
+?? handoff/questions/HARNESS-022-source-budget.md
+?? handoff/questions/HARNESS-023-target-and-observation.md
+?? handoff/reviews/HARNESS-011-codex-t3-proof.md
+?? handoff/reviews/HARNESS-011-kaggle-api-enrollment.md
+?? handoff/reviews/HARNESS-011-private-jupyter-proof.md
+?? handoff/reviews/HARNESS-011-task-homes.md
+?? handoff/reviews/HARNESS-011-worker1-t3-transfer.md
+?? handoff/reviews/HARNESS-011-worker3-browser-preflight.md
+?? handoff/reviews/HARNESS-012-actual-github-connection.md
+?? handoff/reviews/HARNESS-014-tokenharbor.md
+?? handoff/reviews/HARNESS-019-e-drive-migration-progress.md
+?? handoff/reviews/HARNESS-020-discussion-intake-receipt.md
+?? handoff/reviews/HARNESS-021-minute-console-progress.md
+?? handoff/reviews/HARNESS-022-dispatch-size-preflight.md
+?? handoff/reviews/HARNESS-023-kaggle-native-runtime.md
+?? handoff/reviews/HARNESS-024-model-fit-work-packets.md
+?? tools/yellow-harness/providers/
+?? tools/yellow-harness/review/EXISTING-CONTRACT-AUDIT.md
+?? tools/yellow-harness/review/SOL6-HANDOFF.md
+?? tools/yellow-harness/review/UPSTREAM-LANDSCAPE.md
+?? tools/yellow-harness/review/WINDOWS-CAPABILITIES.md
+?? tools/yellow-harness/worker-jobs/compat-job.py
+?? tools/yellow-harness/worker-jobs/compat-operator.mjs
+?? tools/yellow-harness/worker-jobs/compat-progress.mjs
+?? tools/yellow-harness/worker-jobs/fit-job.py
+?? tools/yellow-harness/worker-jobs/fit-operator.mjs
+?? tools/yellow-harness/worker-jobs/fit-progress.mjs
+?? tools/yellow-harness/worker-jobs/test_compat.mjs
+?? tools/yellow-harness/worker-jobs/test_compat.py
+?? tools/yellow-harness/worker-jobs/test_fit.mjs
+?? tools/yellow-harness/worker-jobs/test_work_packets.py
+?? tools/yellow-harness/worker-jobs/work-packets.py

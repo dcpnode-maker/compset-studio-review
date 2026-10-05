@@ -1,0 +1,5 @@
+exit=0
+* (HEAD detached at 7596522) 7596522 fix: improve mapped installations and map-source guidance (#183)
+  main                       ce671ce [origin/main] fix(data): load bundled region packs in the browser; bound region lookups (#743)
+  remotes/origin/HEAD        -> origin/main
+  remotes/origin/main        ce671ce fix(data): load bundled region packs in the browser; bound region lookups (#743)

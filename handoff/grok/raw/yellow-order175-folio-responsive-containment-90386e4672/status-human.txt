@@ -1,0 +1,99 @@
+exit=0
+## phase-7/operator-invoice-workflow...origin/phase-7/operator-invoice-workflow
+ M .gitignore
+ M DECISIONS.log
+ M docs/PROJECT-STATUS.md
+ M docs/design/ASTRA-IMPLEMENTATION-HANDOFF.md
+ M docs/design/BUILT-CAPABILITY-MANIFEST.md
+ M handoff/LEDGER.md
+MM handoff/orders/440-fiscal-submission-lifecycle.md
+MM handoff/orders/444-partner-review-and-astra-ui-integration.md
+ M handoff/orders/452-native-credit-delivery-discovery.md
+ M handoff/orders/453-native-fiscal-series-configuration.md
+ M handoff/orders/460-current-source-single-local-promotion.md
+AM handoff/orders/BUILD-CONTINUITY-001.md
+A  handoff/orders/BUILD-CONTINUITY-002-OMNIROUTE.md
+M  handoff/questions/210-partner-preview-status-snapshot.md
+AM handoff/questions/212-fiscal-retry-binding-recovery.md
+ M handoff/questions/246-current-source-runtime-promotion.md
+ M handoff/questions/276-market92-native-preservation-preparation.md
+ M handoff/reviews/440-fiscal-provider-and-receipts.md
+MM handoff/reviews/444-native-review-and-ci.md
+ M handoff/reviews/452-native-credit-delivery-discovery.md
+ M handoff/reviews/460-current-source-single-local-promotion.md
+ M handoff/reviews/460-release-checklist-20260913.md
+AM handoff/reviews/BUILD-CONTINUITY-001.md
+A  handoff/reviews/BUILD-CONTINUITY-002-OMNIROUTE.md
+A  scripts/inspect-order444-live-preview.ts
+ M src/app.ts
+ M src/http/operator.ts
+ M src/http/operator/operator.css
+ M src/http/operator/operator.js
+ M tests/operator-assets-security.test.ts
+ M tests/operator-reservation-workspace.integration.test.ts
+A  tools/build-continuity/.gitignore
+A  tools/build-continuity/OMNIROUTE.md
+AM tools/build-continuity/README.md
+A  tools/build-continuity/batch.py
+A  tools/build-continuity/continuity.py
+A  tools/build-continuity/omniroute.py
+A  tools/build-continuity/provider-pool.json
+A  tools/build-continuity/routes.json
+A  tools/build-continuity/start.py
+A  tools/build-continuity/test_continuity.py
+?? .aider.chat.history.md
+?? .aider.input.history
+?? .yellow/
+?? NUL
+?? docs/design/prototypes/continuum/
+?? docs/design/prototypes/light-explorations/01-atelier.html
+?? docs/design/prototypes/light-explorations/02-meridian.html
+?? docs/design/prototypes/light-explorations/README.md
+?? docs/design/prototypes/light-explorations/capture.ts
+?? docs/design/prototypes/light-explorations/index.html
+?? docs/design/prototypes/motion-atelier/
+?? handoff/drafts/order446/
+?? handoff/orders/445-reservation-guest-profile-selection.md
+?? handoff/orders/456-ten-light-interface-concepts.md
+?? handoff/orders/457-retained-local-runtime-recovery.md
+?? handoff/questions/213-focused-task-chrome.md
+?? handoff/questions/214-continuum-approval-prototype.md
+?? handoff/questions/215-ten-rendered-3d-motion-prototypes.md
+?? handoff/questions/281-current-source-artifact-rebind.md
+?? handoff/questions/282-pricelabs-companion-preservation.md
+?? handoff/questions/283-market92-maintenance-and-recovery-preparation.md
+?? handoff/questions/284-market92-runtime-adapter-preparation.md
+?? handoff/questions/285-local-market-review-actor-grants.md
+?? handoff/questions/286-market-metadata-preservation-verifier.md
+?? handoff/questions/287-single-market92-activation-composition.md
+?? scripts/capture-continuum-prototype.ts
+?? scripts/capture-motion-atelier.ts
+?? src/http/operator/party-profile-picker.js
+?? tests/operator-reservation-guest-picker.browser.test.ts
+?? tests/operator-reservation-guest-picker.test.ts
+?? tests/party-profile-picker.browser.test.ts
+?? tools/build-continuity/FREE-CAPACITY.md
+?? tools/build-continuity/WEEK-PLAN.md
+?? tools/build-continuity/activation-proof-20260913.json
+?? tools/build-continuity/antigravity-free.json
+?? tools/build-continuity/fcc-local.ps1
+?? tools/build-continuity/fcc_guard.py
+?? tools/build-continuity/fcc_local.py
+?? tools/build-continuity/free_catalogue.py
+?? tools/build-continuity/free_price.py
+?? tools/build-continuity/gemini-free.json
+?? tools/build-continuity/gemini-no-tools.toml
+?? tools/build-continuity/kilo-free.json
+?? tools/build-continuity/kilo-free.ps1
+?? tools/build-continuity/prepare-proposals.ps1
+?? tools/build-continuity/qwen-local-proof.json
+?? tools/build-continuity/qwen-local.ps1
+?? tools/build-continuity/spark-proof-20260913.json
+?? tools/build-continuity/spark-proposal.ps1
+?? tools/build-continuity/test_fcc_guard.py
+?? tools/build-continuity/test_fcc_local.py
+?? tools/build-continuity/test_free_catalogue.py
+?? tools/build-continuity/test_free_price.py
+?? tools/build-continuity/test_qwen_local.py
+?? tools/build-continuity/test_spark_acceptance.py
+?? tools/build-continuity/week-plan.json

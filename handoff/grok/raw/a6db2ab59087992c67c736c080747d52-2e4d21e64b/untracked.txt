@@ -1,0 +1,7 @@
+exit=0
+scripts/yellow-harness-codex-proof.mjs
+scripts/yellow-harness-codex-proof.test.mjs
+scripts/yellow-harness-host-status.mjs
+scripts/yellow-harness-host-status.test.mjs
+scripts/yellow-harness-roles.mjs
+scripts/yellow-harness-roles.test.mjs

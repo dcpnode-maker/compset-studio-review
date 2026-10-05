@@ -1,0 +1,562 @@
+exit=0
+  backup/containerized-health-local                                              687ccc85 [codex] containerize Phase 0 health app
+  backup/local-main                                                              c0aa1dbb chore: make local setup and checks work on Windows
+  backup/order104-approved-pre-security-rebase                                   f9d8bc45 [codex] record independent charge approval
+  backup/order104-pre-security-rebase                                            223f3dd0 [codex] build balanced charge posting
+  backup/runtime-health-local                                                    1466f7d2 [codex] implement Phase 0 runtime health scaffold
+  backup/security-hardening-pre-renumber                                         89aa76b3 [codex] record independent Order 103 approval
+  backup/security-order112-final-pre-split                                       1bf66caf [codex] record pre-rebase Order 112 review evidence
+  codex/archive-b290-worktree                                                    48801949 [codex] archive b290 worktree snapshot
+  codex/archive-order292-review                                                  97481ff6 [codex] Review Order 292 invoice issue date
+  codex/archive-order293-review                                                  e7805498 [codex] Review Order 293 invoice timeliness
+  codex/archive-order328-review                                                  12df6b55 [codex] approve Order 328 responsive containment
+  codex/archive-order330-review                                                  58a28f27 [codex] approve Order 330 responsive containment
++ codex/live-order611-source                                                     a043bb29 (D:/Yellow/git-live-order611-source) [codex] Preserve founder context and demo readiness
+* codex/live-order611-source-v2                                                  e06e400a [origin/codex/live-order611-source-v2: behind 1] [codex] Detail public commercial stats projection
+  codex/order367-paused-backup                                                   ab77f8a7 [codex] preserve paused component tax recorder
+  codex/order416-tax-fiscal-context-facade                                       3aeffa35 [origin/codex/order416-tax-fiscal-context-facade: behind 1633] [codex] Close continuity orders 001 and 002
+  codex/review-order-113-security-definer-containment                            98344213 [codex-review] approve Order 113 security definer containment
+  codex/review-order-118-app-role-nonlogin                                       f145b9e1 [codex] independently approve Order 118
+  codex/review-order-121-actor-bound-idempotency                                 b5a4a264 [codex] approve actor-bound API idempotency
+  codex/review-order-123-cyber-integration                                       ebd70b8c [codex] approve Order 123 Cyber integration
+  codex/windows-support                                                          bbfe6079 [origin/codex/windows-support] [codex] add Windows setup and verification support
+  main                                                                           5b2ba446 [origin/main: ahead 4, behind 1631] [codex] approve valuation catalogue oracle repair
+  phase-0/architect-gate-brief                                                   cd985da6 [origin/phase-0/architect-gate-brief: behind 3] [codex] document remaining Phase 0 architect gates
+  phase-0/baseline-ci                                                            402bfc89 [origin/phase-0/baseline-ci] [codex] add baseline Phase 0 CI
+  phase-0/bootstrap-seed                                                         d662fae6 [origin/phase-0/bootstrap-seed] [codex] add deterministic app-role bootstrap seed
+  phase-0/bun-sql-migration-runner                                               56f55faa [origin/phase-0/bun-sql-migration-runner] [codex] add checksummed Bun SQL migration runner
+  phase-0/ci-compose-health-correction                                           a421e6b0 [origin/phase-0/ci-compose-health-correction] [codex] fix Compose-resolved database CI health wait
+  phase-0/ci-compose-health-order                                                a8abb84a [origin/phase-0/ci-compose-health-order] [codex] order Compose-resolved CI health correction
+  phase-0/ci-compose-port-resolution                                             e34fa401 [origin/phase-0/ci-compose-port-resolution] [codex] resolve CI service ports through Docker
+  phase-0/containerized-health-app                                               382fdfd6 [origin/phase-0/containerized-health-app] [codex] containerize Phase 0 health app
+  phase-0/context-import-boundaries                                              19f871ca [origin/phase-0/context-import-boundaries] [codex] use portable async TypeScript AST API
+  phase-0/cumulative-review-request                                              63eca4a4 [origin/phase-0/cumulative-review-request] [codex] prepare cumulative Phase 0 review request
+  phase-0/database-ci-schema-drift                                               97209531 [origin/phase-0/database-ci-schema-drift] [codex] add fresh database acceptance and schema drift CI
+  phase-0/dependency-audit-gate                                                  ba4e1734 [origin/phase-0/dependency-audit-gate] [codex] add dependency vulnerability audit gate
+  phase-0/finalize-bootstrap-loop                                                c5104d75 [origin/phase-0/finalize-bootstrap-loop] [codex] finalize portable Phase 0 bootstrap loop
++ phase-0/founder-context-demo-readiness                                         57876f9d (E:/YellowWorkspace/Documents/Codex/2026-08-14/cl/outputs/yellow) [origin/phase-0/founder-context-demo-readiness: ahead 48, behind 1634] [codex] Derive demo readiness from runtime proof
++ phase-0/harness-app                                                            d29142b3 (C:/Users/astha/.codex/worktrees/harness-app/yellow) [codex] retain failed worker batch evidence and verified idle shutdown
+  phase-0/interim-architect-orders                                               7322d67d [origin/phase-0/interim-architect-orders] [codex] refine Phase 0 orders with executable probes
+  phase-0/invariant-battery-integrity                                            3e37e0d6 [origin/phase-0/invariant-battery-integrity] [codex] harden invariant battery preconditions
+  phase-0/license-policy-gate                                                    5f807bf3 [origin/phase-0/license-policy-gate] [codex] enforce dependency license policy
+  phase-0/next-architect-gates                                                   f25ed6cb [origin/phase-0/next-architect-gates] [codex] document Phase 0 architect gates
+  phase-0/powershell-coverage-split                                              7f1d7c3e [origin/phase-0/powershell-coverage-split: behind 1] [claude] mark architect response closed so state.sh does not count answers as open
+  phase-0/pr86-base-repair                                                       ac58c91c [origin/phase-7/profile-cards-and-workspace-skins] [codex] record PR86 database repair scope
+  phase-0/pr94-base-repair                                                       28ac3231 [origin/codex/order416-tax-fiscal-context-facade] [codex] make historical review-seed profile fixture clock independent
+  phase-0/pr96-base-repair                                                       68a0ddf9 [origin/phase-0/founder-context-demo-readiness] [codex] make historical review-seed profile fixture clock independent
+  phase-0/pr97-review-repairs                                                    d708ff29 [codex] repair PR97 browser proofs and current migration gates
+  phase-0/runtime-health-scaffold                                                433b5cb4 [origin/phase-0/runtime-health-scaffold] [codex] implement Phase 0 runtime health scaffold
+  phase-0/security-header-gate                                                   eb00dd45 [origin/phase-0/security-header-gate] [codex] enforce application security headers
+  phase-0/stack-corrections                                                      a8a33ec4 [origin/phase-0/stack-corrections] [codex] sync Claude Phase 0 re-review base
+  phase-0/state-open-work-accuracy                                               30b9491a [origin/phase-0/state-open-work-accuracy] [codex] report open handoff work separately
+  phase-0/windows-walkthrough-correction                                         7e7b19b6 [origin/phase-0/windows-walkthrough-correction] [codex] update Windows walkthrough Compose database check
+  phase-0/windows-walkthrough-order                                              b3935ebd [origin/phase-0/windows-walkthrough-order] [codex] order Windows walkthrough Compose correction
+  phase-0/yellow-harness-astra-handoff                                           b9649cbb [origin/phase-0/yellow-harness-astra-handoff] [codex] Clarify sanitized Astra handoff branch
++ phase-0/yellow-harness-controller                                              09d1a02d (C:/Users/astha/.codex/worktrees/yellow-harness-controller/yellow) [codex] retain final dual-worker status and UI evidence
+  phase-1/tenant-context-middleware                                              03964e5e [origin/phase-1/tenant-context-middleware: behind 4] [codex] complete Phase 1 executable preflight
+  phase-13/order374-post-v1-priority-reconciliation                              74ce41c7 [codex] approve repaired post-v1 roadmap reconciliation
++ phase-14/bnbme-compset-research                                                57876f9d (C:/Users/astha/.codex/worktrees/bnbme-compset/yellow) [codex] Derive demo readiness from runtime proof
+  phase-4/channel-booked-value-contract                                          18bf20b8 [origin/phase-4/channel-booked-value-contract] [codex] record Order 093 graph refresh
+  phase-4/operator-party-profiles                                                f32663f9 [codex] record independent Party operator approval
+  phase-4/operator-reservation-booking                                           a2b951d5 [origin/phase-4/operator-reservation-booking] [codex] record Order 099 independent approval
+  phase-4/operator-reservation-guests                                            a5c8c903 [origin/phase-4/operator-reservation-guests] [codex] record Order 096 independent approval
+  phase-4/operator-reservation-lifecycle                                         699cbd65 [origin/phase-4/operator-reservation-lifecycle] [codex] record Order 097 independent approval
+  phase-4/operator-reservation-segment-changes                                   41f72b3c [origin/phase-4/operator-reservation-segment-changes] [codex] record Order 098 independent approval
+  phase-4/ota-research-evidence-contract                                         6abef427 [origin/phase-4/ota-research-evidence-contract: ahead 1] [codex] archive OTA knowledge graph research
+  phase-4/party-search-create                                                    41d9356b [codex] record independent Party approval
+  phase-4/portable-ai-provider-contract                                          ecc95ec9 [origin/phase-4/portable-ai-provider-contract: ahead 1] [codex] archive AI-provider graph research
+  phase-4/reconcile-founder-status-review-coverage                               142d19f9 [origin/phase-4/reconcile-founder-status-review-coverage] [codex] record Order 093 independent approval
+  phase-4/reconcile-order-091-frontier                                           9a2919ad [origin/phase-4/reconcile-order-091-frontier] [codex] close Order 045-091 review debt
+  phase-4/repair-hold-role-proof                                                 69242f19 [origin/phase-4/repair-hold-role-proof] [codex] repair inherited hold role proof
+  phase-4/reservation-detail-read-model                                          9397c141 [origin/main: ahead 10, behind 1345] [codex] approve Order 141 reservation detail read model
+  phase-4/reservation-guest-delete-privilege                                     22e4264b [origin/phase-4/reservation-guest-delete-privilege] [codex] record Order 094 independent approval
+  phase-4/reservation-guest-share-command                                        80a1992b [origin/phase-4/reservation-guest-share-command] [codex] record Order 095 independent approval
+  phase-4/rms-economic-metric-contract                                           9edb0803 [origin/phase-4/rms-economic-metric-contract: ahead 1] [codex] archive RMS economics graph research
+  phase-5/account-folio-foundation                                               01dcddd3 [origin/phase-5/account-folio-foundation] [codex] record independent folio approval
+  phase-5/actor-bound-api-idempotency                                            2b8cd28b [codex] record actor-bound idempotency builder evidence
+  phase-5/adaptive-experience-shell                                              e13b83d2 [codex] independently approve corrected Order176
+  phase-5/app-role-catalogue-oracle-repair                                       ac87eea2 [codex] approve order 379 app role oracle repair
+  phase-5/app-role-nonlogin                                                      dddf0242 [codex] record Order 118 builder evidence
+  phase-5/audited-business-day-seal                                              c164056e [codex] approve audited business-day seal
+  phase-5/audited-seal-schema-snapshot-repair                                    bcf3ba00 [codex] approve audited seal schema snapshot repair
+  phase-5/balanced-charge-posting                                                52f8b0c6 [origin/phase-5/balanced-charge-posting] [codex] record independent rebased charge approval
+  phase-5/business-day-read-permission                                           143b1d8b [codex] approve business day read permission
+  phase-5/business-day-roll-contention-final-after-schema                        1f9ecf67 [codex] approve business day roll contention repair
+  phase-5/business-day-roll-contention-repair                                    bc4bede3 [codex] withhold business day roll contention rereview
+  phase-5/business-day-seal-permission                                           b4af963e [codex] activate audited business-day seal
+  phase-5/carry-migration-oracle-repair                                          c84ab29f [codex] approve order 378 carry oracle repair
+  phase-5/cumulative-integration-019-108                                         3378bad4 [codex] prepare cumulative Orders 019-108 integration
+  phase-5/current-founder-login-recovery                                         91b7891f [origin/phase-5/current-founder-login-recovery] [codex] approve current founder login recovery
+  phase-5/current-project-status                                                 ad0c8953 [codex] independently approve Order179
+  phase-5/exit-gate                                                              0309376b [codex] withhold phase five exit gate
+  phase-5/exit-gate-after-contention-repair                                      f681b3cc [codex] approve phase 5 independent exit gate
+  phase-5/exit-gate-final-after-app-role                                         ec75d131 [codex] withhold phase 5 exit on setup oracle
+  phase-5/exit-gate-final-after-carry                                            0124f736 [codex] record phase 5 exit gate finding
+  phase-5/exit-gate-final-after-setup                                            2f087f0c [codex] withhold phase 5 independent exit gate
+  phase-5/exit-gate-final-rereview                                               d9f39f8b [codex] withhold phase five exit on stale carry oracle
+  phase-5/exit-gate-rereview                                                     677beb83 [codex] withhold phase five exit on stale oracles
+  phase-5/extension-regex-isolation                                              63c19bef [codex] approve Order 135 regex isolation
+  phase-5/extension-registrar-approved-integration                               c830c9eb [codex] independently approve Order170 registrar integration
+  phase-5/extension-type-registration-capability                                 6ceb5c88 [codex] approve Order 156 extension registration capability
+  phase-5/external-rate-intent-admission                                         270f9581 [codex] record order 132 admission policy
+  phase-5/finance-roadmap-reconciliation                                         adac449b [codex] block stale finance migration allocations
+  phase-5/financial-journey-gate                                                 f138f996 [codex] build Phase 5 financial journey gate
+  phase-5/financial-row-lock-capability                                          8132f72c [codex] add bounded financial row-lock capability
+  phase-5/financial-row-lock-capability-final                                    8dee5e8c [codex] close authorized Question 162
+  phase-5/folio-charge-correction                                                f72c5d1b [codex] harden Order183 correction authority checkpoint
+  phase-5/folio-charge-correction-resumed                                        55c5aa0c [codex] build governed folio settlement
+  phase-5/folio-deep-link-shell                                                  b8c1b94c [codex] record Order174 builder evidence
+  phase-5/folio-responsive-containment                                           f3bcb36e [codex] independently approve Order171 folio journey
+  phase-5/founder-status-approved-integration                                    ebce025b [origin/phase-5/founder-status-approved-integration] [codex] record Order 149 pull request
+  phase-5/founder-status-current-work                                            1bc10bba [codex] approve corrected founder status line
+  phase-5/founder-status-login-throttle-fixture-isolation                        aa091dbf [codex] record Order122 fixture proof evidence
+  phase-5/founder-status-order127-progress                                       cafb5d30 [codex] show recorded Order 127 proof progress
+  phase-5/founder-status-order127-progress-final                                 624c5be4 [codex] close approved Order 147
+  phase-5/founder-status-order156                                                d6edb6a3 [codex] archive Order 157 worktree snapshot
+  phase-5/founder-status-order156-final                                          ffbe8d7d [codex] approve Order 157 founder status
+  phase-5/founder-status-review-count                                            5f9d26ce [codex] fix founder status review count
+  phase-5/founder-ui-foundation                                                  f2c436b9 [codex] enforce UI touch targets
+  phase-5/full-hotel-uat-contract                                                285e4964 [codex] record full-hotel synthetic UAT contract
+  phase-5/future-delivery-readiness                                              bdabd022 [codex] close independently approved Order172
+  phase-5/governed-cashier-sessions                                              10bef051 [codex] build governed cashier sessions
+  phase-5/governed-owner-trust-negative-authorization                            d9db3f55 [codex] withhold carried readiness source-date proof
+  phase-5/governed-receivable-transfer                                           101bc90b [codex] build governed receivable transfer
+  phase-5/idempotency-timestamp-canonicalization                                 ee42950f [codex] approve Order 159 idempotency timestamps
+  phase-5/india-canada-scenario-foundations                                      88415d2e [codex] independently approve corrected Order178
+  phase-5/integrate-cyber-lineage                                                9f97bd0c [codex] approve Order 123 Cyber integration
+  phase-5/jwt-secret-hardening                                                   e496231f [codex] record independent Order 116 approval
+  phase-5/legacy-catalogue-oracle-repair                                         4ce9732a [codex] approve legacy catalogue oracle repair
+  phase-5/local-approved-booking-promotion                                       6a5aa6ba [codex] approve Order 161 local promotion
+  phase-5/local-founder-login-handoff                                            2b02e259 [codex] independently approve Order163 local handoff
+  phase-5/local-login-abuse-controls                                             fb7571b5 [codex] record independent Order 117 approval
+  phase-5/local-reservation-usability-promotion                                  f6fc97bb [codex] independently approve Order167 local promotion
+  phase-5/local-reservation-workspace-promotion                                  cb88b664 [codex] independently approve Order169 local promotion
+  phase-5/local-review-booking-journey-authority                                 af617831 [codex] approve Order 160 booking journey
+  phase-5/material-theme-skins                                                   18f9cc26 [codex] record Order184 local promotion
+  phase-5/occupancy-caller-tenant-binding                                        a064c21a [codex] archive Order 126 worktree snapshot
+  phase-5/occupancy-caller-tenant-binding-approved-final                         8daf34e1 [codex] approve Order 126 occupancy caller binding
+  phase-5/occupancy-caller-tenant-binding-final                                  71247770 [codex] block Order 126 on strict-parent predecessors
+  phase-5/occupancy-caller-tenant-binding-resumed                                09426254 [codex] block Order 126 on segment parent sequencing
+  phase-5/operational-block-review-scope-fixture                                 7d37d74f [codex] verify Order 125 fixture correction
+  phase-5/operator-audited-business-day-seal                                     6bba460a [codex] approve current single local recovery
+  phase-5/operator-business-day-close-workbench                                  7ce8ccf1 [codex] close governed carry operator journey
+  phase-5/operator-folio-statement-charge                                        26d28124 [codex] record independent folio statement approval
+  phase-5/order373-carried-source-report-event-binding                           0ccbcc8f [codex] close carried readiness lineage
+  phase-5/party-contract-cyber-verification                                      41f8c874 [codex] record order 134 no-change approval
+  phase-5/pin-container-images                                                   a2540fdf [codex] record independent Order 120 approval
+  phase-5/post-108-lineage-reconciliation                                        dfa6b13d [origin/phase-5/post-108-lineage-reconciliation] [codex] complete Order 128 lineage plan
+  phase-5/post127-approved-integration                                           4748ded0 [origin/phase-5/post127-approved-integration] [codex] close approved Order 148
+  phase-5/post130-approved-integration                                           a3c91bc4 [origin/main: behind 1341] [codex] approve Order 142 integration
+  phase-5/post163-approved-integration-status                                    be701333 [codex] independently approve Order164 integration
+  phase-5/posting-catalogue-oracle-repair                                        91fbe1fa [codex] approve posting catalogue oracle repair
+  phase-5/pre126-prerequisite-integration                                        3e387eb6 [codex] approve corrected Order 146 integration
+  phase-5/preserve-future-workbench                                              725fb11f [codex] preserve future workbench source
+  phase-5/primary-folio-exact-replay                                             f4842880 [codex] record Order173 builder evidence
+  phase-5/project-status-loading-state                                           d5c6765c [codex] record order 131 verification
+  phase-5/question-status-normalization                                          c7e89e9a [codex] normalize remaining resolved question statuses
+  phase-5/rate-publication-cursor-canonicalization                               493e5d06 [codex] approve Order 162 cursor canonicalization
+  phase-5/referee-typed-parent-fixtures                                          e447eb99 [codex] approve order 130 typed-parent referee fixtures
+  phase-5/remove-floating-project-mcp                                            93795e0f [codex] record independent Order 119 approval
+  phase-5/reservation-create-usability-unblock                                   652aa039 [codex] independently approve Order165 usability unblock
+  phase-5/reservation-folio-backend                                              a88cfa67 [codex] implement Order171 primary folio backend
+  phase-5/reservation-folio-journey                                              db0e71d1 [codex] record Order171 integrated builder evidence
+  phase-5/reservation-folio-ui                                                   08a34f87 [codex] implement reservation folio workspace UI
+  phase-5/reservation-lifecycle-parent-before-occupancy                          e80d1fee [codex] correct Order 144 review decision number
+  phase-5/reservation-note-event-minimization                                    d0f6f1bf [codex] record order 133 independent approval
+  phase-5/reservation-parent-before-occupancy                                    972d0cfe [codex] record order 129 independent approval
+  phase-5/reservation-read-surface                                               a75791c0 [codex] independently approve Order166 reservation read surface
+  phase-5/reservation-segment-parent-before-occupancy                            2faf5e8d [codex] approve Order 143 segment sequencing
+  phase-5/reservation-workspace-ui                                               5025f374 [codex] independently approve Order168 reservation workspace UI
+  phase-5/resolved-question-status-normalization                                 8683a567 [codex] normalize resolved question statuses
+  phase-5/review-order-124                                                       a978d581 [codex] review Order 124 app-role day-seal authority
+  phase-5/revoke-app-role-day-seal                                               ee0cdc52 [codex] review Order 124 app-role day-seal authority
+  phase-5/runtime-database-authority                                             9eaba153 [codex] ask order 127 runtime capability boundaries
+  phase-5/runtime-database-authority-final                                       f26e3952 [codex] close approved Order 127
+  phase-5/runtime-dml-authority                                                  bc25de50 [codex] record runtime DML architecture
+  phase-5/runtime-dml-authority-post127                                          a0532cc3 [codex] admit runtime DML follow-up orders
+  phase-5/runtime-dml-proof-maintenance                                          8f03a872 [codex] repair Order 152 inherited proof authority
+  phase-5/runtime-dml-proof-maintenance-final                                    d7ab0a3b [codex] approve Order 152 proof maintenance
+  phase-5/runtime-dml-reviewed-integration                                       3adcb3de [codex] approve Order 154 reviewed integration
+  phase-5/security-definer-containment                                           0ec1b77f [origin/phase-5/security-definer-containment] [codex] record independent Order 113 approval
+  phase-5/security-definer-containment-current                                   bc22a9db [claude] Stage 1 independent review: candidate 2c11ce9 SECURITY DEFINER containment APPROVED
+  phase-5/security-hardening                                                     85cc5e75 [origin/phase-5/security-hardening] [codex] record independent Order 112 approval
+  phase-5/setup-catalogue-oracle-repair                                          bae06a4c [codex] withhold order 380 setup oracle repair
+  phase-5/setup-message-oracle-repair                                            578ea1e3 [codex] approve order 381 setup message oracle
+  phase-5/single-current-local                                                   acda37cf [codex] approve Order180 single current local
+  phase-5/synthetic-hotel-fixture                                                1c303c50 [codex] record production onboarding policy
+  phase-5/today-command-centre                                                   f90165d8 [codex] independently approve corrected Order177
+  phase-5/transfer-adjustment-reversal                                           3bce2e1e [codex] correct Phase 5 approval decision identity
+  phase-5/two-hotel-scenario-seed                                                144753b5 [codex] approve Order182 current-local scenario import
+  phase-5/typed-parent-compatibility-fixtures                                    d1399596 [codex] approve Order 145 typed-parent fixtures
+  phase-6/arrival-cleaning-checkin-continuity                                    e5224fe1 [codex] build arrival cleaning checkin continuity
+  phase-6/checkin-housekeeping-continuity                                        bd4f246a [codex] build check-in Housekeeping continuity
+  phase-6/checkout-housekeeping-continuity                                       cccca69b [codex] build checkout housekeeping continuity
+  phase-6/departure-folio-return-continuity                                      a6053f73 [codex] build departure folio return continuity
+  phase-6/governed-arrival-pickup-task-dispatch                                  c58a7349 [codex] build governed arrival pickup task dispatch
+  phase-6/governed-arrival-room-cleaning-task                                    d3780065 [codex] build governed arrival cleaning task
+  phase-6/governed-arrival-travel-visibility                                     49ca268c [codex] build governed arrival travel visibility
+  phase-6/governed-checkin-readiness                                             96573e1b [codex] correct Order200 phase plan whitespace
+  phase-6/governed-checkout-command                                              c4dc25e2 [codex] build governed checkout command
+  phase-6/governed-departure-readiness-workbench                                 9162facb [codex] build governed departure readiness workbench
+  phase-6/governed-departure-travel-visibility                                   f12fe182 [codex] build governed departure travel visibility
+  phase-6/governed-due-in-room-assignment                                        922c8a94 [codex] build governed due-in room assignment
+  phase-6/governed-housekeeping-task-lifecycle                                   4ca545ee [codex] build governed housekeeping task lifecycle
+  phase-6/governed-housekeeping-task-sheet-generation-v1                         c3d48a3d [codex] build governed housekeeping task sheet generation
+  phase-6/governed-property-local-due-in-roll                                    ab49e31b [codex] build governed property-local due-in roll
+  phase-6/governed-property-local-due-out-roll                                   857601b2 [codex] build governed property-local due-out roll
+  phase-6/governed-reservation-travel-capture                                    5b03b9ac [codex] build governed arrival pickup automation
+  phase-6/governed-room-condition-initialization                                 0a11bb60 [codex] build governed initial room condition ingress
+  phase-6/governed-room-condition-visibility                                     8004f1fb [codex] build governed room condition visibility
+  phase-6/governed-room-discrepancy-reporting                                    dbaafec1 [codex] build governed room discrepancy reporting
+  phase-6/governed-vehicle-parking-assignment                                    0708df10 [codex] build governed vehicle parking assignment
+  phase-6/governed-vehicle-register-read                                         c971b016 [codex] build governed vehicle register
+  phase-6/housekeeping-sheet-task-receipt                                        c70b1c5e [codex] build housekeeping sheet task receipt
+  phase-6/housekeeping-task-detail                                               3efaaf7e [codex] build housekeeping task detail
+  phase-6/housekeeping-task-detail-governed-actions                              3f80b505 [codex] build housekeeping task detail governed actions
+  phase-6/reservation-detail-arrival-pickup-state                                633f8daf [codex] build reservation detail pickup state
+  phase-6/reservation-detail-guest-allocation                                    790740b2 [codex] build reservation-detail guest allocation
+  phase-6/reservation-detail-operational-preparation                             205b5afd [codex] build reservation detail operational preparation
+  phase-6/reservation-detail-stay-changes                                        0a58cc86 [codex] build reservation-detail stay changes
+  phase-6/reservation-folio-return-continuity                                    97431daf [codex] build reservation Folio return continuity
+  phase-6/reservation-pickup-task-detail                                         f1ae7dd8 [codex] build reservation pickup task detail
+  phase-6/today-in-house-checkout-preparation                                    f70d69e8 [codex] build Today in-house checkout preparation
+  phase-6/today-operational-action-routing                                       ae54d447 [codex] build Today operational action routing
+  phase-6/vehicle-linked-reservation-navigation                                  01f740fe [codex] build vehicle linked reservation navigation
+  phase-6/vehicle-register-detail                                                2963bfcf [codex] build vehicle register detail
+  phase-6/vehicle-register-linked-reservation-continuity                         a752a54e [codex] build Vehicle Register linked-reservation continuity
+  phase-7/app-bar-responsive-containment                                         78c526c0 [codex] approve Order 330 responsive containment
+  phase-7/app-bar-responsive-local-refresh                                       8b5a7bc8 [codex] approve Order 331 fresh Tier3
+  phase-7/arrival-departure-journey-alignment                                    e2d2a365 [codex] approve Order 322 arrival journey alignment
+  phase-7/arrival-departure-journey-local-refresh                                a01e4c2d [codex] approve Order 323 arrival journey local
+  phase-7/arrivals-departures-lane-focus                                         3e44482c [codex] approve Order 332 fresh Tier2 rereview
+  phase-7/arrivals-departures-lane-focus-local-refresh                           d0ae46fa [codex] approve Order 333 local refresh
+  phase-7/canonical-tax-attribution-persistence                                  1cef8339 [origin/phase-7/canonical-tax-attribution-persistence] [codex] build canonical tax attribution persistence
+  phase-7/canonical-tax-attribution-snapshot                                     7d0adcef [origin/phase-7/canonical-tax-attribution-snapshot] [codex] build canonical tax attribution snapshot
+  phase-7/current-management-demo-local                                          9ca6d382 [codex] review Order 311 management demo local
+  phase-7/current-project-status-order240                                        a1ec0d19 [origin/phase-7/current-project-status-order240] [codex] approve current founder login recovery
+  phase-7/current-project-status-order245                                        088465d5 [origin/phase-7/current-project-status-order245] [codex] refresh project status through order 245
+  phase-7/current-project-status-order248                                        d15424f7 [origin/phase-7/current-project-status-order248] [codex] Order 249 current project status through Order 248
+  phase-7/current-project-status-order252                                        2f58a6f2 [origin/phase-7/current-project-status-order252] [codex] Order 253 refresh project status through Order 252
+  phase-7/current-project-status-order256                                        f6089d4c [origin/phase-7/current-project-status-order256] [codex] Order 257 current project status
+  phase-7/current-project-status-order259                                        2ae5f2a7 [origin/phase-7/current-project-status-order259] [codex] Order 260 refresh project status through 259
+  phase-7/current-project-status-order266                                        38c419db [origin/phase-7/current-project-status-order266] [codex] Build Order 269 project status
+  phase-7/current-project-status-order272                                        2cc26223 [origin/phase-7/current-project-status-order272] [codex] Build Order 273 project status
+  phase-7/current-status-login-order262                                          10f78fa1 [origin/phase-7/current-status-login-order262] [codex] Approve Order 263 status and sign-in restore
+  phase-7/effective-tax-jurisdiction-resolution                                  537f2c16 [codex] build effective tax jurisdiction resolution
+  phase-7/folio-capability-copy-finetune                                         4910efe7 [codex] approve Order 320 folio capability copy
+  phase-7/folio-capability-copy-local-refresh                                    ae97d372 [codex] approve Order 321 folio copy local
+  phase-7/folio-loaded-responsive-containment                                    c0692206 [codex] approve Order 328 responsive containment
+  phase-7/folio-reservation-discoverability                                      58500180 [codex] approve Order 318 folio discoverability
+  phase-7/folio-reservation-discoverability-local-refresh                        b69ed0ac [codex] approve Order 319 folio bridge local
+  phase-7/folio-responsive-local-refresh                                         1d89bd94 [codex] withhold Order 329 responsive local refresh
+  phase-7/folio-separate-charges-label                                           10c8e034 [codex] close Order 326 separate charges review
+  phase-7/folio-separate-charges-local-refresh                                   ec85c5da [codex] withhold Order 327 responsive review
+  phase-7/governed-positive-tax-correction                                       00f0960d [origin/phase-7/governed-positive-tax-correction] [codex] Approve Order 266 positive-tax correction
+  phase-7/india-accommodation-place-of-supply                                    b257949b [origin/phase-7/india-accommodation-place-of-supply] [codex] Approve Order 282 lodging place of supply
+  phase-7/india-accommodation-registered-state-comparison                        2a9527aa [origin/phase-7/india-accommodation-registered-state-comparison] [codex] Approve Order 283 registered-state comparison
+  phase-7/india-accommodation-supply-nature                                      39219a8e [origin/phase-7/india-accommodation-supply-nature] [codex] Approve Order 287 accommodation supply nature
+  phase-7/india-gst-accommodation-classification                                 2c45c6db [origin/phase-7/india-gst-accommodation-classification] [codex] Approve Order 281 accommodation classification
+  phase-7/india-gst-accommodation-component-family                               4e1b1098 [codex] review order 308 accommodation component family
+  phase-7/india-gst-accommodation-component-rate-authority                       3c5ec4e1 [codex] review Order 312 component rate authority
+  phase-7/india-gst-accommodation-effective-rates                                465d791d [origin/phase-7/india-gst-accommodation-effective-rates] [codex] approve Order 298 exact candidate
+  phase-7/india-gst-accommodation-historical-resolution                          2c1edccb [codex] review order 306 accommodation historical resolution
+  phase-7/india-gst-accommodation-invoice-issue-date                             b5b2d452 [origin/phase-7/india-gst-accommodation-invoice-issue-date] [codex] Approve Order 292 invoice issue date
+  phase-7/india-gst-accommodation-invoice-timeliness                             809928fc [origin/phase-7/india-gst-accommodation-invoice-timeliness] [codex] Approve Order 293 invoice timeliness
+  phase-7/india-gst-accommodation-launch-history                                 1fca2ce3 [codex] review order 305 accommodation launch history
+  phase-7/india-gst-accommodation-levy-component-identity                        3f50f7e3 [codex] review Order 310 levy component identity
+  phase-7/india-gst-accommodation-levy-input-bundle                              dc528552 [codex] review order 309 accommodation levy input bundle
+  phase-7/india-gst-accommodation-numeric-component-rate-split                   9fd55d8c [codex] approve Order 337 proof repair
+  phase-7/india-gst-accommodation-payment-receipt-date                           1037f9dd [origin/phase-7/india-gst-accommodation-payment-receipt-date] [codex] Approve Order 291 payment receipt date
+  phase-7/india-gst-accommodation-quoted-rate-applicability-partition            b02896ce [codex] activate Order 344 owner trust guard
+  phase-7/india-gst-accommodation-rate-change-date                               06596587 [codex] review order 307 accommodation rate change date
+  phase-7/india-gst-accommodation-rate-version-pair                              b7a5b504 [codex] review order 304 accommodation rate version pair
+  phase-7/india-gst-accommodation-service-provision-date                         31dd963e [origin/phase-7/india-gst-accommodation-service-provision-date] [codex] Approve Order 290 service provision date
+  phase-7/india-gst-accommodation-supply-nature-at-time-of-supply                7d41ebe4 [origin/phase-7/india-gst-accommodation-supply-nature-at-time-of-supply] [codex] approve Order 297 exact candidate
+  phase-7/india-gst-accommodation-time-of-supply                                 92f2036d [origin/phase-7/india-gst-accommodation-time-of-supply] [codex] Approve Order 294 time of supply
+  phase-7/india-gst-accommodation-unit-day-price-input                           8abc3fa1 [codex] prove Order 313 intentional unit day input red
+  phase-7/india-gst-folio-buyer-candidate                                        4a0f3eda [origin/phase-7/india-gst-folio-buyer-candidate] [codex] Approve Order 279 folio buyer candidate
+  phase-7/india-gst-notification15-accommodation-rate-correction                 7010f75a [codex] review order 303 notification 15 correction
+  phase-7/india-gst-recipient-registration                                       fcdec1f4 [origin/phase-7/india-gst-recipient-registration] [codex] Normalize Order 276 review evidence
+  phase-7/india-gst-recipient-registration-at-time-of-supply                     a9cb63e3 [origin/phase-7/india-gst-recipient-registration-at-time-of-supply] [codex] approve Order 296 recipient timing evidence
+  phase-7/india-gst-recipient-sez-status                                         20ae4e9a [origin/phase-7/india-gst-recipient-sez-status] [codex] Normalize Order 285 review record
+  phase-7/india-gst-registration-at-time-of-supply                               912cc1f8 [origin/phase-7/india-gst-registration-at-time-of-supply] [codex] Close Order 295 approval checklist
+  phase-7/india-gst-section14-payment-proviso-gate                               845cb821 [codex] review 302 payment proviso gate
+  phase-7/india-gst-section14-payment-receipt-date                               09616486 [codex] approve Order 339 after proof repair
+  phase-7/india-gst-section14-rate-selection                                     a31d3cd5 [codex] approve Order 340 after proof repair
+  phase-7/india-gst-section14-working-day-calendar-evidence                      3f911346 [codex] approve Order 338 working-day evidence
+  phase-7/india-gst-supplier-registration                                        3d5454a9 [origin/phase-7/india-gst-supplier-registration] [codex] Approve Order 272 India GST registration
+  phase-7/india-gst-supplier-registration-status                                 8f5c600b [origin/phase-7/india-gst-supplier-registration-status] [codex] Clean Order 289 review record
+  phase-7/india-gst-supplier-service-location                                    ab32439a [origin/phase-7/india-gst-supplier-service-location] [codex] Approve Order 284 supplier service location
+  phase-7/india-gst-supplier-sez-status                                          c2a8c76c [origin/phase-7/india-gst-supplier-sez-status] [codex] Approve Order 286 supplier SEZ status
+  phase-7/india-irp-buyer-details                                                8e001e97 [origin/phase-7/india-irp-buyer-details] [codex] Normalize Order 278 review evidence
+  phase-7/india-irp-seller-details                                               3114d24b [origin/phase-7/india-irp-seller-details] [codex] Approve Order 275 IRP seller details
+  phase-7/india-property-fiscal-location                                         1e01fe25 [origin/phase-7/india-property-fiscal-location] [codex] Approve Order 280 property fiscal location
+  phase-7/india-sez-unit-loa-renewal                                             bb22dd7d [origin/phase-7/india-sez-unit-loa-renewal] [codex] Approve Order 288 SEZ unit LoA renewal
++ phase-7/live-ecosystem-20261002                                                2b096e5f (E:/YellowWorkspace/Worktrees/phase-7-resource-receiving-20261001) [codex] Restore original reservations and neon-green host calendar
+  phase-7/management-demo-navigation-finetune                                    d2522e2d [codex] approve Order 316 management demo navigation
+  phase-7/management-demo-navigation-local-refresh                               d1b9cc7e [codex] approve Order 317 management demo local
+  phase-7/management-demo-workspace-discoverability                              13b8d601 [codex] complete Order 314 workspace discoverability
+  phase-7/management-demo-workspace-local                                        721cbbc8 [codex] approve Order 315 management demo local
++ phase-7/operator-invoice-workflow                                              75a2eba1 (C:/Users/astha/Documents/Codex/2026-08-14/cl/outputs/yellow-order175-folio-responsive-containment) [origin/phase-7/operator-invoice-workflow] [codex] Align current status and observe bounded native startup
+  phase-7/order276-setup-oracle                                                  5fe42f52 [origin/phase-7/order276-setup-oracle] [codex] Approve Order 276 recipient GST evidence
+  phase-7/order294-time-of-supply-review                                         b4e0d08d [codex] Review Order 294 time of supply
+  phase-7/order335-rollback-readiness                                            25db3854 [codex] approve Orders 335-336 rereview
+  phase-7/order432-rate-pricing                                                  d3317d90 [origin/phase-7/order432-rate-pricing] [codex] derive operator pricing scopes canonically
+  phase-7/order435-main-readme                                                   307ab0cf [origin/main: behind 1342] [codex] normalize imported design heading whitespace
+  phase-7/order437-main-sync                                                     6c38e2dd [codex] merge current main ancestry into development
+  phase-7/parking-occupancy-definer-path-repair                                  33f29e09 [origin/phase-7/parking-occupancy-definer-path-repair] [codex] repair parking occupancy definer paths
+  phase-7/persisted-india-final-component-tax-evidence                           978a2d66 [codex] align provider identities and fiscal catalogue proof; bound CI diagnostics
+  phase-7/persisted-india-quoted-rate-applicability-evidence                     5a65eb08 [codex] approve Orders400-404 statutory persistence
+  phase-7/positive-tax-folio-eligibility                                         a593745c [origin/phase-7/positive-tax-folio-eligibility] [codex] Order 256 independent approval evidence
+  phase-7/positive-tax-journal-posting                                           06ead97d [origin/phase-7/positive-tax-journal-posting] [codex] Approve Order 262 positive-tax posting
+  phase-7/positive-tax-posting-plan                                              7857655b [origin/phase-7/positive-tax-posting-plan] [codex] Order 251 canonical positive tax posting plan
+  phase-7/promote-current-status-order240-local                                  f97464b1 [origin/phase-7/promote-current-status-order240-local] [codex] approve current status local promotion
+  phase-7/promote-orders244-246-local                                            cad6ceed [origin/phase-7/promote-orders244-246-local] [codex] promote orders 244 through 246 locally
+  phase-7/promote-orders248-249-local                                            9a5f46e6 [origin/phase-7/promote-orders248-249-local] [codex] promote Orders 248 and 249 to sole local
+  phase-7/promote-orders251-254-local                                            3139f09d [origin/phase-7/promote-orders251-254-local] [codex] Order 255 promote Orders 251 through 254 locally
+  phase-7/promote-orders256-257-local                                            b9187d71 [origin/phase-7/promote-orders256-257-local] [codex] Order 258 promote current app status locally
+  phase-7/promote-orders259-260-local                                            dff23026 [origin/phase-7/promote-orders259-260-local] [codex] Approve Order 261 local promotion
+  phase-7/promote-orders262-263-local                                            347f24c8 [origin/phase-7/promote-orders262-263-local] [codex] Record Order 264 credential-log finding
+  phase-7/promote-orders266-270-local                                            3c9fb7c7 [origin/phase-7/promote-orders266-270-local] [codex] Approve Order 271 local promotion
+  phase-7/promote-orders272-273-local                                            71b2c343 [origin/phase-7/promote-orders272-273-local] [codex] Approve Order 274 local promotion
+  phase-7/property-day-extension-containment                                     5c4414a1 [origin/phase-7/property-day-extension-containment] [codex] review 301 property-day containment
+  phase-7/property-local-business-day-instant-evidence                           e352a91b [origin/phase-7/property-local-business-day-instant-evidence] [codex] approve Order 300 final Tier-3 review
+  phase-7/quote-tax-preview                                                      d6e52dcf [codex] build attributable rate quote tax preview
+  phase-7/quoted-tax-hold-binding                                                f3113088 [origin/phase-7/quoted-tax-hold-binding] [codex] Order 248 authoritative quoted-tax hold binding
+  phase-7/quoted-tax-reservation-lineage                                         c5e62350 [origin/phase-7/quoted-tax-reservation-lineage] [codex] Order 252 quoted-tax reservation lineage
+  phase-7/reconcile-migration44-lineage                                          070528ae [origin/phase-7/reconcile-migration44-lineage] [codex] Approve Order 270 migration lineage
+  phase-7/reconcile-order252-migration-lineage                                   4d92b51e [origin/phase-7/reconcile-order252-migration-lineage] [codex] Order 254 reconcile migration lineage forward-only
+  phase-7/reconcile-order266-runtime                                             c6a30f11 [origin/phase-7/reconcile-order266-runtime] [codex] Record Order 267 runtime review finding
+  phase-7/reservation-journey-seed-compatibility                                 9176c009 [codex] build Order 350 reservation seed compatibility
+  phase-7/reservation-journey-seed-compatibility-final                           f0c16966 [codex] build Order 350 reservation seed compatibility
+  phase-7/resource-receiving-20261001                                            93bf7f94 [codex] Retain Yellow sessions during workspace navigation
+  phase-7/restore-retained-sole-local                                            ad678ecf [origin/phase-7/restore-retained-sole-local] [codex] Approve Order 268 retained sole local restore
+  phase-7/room-outages-destination-copy                                          fc5b048d [codex] approve Order 334 destination copy
+  phase-7/room-outages-destination-copy-local-refresh                            d3363bda [codex] withhold Order 335 rollback topology
+  phase-7/room-outages-label-alignment                                           490a2f8b [codex] approve Order 324 room outages label
+  phase-7/room-outages-label-local-refresh                                       5f640117 [codex] approve Order 325 room outages local
+  phase-7/rotate-exposed-local-credentials                                       252254b4 [origin/phase-7/rotate-exposed-local-credentials] [codex] Approve Order 265 credential rotation
+  phase-7/rules-driven-tax-evaluation                                            e764ed28 [codex] build pure rules driven tax evaluation
+  phase-7/semantic-tax-route                                                     97a30920 [origin/phase-7/semantic-tax-route] [codex] Approve Order 259 semantic routing
+  phase-7/tax-extension-effective-period-evidence                                0b909738 [origin/phase-7/tax-extension-effective-period-evidence] [codex] approve Order 299 exact candidate
+  phase-9/pr93-base-repair                                                       3c23bae9 [origin/phase-9/overture-compset-map: behind 2] [codex] reconcile stacked market maps and prove native catalog publication
++ phase-9/pr93-ci-proof                                                          01c9ffa4 (C:/Users/astha/.codex/worktrees/harness-astra-handoff/yellow) [codex] isolate the historical housekeeping seed profile proof
++ phase-9/pr97-base-repair                                                       d6e57ff7 (C:/Users/astha/.codex/worktrees/pr-repairs/yellow) [codex] preserve PR97 repair candidate with blocked acceptance
+  recovery/resource-20261001-cloud-9ff27ad8                                      9ff27ad8 [codex] bound owned CDP proof startup and cleanup
+  remotes/origin/HEAD                                                            -> origin/main
+  remotes/origin/backup/final-codex-handoff-5f49c82                              5f49c82d [claude] D-93: full Order-091 lineage context for Codex (single linear branch, Gate-3 history, review-debt manifest)
+  remotes/origin/backup/order-089-baseline-1cac9b5                               1cac9b5e [codex] record order 089 self-check correction
+  remotes/origin/backup/order-090-956508a                                        956508a0 [codex] record Order 090 evidence
+  remotes/origin/backup/order-091-51d46f7                                        51d46f77 [codex] add canonical RMS room economics
+  remotes/origin/backup/order-091-final-4874f5c                                  4874f5cd [codex] record Order 091 builder evidence
+  remotes/origin/backup/phase-1-12ba636                                          12ba636f [codex] finalize Order 078 evidence
+  remotes/origin/backup/phase-4-383c98f                                          383c98f4 [codex] record Order 082 remote CI
+  remotes/origin/backup/phase4-review-080-086-1cac9b5                            1cac9b5e [codex] record order 089 self-check correction
+  remotes/origin/backup/review-d3f6ee4                                           d3f6ee44 [codex] record order 085 remote CI
+  remotes/origin/codex/live-order611-source-v2                                   d708ff29 [codex] repair PR97 browser proofs and current migration gates
+  remotes/origin/codex/order416-tax-fiscal-context-facade                        28ac3231 [codex] make historical review-seed profile fixture clock independent
+  remotes/origin/codex/windows-support                                           bbfe6079 [codex] add Windows setup and verification support
+  remotes/origin/main                                                            3503b0c0 Merge pull request #91 from dcpnode-maker/phase-7/persisted-india-final-component-tax-evidence
+  remotes/origin/phase-0/android-worker-foundation                               6e07bf8e [codex] promote repaired engine to 7B Q4 test
+  remotes/origin/phase-0/architect-gate-brief                                    e6fb36ff [claude] normalise review file mode to 644
+  remotes/origin/phase-0/baseline-ci                                             402bfc89 [codex] add baseline Phase 0 CI
+  remotes/origin/phase-0/bootstrap-seed                                          d662fae6 [codex] add deterministic app-role bootstrap seed
+  remotes/origin/phase-0/bun-sql-migration-runner                                56f55faa [codex] add checksummed Bun SQL migration runner
+  remotes/origin/phase-0/ci-compose-health-correction                            a421e6b0 [codex] fix Compose-resolved database CI health wait
+  remotes/origin/phase-0/ci-compose-health-order                                 a8abb84a [codex] order Compose-resolved CI health correction
+  remotes/origin/phase-0/ci-compose-port-resolution                              e34fa401 [codex] resolve CI service ports through Docker
+  remotes/origin/phase-0/containerized-health-app                                382fdfd6 [codex] containerize Phase 0 health app
+  remotes/origin/phase-0/context-import-boundaries                               19f871ca [codex] use portable async TypeScript AST API
+  remotes/origin/phase-0/cumulative-review-request                               63eca4a4 [codex] prepare cumulative Phase 0 review request
+  remotes/origin/phase-0/database-ci-schema-drift                                97209531 [codex] add fresh database acceptance and schema drift CI
+  remotes/origin/phase-0/dependency-audit-gate                                   ba4e1734 [codex] add dependency vulnerability audit gate
+  remotes/origin/phase-0/finalize-bootstrap-loop                                 c5104d75 [codex] finalize portable Phase 0 bootstrap loop
+  remotes/origin/phase-0/founder-context-demo-readiness                          68a0ddf9 [codex] make historical review-seed profile fixture clock independent
+  remotes/origin/phase-0/interim-architect-orders                                7322d67d [codex] refine Phase 0 orders with executable probes
+  remotes/origin/phase-0/invariant-battery-integrity                             3e37e0d6 [codex] harden invariant battery preconditions
+  remotes/origin/phase-0/license-policy-gate                                     5f807bf3 [codex] enforce dependency license policy
+  remotes/origin/phase-0/next-architect-gates                                    f25ed6cb [codex] document Phase 0 architect gates
+  remotes/origin/phase-0/phone-idle-worker-rfc                                   86dd59e3 [codex] appoint Codex primary Yellow lead
+  remotes/origin/phase-0/powershell-coverage-split                               4dbaf2b0 [claude] review 018 APPROVED; mark orders 001-018 MERGED; D-89 reviewer limit, D-90 single cumulative integration
+  remotes/origin/phase-0/review-009-cumulative                                   d6f5c3eb [claude] D-84: Tier 3 = one architect reviewer + reviewer-executed proof; ROSTER amended; review 008-015 unblocked for merge
+  remotes/origin/phase-0/review-016-017                                          a4234977 [claude] D-86 closes D-85 (PowerShell split); order 018; D-87 tier-batched review cadence; ROADMAP.md; Phase 1 renumbered 019-026
+  remotes/origin/phase-0/runtime-health-scaffold                                 433b5cb4 [codex] implement Phase 0 runtime health scaffold
+  remotes/origin/phase-0/security-header-gate                                    eb00dd45 [codex] enforce application security headers
+  remotes/origin/phase-0/stack-corrections                                       a8a33ec4 [codex] sync Claude Phase 0 re-review base
+  remotes/origin/phase-0/state-open-work-accuracy                                30b9491a [codex] report open handoff work separately
+  remotes/origin/phase-0/windows-walkthrough-correction                          7e7b19b6 [codex] update Windows walkthrough Compose database check
+  remotes/origin/phase-0/windows-walkthrough-order                               b3935ebd [codex] order Windows walkthrough Compose correction
+  remotes/origin/phase-0/yellow-harness-astra-handoff                            b9649cbb [codex] Clarify sanitized Astra handoff branch
+  remotes/origin/phase-0/yellow-v1-blueprint                                     61712c42 [codex] add Yellow V1 interactive prototype order
+  remotes/origin/phase-1/approval-request                                        70c3951b [codex] implement audited approval primitive
+  remotes/origin/phase-1/architect-orders                                        57b3ba57 [claude] Phase 1 orders 019-026, D-91 JWT claim shape, D-92 phase-level cadence with pre-registered proofs
+  remotes/origin/phase-1/auth-jwt                                                102c7675 [codex] implement JWT authentication and tenant resolver
+  remotes/origin/phase-1/constitution-assessment                                 a055d4b7 [codex] document Yellow constitution and architecture assessment
+  remotes/origin/phase-1/eventbus-outbox-consumer                                d3afdf02 [codex] implement durable PostgreSQL EventBus
+  remotes/origin/phase-1/extension-registry                                      d390ac93 [codex] implement audited extension registry
+  remotes/origin/phase-1/fact-log-audit-envelope                                 64f9cd83 [codex] implement transactional fact-log audit envelope
+  remotes/origin/phase-1/org-ltree-hierarchy                                     d10ca755 [codex] implement tenant-safe org hierarchy queries
+  remotes/origin/phase-1/outbox-relay-worker                                     795a7703 [codex] implement crash-safe outbox relay
+  remotes/origin/phase-1/tenant-context-middleware                               9baf60b4 [codex] implement transaction-local tenant context
+  remotes/origin/phase-14/build-continuity                                       35e10096 [codex] Prepare bounded parallel model continuity tooling
+  remotes/origin/phase-2/api-idempotency-foundation                              4f393d27 [codex] align migration acceptance ledger
+  remotes/origin/phase-2/audited-hold-expiry-worker                              41242def [codex] add audited hold expiry worker
+  remotes/origin/phase-2/audited-holds                                           22d2b2d1 [codex] implement audited cart hold lifecycle
+  remotes/origin/phase-2/availability-projection-consumer                        53d3b306 [codex] request independent review for order 059
+  remotes/origin/phase-2/availability-projection-rebuild                         77a54d02 [codex] request independent review for order 058
+  remotes/origin/phase-2/availability-scaling-proof                              51ac7d73 [codex] record order 061 gate 3 debt
+  remotes/origin/phase-2/handoff-state-accuracy                                  6bfd2c58 [codex] make handoff state review-accurate
+  remotes/origin/phase-2/hold-expiry-hardening                                   b4717abb [codex] harden legacy hold expiry privileges
+  remotes/origin/phase-2/inventory-commands                                      a241ab1a [codex] implement tenant-safe inventory configuration
+  remotes/origin/phase-2/inventory-controls                                      0bd95852 [codex] implement atomic restriction configuration
+  remotes/origin/phase-2/local-review-demo-inventory                             dc340761 [codex] seed real local review inventory
+  remotes/origin/phase-2/local-service-loopback-hardening                        9839c27b [codex] bind local data services to loopback
+  remotes/origin/phase-2/ooo-oos-lifecycle                                       def27b8c [codex] implement audited OOO OOS lifecycle
+  remotes/origin/phase-2/oos-sellability-policy                                  2d370be3 [codex] add configurable OOS sellability policy
+  remotes/origin/phase-2/operational-block-availability                          aabf113d [codex] isolate PowerShell state probe exits
+  remotes/origin/phase-2/operator-bulk-room-creation                             8495a6f2 [codex] request independent review for order 057
+  remotes/origin/phase-2/operator-cart-hold-management                           5c0da021 [codex] add operator cart-hold management
+  remotes/origin/phase-2/operator-inventory-management                           fe6532f1 [codex] add operator inventory management
+  remotes/origin/phase-2/operator-login-availability                             6003c7d4 [codex] add themed operator availability workbench
+  remotes/origin/phase-2/operator-offline-lease-pool                             fdd09891 [codex] record order 062 gate 3 debt
+  remotes/origin/phase-2/operator-oos-sellability-policy                         72cc2c5f [codex] add operator OOS sellability policy
+  remotes/origin/phase-2/operator-operational-block-management                   47f86503 [codex] add operator operational block management
+  remotes/origin/phase-2/operator-projection-bootstrap                           248d720b [codex] reconcile gate 3 handoff
+  remotes/origin/phase-2/operator-rate-plan-management                           48104396 [codex] add operator rate-plan management
+  remotes/origin/phase-2/operator-rate-price-correction                          413d568d [codex] add immutable rate-price correction
+  remotes/origin/phase-2/operator-rate-price-management                          2a8adf85 [codex] add operator exact rate pricing
+  remotes/origin/phase-2/operator-restriction-management                         4c7fc943 [codex] add operator restriction management
+  remotes/origin/phase-2/rate-configuration                                      f1bfb115 [codex] implement audited rate configuration
+  remotes/origin/phase-2/rate-price-supersession                                 a87a687c [codex] implement race-safe rate supersession
+  remotes/origin/phase-2/rate-prices                                             2bef22be [codex] implement exact bigint rate prices
+  remotes/origin/phase-2/restriction-evaluation                                  fb4d014e [codex] evaluate availability restrictions
+  remotes/origin/phase-2/truth-availability                                      f00fe4e7 [codex] implement PostgreSQL-truth availability search
+  remotes/origin/phase-2/windows-state-fail-closed                               36c9489f [codex] fail closed on incomplete Windows state
+  remotes/origin/phase-3/founder-status-dashboard                                9c9cba16 [codex] record order 064 gate 3 debt
+  remotes/origin/phase-3/gate-3-corrections                                      da8c64f6 [codex] normalize Gate-3 correction order formatting
+  remotes/origin/phase-3/guided-expert-rate-workbench                            674790b3 [codex] record guided expert rate evidence
+  remotes/origin/phase-3/local-review-published-rate                             12ba636f [codex] finalize Order 078 evidence
+  remotes/origin/phase-3/rate-approval-inbox                                     68d9701a [codex] record deployment acceptance correction proof
+  remotes/origin/phase-3/rate-draft-publish-versioning                           193e01df [codex] record order 069 schema correction proof
+  remotes/origin/phase-3/rate-policy-package-composition                         7d8e3110 [codex] record order 068 gate 3 debt
+  remotes/origin/phase-3/rate-release-reuse-workbench                            02a28451 [codex] finalize Order 076 builder evidence
+  remotes/origin/phase-3/rate-target-rule-workbench                              646b87e6 [codex] record rate targeting workbench evidence
+  remotes/origin/phase-3/rate-targeting-resolver                                 6c07b0a9 [codex] record order 066 gate 3 debt
+  remotes/origin/phase-3/reproducible-gate-3-proofs                              d26f4a51 [codex] finalize Order 079 evidence
+  remotes/origin/phase-3/secure-rate-intent-assistant                            38720c15 [codex] record secure rate intent evidence
+  remotes/origin/phase-3/selected-release-preview-evidence                       ba1125b8 [codex] finalize Order 075 builder evidence
+  remotes/origin/phase-3/typed-rate-evaluators                                   f5dfda6e [codex] record order 067 gate 3 debt
+  remotes/origin/phase-3/universal-rate-plan-contract                            9c1f1df6 [codex] schedule founder status before rate models
+  remotes/origin/phase-3/universal-rate-quote-rms                                ea8d357b [codex] record universal rate quote proof debt
+  remotes/origin/phase-3/versioned-rate-model-catalogue                          6168b6b1 [codex] record order 065 gate 3 debt
+  remotes/origin/phase-4/atomic-hold-reservation-commit                          e8eb15e3 [codex] record Order 081 remote CI
+  remotes/origin/phase-4/channel-booked-value-contract                           18bf20b8 [codex] record Order 093 graph refresh
+  remotes/origin/phase-4/complete-availability-offer-search                      a577bed8 [codex] record Order 084 remote CI
+  remotes/origin/phase-4/direct-reservation-commit-http                          383c98f4 [codex] record Order 082 remote CI
+  remotes/origin/phase-4/gate-3-seed-proof-correction                            97b20151 [codex] record Order 083 remote CI
+  remotes/origin/phase-4/operator-reservation-booking                            a2b951d5 [codex] record Order 099 independent approval
+  remotes/origin/phase-4/operator-reservation-guests                             a5c8c903 [codex] record Order 096 independent approval
+  remotes/origin/phase-4/operator-reservation-lifecycle                          699cbd65 [codex] record Order 097 independent approval
+  remotes/origin/phase-4/operator-reservation-segment-changes                    41f72b3c [codex] record Order 098 independent approval
+  remotes/origin/phase-4/ota-research-evidence-contract                          5ab6457f [codex] record Order 092 remote CI
+  remotes/origin/phase-4/portable-ai-provider-contract                           2eb03058 [codex] record Order 090 localhost deployment
+  remotes/origin/phase-4/reconcile-founder-status-review-coverage                142d19f9 [codex] record Order 093 independent approval
+  remotes/origin/phase-4/reconcile-order-091-frontier                            9a2919ad [codex] close Order 045-091 review debt
+  remotes/origin/phase-4/repair-hold-role-proof                                  69242f19 [codex] repair inherited hold role proof
+  remotes/origin/phase-4/reservation-guest-delete-privilege                      22e4264b [codex] record Order 094 independent approval
+  remotes/origin/phase-4/reservation-guest-share-command                         80a1992b [codex] record Order 095 independent approval
+  remotes/origin/phase-4/reservation-guests-shares                               27c6c85e [codex] record order 087 standing probe
+  remotes/origin/phase-4/reservation-lifecycle-commands                          d3f6ee44 [codex] record order 085 remote CI
+  remotes/origin/phase-4/reservation-segment-changes                             c92b096b [codex] record order 086 remote CI
+  remotes/origin/phase-4/reservation-state-contract                              550e4290 [codex] record Order 080 remote CI
+  remotes/origin/phase-4/rms-economic-metric-contract                            aa07830c [codex] record Order 091 localhost deployment
+  remotes/origin/phase-4/security-hardening                                      89aa76b3 [codex] record independent Order 103 approval
+  remotes/origin/phase-4/strict-http-calendar-instants                           1cac9b5e [codex] record order 089 self-check correction
+  remotes/origin/phase-5/account-folio-foundation                                01dcddd3 [codex] record independent folio approval
+  remotes/origin/phase-5/balanced-charge-posting                                 52f8b0c6 [codex] record independent rebased charge approval
+  remotes/origin/phase-5/cumulative-integration-019-108                          3378bad4 [codex] prepare cumulative Orders 019-108 integration
+  remotes/origin/phase-5/current-founder-login-recovery                          91b7891f [codex] approve current founder login recovery
+  remotes/origin/phase-5/founder-status-approved-integration                     ebce025b [codex] record Order 149 pull request
+  remotes/origin/phase-5/post-108-lineage-reconciliation                         dfa6b13d [codex] complete Order 128 lineage plan
+  remotes/origin/phase-5/post127-approved-integration                            4748ded0 [codex] close approved Order 148
+  remotes/origin/phase-5/security-definer-containment                            0ec1b77f [codex] record independent Order 113 approval
+  remotes/origin/phase-5/security-hardening                                      85cc5e75 [codex] record independent Order 112 approval
+  remotes/origin/phase-7/canonical-tax-attribution-persistence                   1cef8339 [codex] build canonical tax attribution persistence
+  remotes/origin/phase-7/canonical-tax-attribution-snapshot                      7d0adcef [codex] build canonical tax attribution snapshot
+  remotes/origin/phase-7/codex-consolidated-release                              791e416a [codex] record independent release acceptance and reconcile current project state
+  remotes/origin/phase-7/current-project-status-order240                         a1ec0d19 [codex] approve current founder login recovery
+  remotes/origin/phase-7/current-project-status-order245                         088465d5 [codex] refresh project status through order 245
+  remotes/origin/phase-7/current-project-status-order248                         d15424f7 [codex] Order 249 current project status through Order 248
+  remotes/origin/phase-7/current-project-status-order252                         2f58a6f2 [codex] Order 253 refresh project status through Order 252
+  remotes/origin/phase-7/current-project-status-order256                         f6089d4c [codex] Order 257 current project status
+  remotes/origin/phase-7/current-project-status-order259                         2ae5f2a7 [codex] Order 260 refresh project status through 259
+  remotes/origin/phase-7/current-project-status-order266                         38c419db [codex] Build Order 269 project status
+  remotes/origin/phase-7/current-project-status-order272                         2cc26223 [codex] Build Order 273 project status
+  remotes/origin/phase-7/current-status-login-order262                           10f78fa1 [codex] Approve Order 263 status and sign-in restore
+  remotes/origin/phase-7/governed-positive-tax-correction                        00f0960d [codex] Approve Order 266 positive-tax correction
+  remotes/origin/phase-7/guest-booking-invitation-20261001                       bdb94cad [codex] Add invitation-bound guest booking through canonical commands
+  remotes/origin/phase-7/india-accommodation-place-of-supply                     b257949b [codex] Approve Order 282 lodging place of supply
+  remotes/origin/phase-7/india-accommodation-registered-state-comparison         2a9527aa [codex] Approve Order 283 registered-state comparison
+  remotes/origin/phase-7/india-accommodation-supply-nature                       39219a8e [codex] Approve Order 287 accommodation supply nature
+  remotes/origin/phase-7/india-gst-accommodation-classification                  2c45c6db [codex] Approve Order 281 accommodation classification
+  remotes/origin/phase-7/india-gst-accommodation-effective-rates                 465d791d [codex] approve Order 298 exact candidate
+  remotes/origin/phase-7/india-gst-accommodation-invoice-issue-date              b5b2d452 [codex] Approve Order 292 invoice issue date
+  remotes/origin/phase-7/india-gst-accommodation-invoice-timeliness              809928fc [codex] Approve Order 293 invoice timeliness
+  remotes/origin/phase-7/india-gst-accommodation-payment-receipt-date            1037f9dd [codex] Approve Order 291 payment receipt date
+  remotes/origin/phase-7/india-gst-accommodation-service-provision-date          31dd963e [codex] Approve Order 290 service provision date
+  remotes/origin/phase-7/india-gst-accommodation-supply-nature-at-time-of-supply 7d41ebe4 [codex] approve Order 297 exact candidate
+  remotes/origin/phase-7/india-gst-accommodation-time-of-supply                  92f2036d [codex] Approve Order 294 time of supply
+  remotes/origin/phase-7/india-gst-folio-buyer-candidate                         4a0f3eda [codex] Approve Order 279 folio buyer candidate
+  remotes/origin/phase-7/india-gst-recipient-registration                        fcdec1f4 [codex] Normalize Order 276 review evidence
+  remotes/origin/phase-7/india-gst-recipient-registration-at-time-of-supply      a9cb63e3 [codex] approve Order 296 recipient timing evidence
+  remotes/origin/phase-7/india-gst-recipient-sez-status                          20ae4e9a [codex] Normalize Order 285 review record
+  remotes/origin/phase-7/india-gst-registration-at-time-of-supply                912cc1f8 [codex] Close Order 295 approval checklist
+  remotes/origin/phase-7/india-gst-supplier-registration                         3d5454a9 [codex] Approve Order 272 India GST registration
+  remotes/origin/phase-7/india-gst-supplier-registration-status                  8f5c600b [codex] Clean Order 289 review record
+  remotes/origin/phase-7/india-gst-supplier-service-location                     ab32439a [codex] Approve Order 284 supplier service location
+  remotes/origin/phase-7/india-gst-supplier-sez-status                           c2a8c76c [codex] Approve Order 286 supplier SEZ status
+  remotes/origin/phase-7/india-irp-buyer-details                                 8e001e97 [codex] Normalize Order 278 review evidence
+  remotes/origin/phase-7/india-irp-seller-details                                3114d24b [codex] Approve Order 275 IRP seller details
+  remotes/origin/phase-7/india-property-fiscal-location                          1e01fe25 [codex] Approve Order 280 property fiscal location
+  remotes/origin/phase-7/india-sez-unit-loa-renewal                              bb22dd7d [codex] Approve Order 288 SEZ unit LoA renewal
+  remotes/origin/phase-7/live-ecosystem-20261002                                 2b096e5f [codex] Restore original reservations and neon-green host calendar
+  remotes/origin/phase-7/operator-invoice-workflow                               75a2eba1 [codex] Align current status and observe bounded native startup
+  remotes/origin/phase-7/order276-setup-oracle                                   5fe42f52 [codex] Approve Order 276 recipient GST evidence
+  remotes/origin/phase-7/order432-rate-pricing                                   d3317d90 [codex] derive operator pricing scopes canonically
+  remotes/origin/phase-7/order435-main-readme                                    307ab0cf [codex] normalize imported design heading whitespace
+  remotes/origin/phase-7/parking-occupancy-definer-path-repair                   33f29e09 [codex] repair parking occupancy definer paths
+  remotes/origin/phase-7/persisted-india-final-component-tax-evidence            978a2d66 [codex] align provider identities and fiscal catalogue proof; bound CI diagnostics
+  remotes/origin/phase-7/positive-tax-folio-eligibility                          a593745c [codex] Order 256 independent approval evidence
+  remotes/origin/phase-7/positive-tax-journal-posting                            06ead97d [codex] Approve Order 262 positive-tax posting
+  remotes/origin/phase-7/positive-tax-posting-plan                               7857655b [codex] Order 251 canonical positive tax posting plan
+  remotes/origin/phase-7/profile-cards-and-workspace-skins                       ac58c91c [codex] record PR86 database repair scope
+  remotes/origin/phase-7/promote-current-status-order240-local                   f97464b1 [codex] approve current status local promotion
+  remotes/origin/phase-7/promote-orders244-246-local                             cad6ceed [codex] promote orders 244 through 246 locally
+  remotes/origin/phase-7/promote-orders248-249-local                             9a5f46e6 [codex] promote Orders 248 and 249 to sole local
+  remotes/origin/phase-7/promote-orders251-254-local                             3139f09d [codex] Order 255 promote Orders 251 through 254 locally
+  remotes/origin/phase-7/promote-orders256-257-local                             b9187d71 [codex] Order 258 promote current app status locally
+  remotes/origin/phase-7/promote-orders259-260-local                             dff23026 [codex] Approve Order 261 local promotion
+  remotes/origin/phase-7/promote-orders262-263-local                             347f24c8 [codex] Record Order 264 credential-log finding
+  remotes/origin/phase-7/promote-orders266-270-local                             3c9fb7c7 [codex] Approve Order 271 local promotion
+  remotes/origin/phase-7/promote-orders272-273-local                             71b2c343 [codex] Approve Order 274 local promotion
+  remotes/origin/phase-7/property-day-extension-containment                      5c4414a1 [codex] review 301 property-day containment
+  remotes/origin/phase-7/property-local-business-day-instant-evidence            e352a91b [codex] approve Order 300 final Tier-3 review
+  remotes/origin/phase-7/quoted-tax-hold-binding                                 f3113088 [codex] Order 248 authoritative quoted-tax hold binding
+  remotes/origin/phase-7/quoted-tax-reservation-lineage                          c5e62350 [codex] Order 252 quoted-tax reservation lineage
+  remotes/origin/phase-7/reconcile-migration44-lineage                           070528ae [codex] Approve Order 270 migration lineage
+  remotes/origin/phase-7/reconcile-order252-migration-lineage                    4d92b51e [codex] Order 254 reconcile migration lineage forward-only
+  remotes/origin/phase-7/reconcile-order266-runtime                              c6a30f11 [codex] Record Order 267 runtime review finding
+  remotes/origin/phase-7/release-local-gates-20261001                            a00ca3f9 [codex] align guarded series catalogue reference with reviewed helper
+  remotes/origin/phase-7/resource-receiving-20261001                             93bf7f94 [codex] Retain Yellow sessions during workspace navigation
+  remotes/origin/phase-7/restore-retained-sole-local                             ad678ecf [codex] Approve Order 268 retained sole local restore
+  remotes/origin/phase-7/rotate-exposed-local-credentials                        252254b4 [codex] Approve Order 265 credential rotation
+  remotes/origin/phase-7/sandbox-acceptance                                      d842750c [codex] Add independently reviewed one-shot IRP sandbox acceptance
+  remotes/origin/phase-7/security-research-handshake-2026-09-19                  2c9db30a [codex] Document founder security and video research handoff
+  remotes/origin/phase-7/semantic-tax-route                                      97a30920 [codex] Approve Order 259 semantic routing
+  remotes/origin/phase-7/staff-journeys-and-schema-guide                         0ef60b17 [codex] integrate hotel journeys, current schema guidance and UI/UX research
+  remotes/origin/phase-7/tax-extension-effective-period-evidence                 0b909738 [codex] approve Order 299 exact candidate
+  remotes/origin/phase-9/live-market-adapters                                    b235e94d feat(distribution): add reviewed live source adapters and bounded market batches
+  remotes/origin/phase-9/market-pipelines                                        dbc249f6 [codex] record final review formatting verification
+  remotes/origin/phase-9/overture-compset-map                                    01c9ffa4 [codex] isolate the historical housekeeping seed profile proof
+  remotes/origin/review/architect-019-044                                        fd2b9cf2 [claude] review debt discharge: orders 019-044, decisions D-95..D-160
+  remotes/origin/review/architect-gate-3                                         d0a2f2a4 [claude] Gate 3 review: orders 045-073, decisions D-162..D-262

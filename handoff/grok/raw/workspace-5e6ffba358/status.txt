@@ -1,0 +1,42 @@
+exit=0
+ M frontend/yellow/src/auth-session.ts
+ M public/yellow-next/index.html
+ M src/app.ts
+ M src/server.ts
+ M tests/browser-session-http.test.ts
+ M tests/yellow-react-auth-session.test.ts
+?? public/yellow-next/assets/App-5pSs0RS7.js
+?? public/yellow-next/assets/EcosystemHub-k1a6D8Uo.js
+?? public/yellow-next/assets/FinanceWorkspace-CJozXltD.js
+?? public/yellow-next/assets/MarketIntelligenceLab-BquIpB-3.js
+?? public/yellow-next/assets/OperationalHub-yVuuV-mj.js
+?? public/yellow-next/assets/OptionsDrawer-BHLqSNu4.js
+?? public/yellow-next/assets/PropertyOperatingModeCard-TzIQw3vO.js
+?? public/yellow-next/assets/ReservationWorkspace-DXxM1uvb.js
+?? public/yellow-next/assets/ReservationWorkspace-GJ2ReXAQ.css
+?? public/yellow-next/assets/StaffRmsWorkspace-BmygSKZJ.js
+?? public/yellow-next/assets/StatusBadge-CWLkGu-v.js
+?? public/yellow-next/assets/TodayGlassDashboard-BlB1BxHD.css
+?? public/yellow-next/assets/TodayGlassDashboard-Ck_Ngse5.js
+?? public/yellow-next/assets/index-BWbS65VZ.js
+?? public/yellow-next/assets/react-runtime-eCBuSmuH.js
+?? public/yellow-next/assets/rolldown-runtime-8BhlS34s.js
+?? public/yellow-next/assets/staff-crs-client-CA1yz3h_.js
+?? public/yellow-next/assets/vendor-BeoTU2to.js
+?? public/yellow-next/assets/yellow-B4cBUv7d.js
+?? public/yellow-next/assets/yellow-Y5fgVUv3.css
+?? public/yellow-next/assets/yellow-app-DfOMVmnG.js
+?? public/yellow-next/yellow-next/assets/EcosystemHub-EDFkSayR.js
+?? public/yellow-next/yellow-next/assets/FinanceWorkspace-CXh0JO34.js
+?? public/yellow-next/yellow-next/assets/MarketIntelligenceLab-BCj8VG4l.js
+?? public/yellow-next/yellow-next/assets/OperationalHub-DyYEhd6J.js
+?? public/yellow-next/yellow-next/assets/OptionsDrawer-BJ5GciDZ.js
+?? public/yellow-next/yellow-next/assets/ReservationWorkspace-CuqJRPi9.js
+?? public/yellow-next/yellow-next/assets/StatusBadge-Dav-a6et.js
+?? public/yellow-next/yellow-next/assets/index-BZRdwTST.js
+?? public/yellow-next/yellow-next/assets/index-D1zeL5we.css
+?? public/yellow-next/yellow-next/assets/react-runtime-CR5VJ85Q.js
+?? public/yellow-next/yellow-next/assets/rolldown-runtime-hePW80VL.js
+?? public/yellow-next/yellow-next/assets/vendor-CNqRKreC.js
+?? public/yellow-next/yellow-next/index.html
+?? tests/_independent-preview-review.test.ts

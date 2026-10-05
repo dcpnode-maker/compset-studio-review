@@ -1,0 +1,22 @@
+exit=0
+ handoff/orders/440-fiscal-submission-lifecycle.md  |   3 +
+ .../444-partner-review-and-astra-ui-integration.md | 182 +++++++++
+ handoff/orders/BUILD-CONTINUITY-001.md             |  50 +++
+ handoff/orders/BUILD-CONTINUITY-002-OMNIROUTE.md   |  37 ++
+ .../210-partner-preview-status-snapshot.md         |  17 +
+ .../questions/212-fiscal-retry-binding-recovery.md | 111 ++++++
+ handoff/reviews/444-native-review-and-ci.md        |  84 ++++
+ handoff/reviews/BUILD-CONTINUITY-001.md            | 106 +++++
+ handoff/reviews/BUILD-CONTINUITY-002-OMNIROUTE.md  |  72 ++++
+ scripts/inspect-order444-live-preview.ts           | 211 ++++++++++
+ tools/build-continuity/.gitignore                  |   1 +
+ tools/build-continuity/OMNIROUTE.md                |  73 ++++
+ tools/build-continuity/README.md                   | 164 ++++++++
+ tools/build-continuity/batch.py                    |  79 ++++
+ tools/build-continuity/continuity.py               | 353 +++++++++++++++++
+ tools/build-continuity/omniroute.py                | 429 +++++++++++++++++++++
+ tools/build-continuity/provider-pool.json          |  69 ++++
+ tools/build-continuity/routes.json                 |   9 +
+ tools/build-continuity/start.py                    |  81 ++++
+ tools/build-continuity/test_continuity.py          | 205 ++++++++++
+ 20 files changed, 2336 insertions(+)

@@ -1,0 +1,2 @@
+exit=0
+* phase-0/yellow-personal-harness d554c47 fix(ui): keep task composer available while pause state loads (#13562)

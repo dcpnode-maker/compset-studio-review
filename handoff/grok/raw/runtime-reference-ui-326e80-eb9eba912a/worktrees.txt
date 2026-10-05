@@ -1,0 +1,5 @@
+exit=0
+worktree E:/YellowWorkspace/Data/BuildArtifacts/yellow-receiving-build-20261001-v1/runtime-reference-ui-326e80
+HEAD 326e80c8d936362059496e2aa41d28651a05e386
+detached
+

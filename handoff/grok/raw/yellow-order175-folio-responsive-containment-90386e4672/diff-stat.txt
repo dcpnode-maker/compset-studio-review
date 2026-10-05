@@ -1,0 +1,43 @@
+exit=0
+ DECISIONS.log                                      |   5 +
+ docs/PROJECT-STATUS.md                             |  12 +-
+ docs/design/ASTRA-IMPLEMENTATION-HANDOFF.md        |  42 +-
+ docs/design/BUILT-CAPABILITY-MANIFEST.md           |  66 +-
+ handoff/LEDGER.md                                  |   5 +
+ handoff/orders/440-fiscal-submission-lifecycle.md  |  13 +-
+ .../444-partner-review-and-astra-ui-integration.md | 219 ++++++-
+ .../orders/452-native-credit-delivery-discovery.md |   2 +-
+ .../453-native-fiscal-series-configuration.md      |   7 +
+ .../460-current-source-single-local-promotion.md   |  35 +
+ handoff/orders/BUILD-CONTINUITY-001.md             | 108 +++
+ handoff/orders/BUILD-CONTINUITY-002-OMNIROUTE.md   |  37 ++
+ .../210-partner-preview-status-snapshot.md         |  17 +
+ .../questions/212-fiscal-retry-binding-recovery.md | 294 +++++++++
+ .../246-current-source-runtime-promotion.md        | 118 ++++
+ ...276-market92-native-preservation-preparation.md |  20 +
+ .../reviews/440-fiscal-provider-and-receipts.md    | 722 +++++++++++++++++++++
+ handoff/reviews/444-native-review-and-ci.md        | 119 ++++
+ .../452-native-credit-delivery-discovery.md        |  26 +
+ .../460-current-source-single-local-promotion.md   | 118 ++++
+ handoff/reviews/460-release-checklist-20260913.md  |  41 +-
+ handoff/reviews/BUILD-CONTINUITY-001.md            | 229 +++++++
+ handoff/reviews/BUILD-CONTINUITY-002-OMNIROUTE.md  |  72 ++
+ scripts/inspect-order444-live-preview.ts           | 211 ++++++
+ src/app.ts                                         |   1 +
+ src/http/operator.ts                               |   2 +
+ src/http/operator/operator.css                     |  45 ++
+ src/http/operator/operator.js                      |  82 ++-
+ tests/operator-assets-security.test.ts             |  17 +-
+ ...rator-reservation-workspace.integration.test.ts |  10 +
+ tools/build-continuity/.gitignore                  |   1 +
+ tools/build-continuity/OMNIROUTE.md                |  73 +++
+ tools/build-continuity/README.md                   | 263 ++++++++
+ tools/build-continuity/batch.py                    |  79 +++
+ tools/build-continuity/continuity.py               | 353 ++++++++++
+ tools/build-continuity/omniroute.py                | 429 ++++++++++++
+ tools/build-continuity/provider-pool.json          |  69 ++
+ tools/build-continuity/routes.json                 |   9 +
+ tools/build-continuity/start.py                    |  81 +++
+ tools/build-continuity/test_continuity.py          | 205 ++++++
+ 40 files changed, 4230 insertions(+), 27 deletions(-)
+warning: in the working copy of '.gitignore', CRLF will be replaced by LF the next time Git touches it

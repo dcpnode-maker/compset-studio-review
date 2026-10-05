@@ -1,0 +1,2 @@
+exit=0
+D:/Yellow/runtime/free-claude-code/source/.git

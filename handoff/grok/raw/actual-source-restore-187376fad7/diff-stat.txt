@@ -1,0 +1,8 @@
+exit=0
+warning: in the working copy of 'frontend/yellow/src/housekeeping-floor-model.ts', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'frontend/yellow/src/workspaces/HousekeepingFloorWorkbench.tsx', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'frontend/yellow/src/workspaces/housekeeping-floor.css', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/orders/RESOURCE-20261001-receiving-source-build.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/receipts/RESOURCE-20261001-receiving-source-review.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'tests/housekeeping-floor-client.test.ts', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'tests/housekeeping-floor-model.test.ts', CRLF will be replaced by LF the next time Git touches it

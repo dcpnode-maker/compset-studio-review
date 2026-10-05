@@ -1,0 +1,19 @@
+{
+  "observed_utc": "2026-10-05T05:26:41.754705+00:00",
+  "checks": [
+    {
+      "url": "http://127.0.0.1:3184/ready",
+      "status": 200,
+      "body": "{\"status\":\"ready\",\"target\":\"yellow_runtime_database\",\"build\":{\"schemaVersion\":1,\"revision\":\"3cfa8b3bd6ce5038a4a6947726b80a9bacd26773\",\"expectedMigrationFrontier\":103}}"
+    },
+    {
+      "url": "https://yellow-live-app.yellow-dcpnode-1676cc6f.workers.dev/ready",
+      "status": 200,
+      "body": "{\"status\":\"ready\",\"target\":\"yellow_runtime_database\",\"build\":{\"schemaVersion\":1,\"revision\":\"3cfa8b3bd6ce5038a4a6947726b80a9bacd26773\",\"expectedMigrationFrontier\":103}}"
+    },
+    {
+      "url": "http://127.0.0.1:8080/health",
+      "error": "<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+exit=0
+ M apps/web/src/components/universalHarness/ManualWorkerTransfer.test.tsx
+ M apps/web/src/components/universalHarness/ManualWorkerTransfer.tsx
+ M apps/web/src/components/universalHarness/manualTransfer.test.ts
+ M apps/web/src/components/universalHarness/manualTransfer.ts
+ M docs/user/universal-harness.md
+ M scripts/yellow-harness-runtime.mjs
+ M scripts/yellow-harness-runtime.test.mjs
+ M scripts/yellow-workspace.mjs
+ M scripts/yellow-workspace.test.mjs
+?? scripts/yellow-harness-codex-proof.mjs
+?? scripts/yellow-harness-codex-proof.test.mjs
+?? scripts/yellow-harness-host-status.mjs
+?? scripts/yellow-harness-host-status.test.mjs
+?? scripts/yellow-harness-roles.mjs
+?? scripts/yellow-harness-roles.test.mjs

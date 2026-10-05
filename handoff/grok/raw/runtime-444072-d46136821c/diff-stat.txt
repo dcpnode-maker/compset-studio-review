@@ -1,0 +1,17 @@
+exit=0
+ public/yellow-next/assets/EcosystemHub-CQ8V9z1H.js          |  1 -
+ public/yellow-next/assets/FinanceWorkspace-CDi8-L7A.js      |  1 -
+ public/yellow-next/assets/MarketIntelligenceLab-D37DcWhA.js |  1 -
+ public/yellow-next/assets/OperationalHub-D_iEuzyX.js        |  1 -
+ public/yellow-next/assets/OptionsDrawer-D-YbGgGk.js         |  1 -
+ public/yellow-next/assets/ReservationWorkspace-wSlqY8Me.js  |  1 -
+ public/yellow-next/assets/StatusBadge-BVqcWEJO.js           |  1 -
+ public/yellow-next/assets/index-BSevgplG.js                 |  1 -
+ public/yellow-next/assets/react-runtime-DRp6H2Fp.js         |  9 ---------
+ public/yellow-next/assets/vendor-DD35e0mo.js                |  1 -
+ public/yellow-next/assets/yellow-app-C73-485U.js            | 10 ----------
+ public/yellow-next/index.html                               |  9 +++++----
+ 12 files changed, 5 insertions(+), 32 deletions(-)
+warning: in the working copy of 'frontend/yellow/src/housekeeping-floor-model.ts', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'frontend/yellow/src/workspaces/HousekeepingFloorWorkbench.tsx', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'frontend/yellow/src/workspaces/housekeeping-floor.css', CRLF will be replaced by LF the next time Git touches it

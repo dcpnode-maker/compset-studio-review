@@ -1,0 +1,37 @@
+[
+  {
+    "path": "D:\\Yellow\\harness\\pnpm-store\\v11\\projects\\a6db2ab59087992c67c736c080747d52",
+    "head": "d4b4ea0d146b9207900874bacb4c364f03281422",
+    "reason": "third-party or harness dependency; inventoried, not published as Yellow"
+  },
+  {
+    "path": "E:\\YellowWorkspace\\Documents\\Codex\\2026-09-29\\ankit-discussions\\outputs\\airbnb-library-benchmark\\vendor\\gobnb",
+    "head": "fe795f5f9583924dfc239922148fd85053d4970a",
+    "reason": "third-party or harness dependency; inventoried, not published as Yellow"
+  },
+  {
+    "path": "D:\\Yellow\\harness\\adapters\\t3",
+    "head": "ddd7c6c0143e98e91dcca6118e09ed5be93bbdaa",
+    "reason": "third-party or harness dependency; inventoried, not published as Yellow"
+  },
+  {
+    "path": "D:\\Yellow\\temp\\order682-gods-eye-native",
+    "head": "759652207fd1279ece97f0f19af566feb9a82146",
+    "reason": "third-party or harness dependency; inventoried, not published as Yellow"
+  },
+  {
+    "path": "D:\\Yellow\\harness\\paperclip",
+    "head": "d554c4789ed3930f8a53ac9fdf6503b3187097da",
+    "reason": "third-party or harness dependency; inventoried, not published as Yellow"
+  },
+  {
+    "path": "E:\\YellowWorkspace\\Documents\\Codex\\2026-09-29\\ankit-discussions\\outputs\\airbnb-library-benchmark\\vendor\\pyairbnb",
+    "head": "1ee4151d7fcc2fc02dca1985753b67b0d45b2877",
+    "reason": "third-party or harness dependency; inventoried, not published as Yellow"
+  },
+  {
+    "path": "D:\\Yellow\\runtime\\free-claude-code\\source",
+    "head": "bf59598ccc04b02befa1d649dfbcc569534c365c",
+    "reason": "third-party or harness dependency; inventoried, not published as Yellow"
+  }
+]

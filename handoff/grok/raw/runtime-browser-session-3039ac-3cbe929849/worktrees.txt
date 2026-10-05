@@ -1,0 +1,5 @@
+exit=0
+worktree E:/YellowWorkspace/Data/BuildArtifacts/yellow-receiving-build-20261001-v1/runtime-browser-session-3039ac
+HEAD 3039ac9345503b2e0aec07759d5686493b3ff3c7
+detached
+

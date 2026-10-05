@@ -1,0 +1,32 @@
+exit=0
+75a2eba1cd34d0512d010bf3f91230ebed4720e7 2026-09-13T20:40:48+05:30 [codex] Align current status and observe bounded native startup
+049a4de35b9c549cd34c3e7d68dc939ff66f47c3 2026-09-13T20:16:49+05:30 [codex] Bound workspace browser lifecycle and report current source
+dd38a9749ca877e7a50258303160bc66fa7fc3ab 2026-09-13T19:45:13+05:30 [codex] Complete credit registration journey and align fiscal proof
+feff6dc86982a5386968674b6c7077721a701785 2026-09-13T19:02:06+05:30 [codex] Align market navigation and catalogue proof contracts
+da744f1f73cd194de5e9a267825f8956a12ab030 2026-09-13T18:41:03+05:30 [codex] integrate accepted Order472 market evidence
+63338ed312f925bddd951665189196e3615a51b9 2026-09-13T12:10:25+05:30 [codex] Complete deliberate cashier full credit note issue
+6d4f8ea9d388f0b7e1ef95dd17db48da00a752a3 2026-09-13T11:32:33+05:30 [codex] Complete cashier issued credit note register
+33a3950843660cf4868ef6720f426432f8430b50 2026-09-13T10:58:31+05:30 [codex] Complete immutable credit note preview and printing
+d819e080bbfe1655ab1fff3572584c97d3a143fc 2026-09-13T10:38:30+05:30 [codex] align remaining status regressions with recovered build
+da9f97d46af3cb78f1ea98e49bed03581686a5ef 2026-09-13T10:09:51+05:30 [codex] reconcile current build status and restart delivery evidence
+41415cc5c6953f71d9b3baada6fd9c7853567128 2026-09-13T04:54:39+05:30 [codex] expose existing full credit notes in invoice workflow
+46004d6f9b61a02f14259fd3f911e85a72ae0c60 2026-09-13T03:20:28+05:30 [codex] preserve invoice printing for retryable fiscal receipts (Order465)
+44ef5e08f985c59d61351ecf32e503233f4038c5 2026-09-13T01:28:23+05:30 [codex] align canonical database proofs with migration 0091 (Q251)
+6f5908f7dd1539671417abebee29edfc4b101bed 2026-09-13T00:51:23+05:30 [codex] publish accepted receiving source (Order460)
+547cf3d335afdcec7ae4b7d05517a2153b342d0e 2026-09-09T07:17:32+05:30 [codex] publish accepted current source (Order460/Q249)
+87da26f354d08b545bc6b9127031cc29b38881ef 2026-09-08T20:53:37+05:30 [codex] publish native fiscal-series configuration (Order453)
+557dd0315945bb551a3409704d70ff1cf9d4c4a3 2026-09-08T16:36:16+05:30 [codex] publish native credit delivery discovery (Order452)
+0b1ff327d289c611542d81f272d7e3a2e7223b06 2026-09-08T13:39:09+05:30 [codex] publish combined fiscal credit and rate-reuse candidate (Orders449-451)
+ffb03441a16d50aa050c5d6f715d35ed9223601b 2026-09-08T10:02:50+05:30 [codex] add native credit discovery and bounded readiness/status proofs (Order448/Q230/Q232)
+52467d4f5119deee7268b17d0c1277d50a771869 2026-09-08T03:32:18+05:30 [codex] bound optional status probes without extending test deadlines (Q227)
+b0653ebbd826151774e9e6d773409f313abeb857 2026-09-08T03:17:08+05:30 [codex] publish current functional build evidence and status (Orders447/448)
+25d3b979278c409621f0c70ea5a2951558ecb982 2026-09-08T03:02:47+05:30 [codex] complete native credit-note fiscal submission (Order447)
+850c78c08424f83483ba88908baf08cf9eed5d75 2026-09-08T01:14:56+05:30 [codex] publish native credit contracts and functional build status (Q221)
+236df73dce4629dff92a66e1587961133e2dbd89 2026-09-08T00:42:57+05:30 [codex] align full-current migration acceptance with87 (Q220)
+e3262afa1c2ad948d53963aa81e2fdad917818e3 2026-09-08T00:21:35+05:30 [codex] align current87 financial acceptance oracles (Q218)
+7f416a0e0a28a6944dbf95fa1134d42085fa8ad4 2026-09-08T00:08:59+05:30 [codex] implement native full credit-note issuance (Order446)
+d0f2f86391dfa1529f5436e7d866834bedda3608 2026-09-07T21:41:50+05:30 [codex] correct native review dependency junction identity in both launchers
+567a66a149dd0c146bc6b723959051e3ab22f6fd 2026-09-07T19:26:37+05:30 [codex] make fiscal replay clock proofs independent of CI hour
+4c46bee35759b26a5a767695e7356841c3d68370 2026-09-07T17:53:27+05:30 [codex] recover original fiscal retry binding after reload
+a10851786f17f2fdea0cf970320ee8c46a45b670 2026-09-07T12:54:08+05:30 [codex] prepare verified fiscal review preview and current project status
+3a0a01316fbf8acc760e1cba38384042edbb86d2 2026-09-07T11:01:59+05:30 [codex] integrate operator invoices and Astra three-layout workspaces

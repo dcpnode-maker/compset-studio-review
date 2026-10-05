@@ -1,0 +1,5 @@
+exit=0
+worktree E:/YellowWorkspace/Data/BuildArtifacts/yellow-receiving-build-20261001-v1/hosting/public-demo-autologin-independent-review/workspace
+HEAD 35d2f1c2f1dfba3c6f6353103bdc91e3526b982b
+detached
+

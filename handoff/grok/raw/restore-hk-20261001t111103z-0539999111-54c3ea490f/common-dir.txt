@@ -1,0 +1,2 @@
+exit=0
+E:/YellowWorkspace/Data/Recovery/RESOURCE-20261001/restore-hk-20261001T111103Z-0539999111/.git

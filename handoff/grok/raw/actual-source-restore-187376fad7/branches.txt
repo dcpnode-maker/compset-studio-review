@@ -1,0 +1,2 @@
+exit=0
+* (no branch) 5f087ef test: account for admitted linked group runtime authority

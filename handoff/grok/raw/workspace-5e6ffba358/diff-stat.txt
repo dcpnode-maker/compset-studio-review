@@ -1,0 +1,8 @@
+exit=0
+ frontend/yellow/src/auth-session.ts     | 16 ++++--
+ public/yellow-next/index.html           | 12 ++---
+ src/app.ts                              | 33 ++++++++++--
+ src/server.ts                           | 19 +++++++
+ tests/browser-session-http.test.ts      | 73 ++++++++++++++++++++++++++
+ tests/yellow-react-auth-session.test.ts | 92 +++++++++++++++++++++++++++++++++
+ 6 files changed, 232 insertions(+), 13 deletions(-)

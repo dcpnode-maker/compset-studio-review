@@ -1,0 +1,21 @@
+exit=0
+ frontend/yellow/src/auth-session.ts                | 16 +++-
+ public/yellow-next/assets/EcosystemHub-CQ8V9z1H.js |  1 -
+ .../assets/FinanceWorkspace-CDi8-L7A.js            |  1 -
+ .../assets/MarketIntelligenceLab-D37DcWhA.js       |  1 -
+ .../yellow-next/assets/OperationalHub-D_iEuzyX.js  |  1 -
+ .../yellow-next/assets/OptionsDrawer-D-YbGgGk.js   |  1 -
+ .../assets/ReservationWorkspace-wSlqY8Me.js        |  1 -
+ public/yellow-next/assets/StatusBadge-BVqcWEJO.js  |  1 -
+ public/yellow-next/assets/index-BSevgplG.js        |  1 -
+ public/yellow-next/assets/index-D1zeL5we.css       |  1 -
+ .../yellow-next/assets/react-runtime-DRp6H2Fp.js   |  9 ---
+ .../assets/rolldown-runtime-hePW80VL.js            |  1 -
+ public/yellow-next/assets/vendor-DD35e0mo.js       |  1 -
+ public/yellow-next/assets/yellow-app-C73-485U.js   | 10 ---
+ public/yellow-next/index.html                      | 12 +--
+ src/app.ts                                         | 33 +++++++-
+ src/server.ts                                      | 19 +++++
+ tests/browser-session-http.test.ts                 | 73 +++++++++++++++++
+ tests/yellow-react-auth-session.test.ts            | 92 ++++++++++++++++++++++
+ 19 files changed, 232 insertions(+), 43 deletions(-)

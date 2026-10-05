@@ -1,0 +1,2 @@
+exit=0
+C:/Users/astha/yellow-recovery-20261004/order72-laptop-review/.git

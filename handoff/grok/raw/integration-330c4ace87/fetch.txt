@@ -1,0 +1,5 @@
+{
+  "exit": 0,
+  "stdout": "",
+  "stderr": "From C:\\Users\\astha\\yellow-recovery-20261004\\order72-onto69-candidate-final\n   3cfa8b3b..ccea8de9  phase-7/calendar-values-20261005 -> origin/phase-7/calendar-values-20261005\n"
+}

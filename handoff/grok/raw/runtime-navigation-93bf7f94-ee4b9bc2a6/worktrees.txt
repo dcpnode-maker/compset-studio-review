@@ -1,0 +1,5 @@
+exit=0
+worktree E:/YellowWorkspace/Data/BuildArtifacts/yellow-receiving-build-20261001-v1/runtime-navigation-93bf7f94
+HEAD 93bf7f94ce36bbe67404853661ed40f641b5db01
+detached
+

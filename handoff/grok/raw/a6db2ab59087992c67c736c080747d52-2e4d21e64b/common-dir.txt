@@ -1,0 +1,2 @@
+exit=0
+D:/Yellow/harness/t3code/.git
