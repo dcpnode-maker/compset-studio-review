@@ -1,0 +1,11 @@
+exit=0
+ .../universalHarness/ManualWorkerTransfer.test.tsx |  42 +++++
+ .../universalHarness/ManualWorkerTransfer.tsx      |  61 ++++++++
+ .../universalHarness/manualTransfer.test.ts        |  16 ++
+ .../components/universalHarness/manualTransfer.ts  |  10 ++
+ docs/user/universal-harness.md                     |  75 ++++++++-
+ scripts/yellow-harness-runtime.mjs                 |  68 ++++++++-
+ scripts/yellow-harness-runtime.test.mjs            | 128 ++++++++++++++++
+ scripts/yellow-workspace.mjs                       |  92 ++++++++++-
+ scripts/yellow-workspace.test.mjs                  | 169 +++++++++++++++++++++
+ 9 files changed, 656 insertions(+), 5 deletions(-)

@@ -1,0 +1,2 @@
+exit=0
+E:/YellowWorkspace/Data/BuildArtifacts/yellow-receiving-build-20261001-v1/runtime-navigation-93bf7f94/.git

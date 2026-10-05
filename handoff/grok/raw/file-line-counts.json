@@ -1,0 +1,23 @@
+[
+  {
+    "path": "E:\\YellowWorkspace\\Documents\\Codex\\2026-08-14\\cl\\outputs\\yellow",
+    "head": "57876f9d1760bb1f06fab77dad38631ee31d5784",
+    "allowed_existing_tracked_files": 284,
+    "code_files": 122,
+    "code_lines_lf": 23946
+  },
+  {
+    "path": "C:\\Users\\astha\\yellow-fast-20261005\\integration",
+    "head": "3cfa8b3bd6ce5038a4a6947726b80a9bacd26773",
+    "allowed_existing_tracked_files": 2873,
+    "code_files": 1426,
+    "code_lines_lf": 436006
+  },
+  {
+    "path": "E:\\YellowWorkspace\\CompSetStudio",
+    "head": "82f1477b3b062fb861be43be68125f0afaeeeff4",
+    "allowed_existing_tracked_files": 239,
+    "code_files": 107,
+    "code_lines_lf": 27242
+  }
+]

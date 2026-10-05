@@ -1,0 +1,2 @@
+exit=0
+tests/group-search-pagination.test.tsx

@@ -1,0 +1,21 @@
+# Order 013: distinct STR and hotel workspaces
+
+User explicitly requests a PriceLabs-style STR interface and Lighthouse-style hotel interface, with improved usability and fresh collected data, and authorizes login to both products to inspect their real workflows. User also requests KoelJain's design resources; exact resource identification is pending clarification. This extends ongoing Order012 data work rather than replacing it.
+
+## Scope
+
+Root owns reference inspection, design specification/concepts, shell/projection integration, documentation and coordination. Scope includes compset/workspace.py, server.py, static/index.html, app.js, style.css, rates-workspace.js/.css and new static workspace modules/styles, tests for projection and UI behavior, and docs/dual-workspace-design.md. Assign frontend file ownership explicitly before delegation. Preserve accepted fresh/resume controls and legacy workflows.
+
+Ownership assigned: workspace_data owns new compset/intelligence.py and tests/test_intelligence.py after its portfolio builder. ota_review is reassigned as frontend implementer, owns new static/dual-workspace.js/.css, tests/test_dual_workspace.js and docs/dual-workspace-contract.md; it cannot review its own implementation. Root owns server/shell integration, an optional collection-only bridge in rates-workspace.js and tests/test_rates_workspace.js, regional discovery corrections and tests. Independent review of these changes will be assigned to a different agent after its implementation lane freezes. Lazy fixed read endpoints serve summary, paginated STR calendars, one subject's comparison audit, and hotel research/rates; do not send all 173 candidate audits in the initial payload.
+
+Latest user steering supersedes literal visual cloning: create an original, simpler and substantially improved design/analysis workflow, with mobile as a primary surface. Phone layouts use touch-sized controls, focused day/list views, bottom navigation and sheets, and full-screen maps; desktop retains dense tables. Target low routine latency and operating cost through local deterministic parsing, shared source caches, prepared comparison artifacts, lazy response payloads and bounded DOM rendering. Report measured performance rather than unproved superiority to commercial vendors.
+
+Read authenticated PriceLabs multicalendar, listing/neighborhood/market workflows and Lighthouse calendar/table/filter/detail workflows. Do not change pricing, syncing, account settings, subscriptions, integrations, saved company compsets or trigger paid rate shops. Credentials stay out of project files and outputs. Product account data is reference material, not independently observed competitor rates for the local datasets.
+
+Design two clear modes: STR portfolio/multicalendar/compset-map workflows, and hotel rate-shop/calendar/table/product-service-compset workflows. Retain compact contextual controls, sticky listing/date headings, meaningful selection/detail state, CSV export, source freshness and explicit job progress. Local data amounts and evidence semantics remain authoritative. Missing PMS/revenue/demand/occupancy inputs must not generate fabricated KPIs. Filters unsupported by existing collectors must not imply a successful fresh collection in that context.
+
+Frontend skill provides concept/design discipline. Existing static Python-served architecture remains; no unnecessary framework migration. Image concepts are design artifacts, never screenshots substituted for working UI. User-requested KoelJain resources take precedence over generic visual assumptions once identified. Prior denied server restart and localhost browser inspection remain unavailable; no alternate runtime or browser workaround. Functional and data-contract verification may continue independently; visual fidelity and runtime activation must be reported unverified until actual permitted proof exists.
+
+## Acceptance
+
+Use actual saved Order012 artifacts in both workflows. Demonstrate mode/property/filter/date navigation, details, exports, and fixed job identity during view changes. Retain source timestamps and unknown/restricted/unavailable distinctions. Run meaningful regression and independent review. Source implementation, activation, live source coverage and visual QA are separate results.

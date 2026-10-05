@@ -1,0 +1,6 @@
+exit=0
+## phase-7/stay-billing-continuity-20261005
+ M frontend/yellow/src/App.tsx
+ M frontend/yellow/src/workspaces/FinanceWorkspace.tsx
+?? handoff/orders/RESOURCE-20261005-stay-billing-continuity-73.md
+?? tests/order773-stay-billing-continuity.test.tsx

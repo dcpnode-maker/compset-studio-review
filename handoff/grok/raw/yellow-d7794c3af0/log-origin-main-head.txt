@@ -1,0 +1,75 @@
+exit=0
+09d1a02de56380eaee6116f444ccc1816372505c 2026-09-28T05:16:04+05:30 [codex] retain final dual-worker status and UI evidence
+20816fd71e2764f31c3124ad5281176bf24b2518 2026-09-28T05:10:37+05:30 [codex] verify two Qwen GPU worker pilots and bounded harness tasks
+7fda6fda3974930fd8b7bca9bec5a5e501215067 2026-09-28T04:30:04+05:30 [codex] record bounded Qwen Worker 2 coding trial
+f0bda427d2c57d08b8c14b4886f74e0e4737de51 2026-09-28T03:23:00+05:30 [codex] Record pinned GPU runtime and bound compiler timeout
+ef3889e0bdce61b2783227ac2766249da38f59e5 2026-09-28T03:13:03+05:30 [codex] Add bounded GPU coding probe and progress check
+c8cb60ada0e0f8aa981c04948a42adf94cc169e1 2026-09-28T03:01:08+05:30 [codex] Version GPU model and CUDA runtime probes
+6e9028ce8a4928019ff35988e060801e69f6808c 2026-09-28T02:58:05+05:30 [codex] Prepare Astra Ultra harness architecture handoff
+8d72c19a84b6babbcd5490e9067eb835acb5d7c3 2026-09-28T02:57:06+05:30 [codex] Bind bridge prompts to pinned Git blobs
+e10666008474255d34ebe67a39a28e120150d43c 2026-09-28T02:34:27+05:30 [codex] Keep bridge provider context pinned and code-only
+6ca6399a112d949a31705035ce1da763dfd55874 2026-09-28T02:15:48+05:30 [codex] Bridge harness tasks to bounded free-model proposals
+57c4c95938cb23410f5bfcf0128c90027390d564 2026-09-28T01:52:56+05:30 [codex] Scope harness continuity adapter
+dfb04b3d0c8a43cb4da12e726bc076ae35dd62c7 2026-09-28T01:51:05+05:30 [codex] Record GPU worker hardware and storage preflight
+c35e573c8d8cdba75974f463692e98c5d1b81b13 2026-09-28T01:15:19+05:30 [codex] Prepare Qwen3.8 GPU worker preflight
+95af75ce7f9fed8fac227000592367f4831db1d3 2026-09-28T01:00:22+05:30 [codex] Record bounded Kaggle worker probes
+fbc194494d351569e74582e8f3be4c3fba828c87 2026-09-27T23:50:18+05:30 [codex] Add offline Yellow harness controller foundation
+57876f9d1760bb1f06fab77dad38631ee31d5784 2026-09-23T16:51:25+05:30 [codex] Derive demo readiness from runtime proof
+c13f3b71e36f933f4b975df5b86a79a2d6480e0f 2026-09-23T16:47:00+05:30 [codex] Add governed room move proof
+9dcb10797087420e842cc270c2f7f26763105153 2026-09-23T16:32:10+05:30 [codex] Add governed rooming-list import proof
+115dd6de80d1ef0e1923a9a6cded2db80cfe5b00 2026-09-23T16:21:59+05:30 [codex] Add governed group wash proof
+78948eda7fdb283d6576b96da2ea8643cbb19cd7 2026-09-23T16:10:40+05:30 [codex] Add governed group pickup proof
+8778a80eddb36e5e63193084ae706524b6031079 2026-09-23T15:58:30+05:30 [codex] Add governed group block status proof
+98d2af2a9de65118f89f222c71692565f5e31700 2026-09-23T15:36:06+05:30 [codex] Add governed checkout completion proof
+d5b5485ca14484f1ed90ac7e8b62af3b0f197168 2026-09-23T15:20:32+05:30 [codex] Add governed cashier settlement proof
+59f0a5e5f4b52cfee2a1b9e45aa4ba3fb7f422c9 2026-09-23T15:10:26+05:30 [codex] Add governed cashier posting proof
+ffc914983891e0db611694c6ccb81ff4cd5bc3c1 2026-09-23T14:58:37+05:30 [codex] Add governed arrival check-in proof
+b9075c4ebf3b793de03ab1bf253344e73dbd50c3 2026-09-23T14:44:40+05:30 [codex] Add governed housekeeping command proof
+531c345228381263bc985d6022fd1d3ff6b0f700 2026-09-23T14:27:57+05:30 [codex] Prove live Gemini runtime boundary
+837b0a5ebd409da59fbb1ffa7cefd47d50aaa226 2026-09-23T14:20:56+05:30 [codex] Add public runtime proof endpoint
+7022bb8eb23aeee7fc3980db8205cd5e565bf5d6 2026-09-23T14:16:46+05:30 [codex] Add operational action safety matrix
+bbe5bf22c4eb37c455216f106077bc804231699b 2026-09-23T14:10:53+05:30 [codex] Add colleague share packet
+1b81780ce8f9658f07ea9f4d63f8ef5f29983e14 2026-09-23T14:08:21+05:30 [codex] Add Overwatch AI rehearsal
+53235354286ddfd097fc3c2774f58120ea325980 2026-09-23T14:04:44+05:30 [codex] Add colleague workflow rehearsal
+3ee2fd88ff0ceca4bc7b2dab95e824d1be472f2d 2026-09-23T14:01:16+05:30 [codex] Surface property configuration in mobile shell
+d5482b4f229a8b0b0f923e38f30e5ca997cbdc04 2026-09-23T13:58:52+05:30 [codex] Add synthetic property configuration contract
+70c3fb841c9568afbc78fde883e748ce58e2fe6f 2026-09-23T13:55:19+05:30 [codex] Link readiness to demo proof bundle
+b6d09a71858085a4b4fd86e218be9cb0a623ce36 2026-09-23T13:54:51+05:30 [codex] Add colleague demo proof bundle
+97ba3d541aa2ce826ced4ee5b8c34c0abda92ca6 2026-09-23T13:51:58+05:30 [codex] Clarify simple hotel math rollups
+7cf8aa6a066cf7d30dd0bf4504075cce08b7e2d9 2026-09-23T13:49:35+05:30 [codex] Add colleague demo scenario contract
+8255c0c4b1972ad8dec077b08a47e1b302d527eb 2026-09-23T13:47:19+05:30 [codex] Add Overwatch demo routing guidance
+7176e24888e2b726417ca3f4f039613b0f656ee3 2026-09-23T13:45:19+05:30 [codex] Add demo front desk operations board
+6de7c93120ad72c7c87bee470fa9225ca26ebaeb 2026-09-23T13:40:20+05:30 [codex] Add demo group block manager read model
+f6ac2887792c57b6432b923e8d6f2d14b73780e3 2026-09-23T13:38:44+05:30 [codex] Add demo hotel performance read model
+e84a5a47d8a481fa6f8ee971af4b55f3b8e69b59 2026-09-23T13:35:39+05:30 [codex] Accept PostgreSQL 18 ledger constraint catalog
+0854f048453c566b0d959a397b34d9521c6fc5e3 2026-09-23T13:31:26+05:30 [codex] Surface sandbox execution readiness evidence
+72d9202b37030f92205b2b6a6b771db7cc3c3ed6 2026-09-23T13:29:19+05:30 [codex] Add synthetic demo sandbox execution
+4de78e8ad3208079512c79852a0877a51a9fecd2 2026-09-23T13:27:36+05:30 [codex] Record action reread readiness evidence
+9d1982efdd5d1e840cce1beec8ac030509ce4d0e 2026-09-23T13:27:09+05:30 [codex] Add confirmation gated demo action reread
+01d4bc1a0c5c4e2583aa9210ea393fd5d8c1b639 2026-09-23T13:25:49+05:30 [codex] Record Gemini smoke readiness evidence
+faac8c4bd2e20c2c787a9f1145811671c36f295b 2026-09-23T13:25:24+05:30 [codex] Add Overwatch Gemini smoke command
+2d0abf6aa86b448ccc44a7a9cd70e1fa08c5ffc3 2026-09-23T13:24:15+05:30 [codex] Record Gemini boundary readiness evidence
+98c02290de568ac707621e3c35178ecedc2a83d7 2026-09-23T13:23:48+05:30 [codex] Add Overwatch Gemini provider boundary
+055bc71f56e70c9390374cce8a014a584e5c31e1 2026-09-23T13:21:46+05:30 [codex] Record local browser readiness proof
+016daa4b4abf175abc2396979642cbfd5dd165b7 2026-09-23T13:21:22+05:30 [codex] Add mobile browser smoke proof
+a12b735e2fe7fe5e04337aee7f847ee79fc849bd 2026-09-23T13:18:08+05:30 [codex] Record mobile shell readiness evidence
+ac47af370874d7d874d05c4a92eb90c48c1d0f99 2026-09-23T13:17:43+05:30 [codex] Add mobile operating journey shell
+71d44fe2b4b2559536cafd6e67fcd433d53869e6 2026-09-23T13:15:45+05:30 [codex] Record operating journey readiness evidence
+4848b9ab69ea4dcf4ea49656b865b8802809d3f0 2026-09-23T13:15:20+05:30 [codex] Add colleague operating journey contract
+1b1d1599927ef0f87a69621a2a91577996cb8d96 2026-09-23T13:13:33+05:30 [codex] Refresh colleague readiness evidence
+cbc5c98aec8e65ec87ae3862ebb6c6acb29c5ad2 2026-09-23T13:12:55+05:30 [codex] Add group block runtime contract
+4ba28cc840625c38610ba0404baa9c3dd494e59e 2026-09-23T13:10:26+05:30 [codex] Add Overwatch confirmation gate
+64d04cb98081a5d76decb8c8d72499eedbb9e4fc 2026-09-23T13:07:12+05:30 [codex] Add colleague demo readiness contract
+f0a1e4c81ae837e741dbf44f3e922751d97b22c1 2026-09-23T13:05:17+05:30 [codex] Repair tax fiscal type gate
+6ca6c50664ea14cd75e7ac6108358d32a37c3478 2026-09-23T13:00:11+05:30 [codex] Align PG18 and freeze hotel math
+a043bb29d64b5c3e555d46dc8263f85992e5dca2 2026-09-19T17:03:26+05:30 [codex] Preserve founder context and demo readiness
+3aeffa35fff645721cb023ccc0d5085be79b9733 2026-09-14T23:57:26+05:30 [codex] Close continuity orders 001 and 002
+db23ae66869ca2fb1f9c7c8b6986f4b3bc09ab07 2026-09-14T23:55:13+05:30 [codex] Close order416 local worktree consolidation
+c935e65276f9f89f2bcd9b7d41dadc1be7ac6311 2026-09-14T23:52:27+05:30 [codex] Add local project status doc for continuity handoff
+e2f97ce3488f0fed31ddd492abad1726013543f8 2026-09-14T23:51:51+05:30 [codex] Harden continuity symlink tests for Windows host
+0f1f622bb1635293412094868147b100a8a536df 2026-09-13T22:00:26+05:30 [codex] Prepare bounded parallel model continuity tooling
+a997e7144d0ee4418b1961f2d1e8f77d5fa723a2 2026-09-14T23:46:29+05:30 [codex] add india gst component tax context exports and tests
+5b2ba44689bd1d6937ca3522e94111ee1105f31c 2026-09-02T13:23:55+05:30 [codex] approve valuation catalogue oracle repair
+9f3659d0c82f9a1b99638d981cae595c5904d64c 2026-09-02T11:26:26+05:30 [codex] withhold governed valuation repair
+5f49c82d308a5f1732c9a066b478713c97b66f77 2026-08-23T17:30:04Z [claude] D-93: full Order-091 lineage context for Codex (single linear branch, Gate-3 history, review-debt manifest)
+e0326c0bd89925866136b16c1d3226e64d294108 2026-08-23T17:15:16Z [claude] final operational handoff to Codex

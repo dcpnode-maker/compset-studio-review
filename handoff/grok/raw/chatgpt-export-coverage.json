@@ -1,0 +1,152 @@
+[
+  {
+    "id": "6a9c5765-721c-83ee-9fda-06d0a131b0cf",
+    "file": "2026-09-05-chatgpt-review-yellow-findings-6a9c5765-721c-83ee-9fda-06d0a131b0cf.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6a9c4b6e-b200-83e9-9e4d-a4303b7be79b",
+    "file": "2026-09-05-chatgpt-astra-and-arc-agi-3-6a9c4b6e-b200-83e9-9e4d-a4303b7be79b.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6a9fd067-95b4-83e8-a0f8-e123b0c59a38",
+    "file": "2026-09-08-chatgpt-revenue-management-research-6a9fd067-95b4-83e8-a0f8-e123b0c59a38.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6aa132ed-07f0-83e8-bfb0-02da6c460a6a",
+    "file": "2026-09-09-chatgpt-yellow-technology-research-6aa132ed-07f0-83e8-bfb0-02da6c460a6a.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6aa6e682-64e4-83e8-ab35-d540cc3c2bf5",
+    "file": "2026-09-13-chatgpt-install-local-coding-llm-6aa6e682-64e4-83e8-ab35-d540cc3c2bf5.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6aa6e1b0-fda8-83ee-a558-caa1e9f8196f",
+    "file": "2026-09-13-chatgpt-phone-model-recommendation-6aa6e1b0-fda8-83ee-a558-caa1e9f8196f.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6aa6bbe0-3c20-83ee-b213-d9f3726ca047",
+    "file": "2026-09-13-chatgpt-compare-hosting-options-6aa6bbe0-3c20-83ee-b213-d9f3726ca047.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6aa66f9c-4154-83e8-a5bf-c2a1fb8bda13",
+    "file": "2026-09-13-chatgpt-yellow-technology-research-6aa66f9c-4154-83e8-a5bf-c2a1fb8bda13.md",
+    "returned_turns": 4
+  },
+  {
+    "id": "6aa8fe7b-4c10-83ee-aaee-c5013572b522",
+    "file": "2026-09-15-chatgpt-local-llm-status-review-6aa8fe7b-4c10-83ee-aaee-c5013572b522.md",
+    "returned_turns": 3
+  },
+  {
+    "id": "6aae623a-1490-83ee-ada4-51c29e05ca29",
+    "file": "2026-09-19-chatgpt-continue-yellow-implementation-6aae623a-1490-83ee-ada4-51c29e05ca29.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6aae5443-af4c-83e9-b04f-ce44004622b8",
+    "file": "2026-09-19-chatgpt-compile-yellow-discussion-context-6aae5443-af4c-83e9-b04f-ce44004622b8.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6aace8a2-8b0c-83ee-8076-d5994ff8617b",
+    "file": "2026-09-18-chatgpt-host-yellow-from-phone-6aace8a2-8b0c-83ee-8076-d5994ff8617b.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6aacd5c3-5958-83e9-9f63-5856a6b1d1f9",
+    "file": "2026-09-18-chatgpt-lighthouse-portal-access-6aacd5c3-5958-83e9-9f63-5856a6b1d1f9.md",
+    "returned_turns": 2
+  },
+  {
+    "id": "6aacca80-7b68-83e8-a898-e9f12c49dcf8",
+    "file": "2026-09-18-chatgpt-redesign-yellow-website-6aacca80-7b68-83e8-a898-e9f12c49dcf8.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6aabe1be-f1d0-83ee-9f4a-cb80ffb2f465",
+    "file": "2026-09-17-chatgpt-app-design-and-scraping-plan-6aabe1be-f1d0-83ee-9f4a-cb80ffb2f465.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6aabfa76-f3f0-83ee-93ee-39b5a09bed64",
+    "file": "2026-09-17-chatgpt-gmail-access-available-6aabfa76-f3f0-83ee-93ee-39b5a09bed64.md",
+    "returned_turns": 3
+  },
+  {
+    "id": "6aabfa1c-2078-83e8-be4e-7bf8d9c64a50",
+    "file": "2026-09-17-chatgpt-gmail-connection-greeting-6aabfa1c-2078-83e8-be4e-7bf8d9c64a50.md",
+    "returned_turns": 1
+  },
+  {
+    "id": "6aaa4ce6-4ff8-83e9-9597-c6f1b8a5e43e",
+    "file": "2026-09-16-chatgpt-update-prescription-pdf-6aaa4ce6-4ff8-83e9-9597-c6f1b8a5e43e.md",
+    "returned_turns": 1
+  },
+  {
+    "id": "6aaa4c39-ca88-83e8-a32d-156739a1e1b9",
+    "file": "2026-09-16-chatgpt-regenerate-transplant-letter-image-6aaa4c39-ca88-83e8-a32d-156739a1e1b9.md",
+    "returned_turns": 1
+  },
+  {
+    "id": "6aaef111-6c58-83e8-bd16-7437b4bebbfd",
+    "file": "2026-09-19-chatgpt-create-ai-knowledge-file-6aaef111-6c58-83e8-bd16-7437b4bebbfd.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6aae6cbc-7890-83ee-9e55-ad4b2c595ac0",
+    "file": "2026-09-19-chatgpt-laptop-hosting-setup-6aae6cbc-7890-83ee-9e55-ad4b2c595ac0.md",
+    "returned_turns": 2
+  },
+  {
+    "id": "6ab23a70-376c-83ee-a8f2-3546a9df48e1",
+    "file": "2026-09-22-chatgpt-best-bluetooth-codec-6ab23a70-376c-83ee-a8f2-3546a9df48e1.md",
+    "returned_turns": 1
+  },
+  {
+    "id": "6ab103ba-eb58-83e8-bbe3-dcebbe901644",
+    "file": "2026-09-21-chatgpt-yellow-technology-research-6ab103ba-eb58-83e8-bbe3-dcebbe901644.md",
+    "returned_turns": 2
+  },
+  {
+    "id": "6ab5a65a-2e08-83ee-911d-e2f7556e0fc2",
+    "file": "2026-09-24-chatgpt-compact-search-layout-changes-6ab5a65a-2e08-83ee-911d-e2f7556e0fc2.md",
+    "returned_turns": 2
+  },
+  {
+    "id": "6ab9140d-9438-83ee-a700-deeeab4afaff",
+    "file": "2026-09-27-chatgpt-kaggle-account-access-6ab9140d-9438-83ee-a700-deeeab4afaff.md",
+    "returned_turns": 6
+  },
+  {
+    "id": "6ab8c1c3-aa28-83e9-8f57-46b8455da0c2",
+    "file": "2026-09-27-chatgpt-kaggle-resources-overview-6ab8c1c3-aa28-83e9-8f57-46b8455da0c2.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6ab913e3-d200-83e9-b2f4-142a121e6cbd",
+    "file": "2026-09-27-chatgpt-new-chat-6ab913e3-d200-83e9-b2f4-142a121e6cbd.md",
+    "returned_turns": 0
+  },
+  {
+    "id": "6abf9a48-d774-83e8-858e-9303a25c0af2",
+    "file": "2026-10-02-chatgpt-cloud-worker-6abf9a48-d774-83e8-858e-9303a25c0af2.md",
+    "returned_turns": 5
+  },
+  {
+    "id": "6ac1e88e-25c0-83ee-8123-540677120e3c",
+    "file": "2026-10-04-chatgpt-dot-phone-use-6ac1e88e-25c0-83ee-8123-540677120e3c.md",
+    "returned_turns": 3
+  },
+  {
+    "id": "6ac1e870-0b94-83ee-b5b0-4178c2318e0c",
+    "file": "2026-10-04-chatgpt-schedule-status-summary-6ac1e870-0b94-83ee-b5b0-4178c2318e0c.md",
+    "returned_turns": 1
+  }
+]

@@ -1,0 +1,12 @@
+exit=0
+ compset/server.py                 | 112 ++++++++++++++++++++++++++++++++++----
+ compset/static/dual-workspace.css |  81 +++++++++++++++++++++++++++
+ compset/static/dual-workspace.js  |  18 ++++--
+ compset/static/index.html         |   3 +
+ tests/test_dual_workspace.js      |  18 ++++++
+ 5 files changed, 216 insertions(+), 16 deletions(-)
+warning: in the working copy of 'compset/server.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compset/static/dual-workspace.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compset/static/dual-workspace.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compset/static/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tests/test_dual_workspace.js', LF will be replaced by CRLF the next time Git touches it

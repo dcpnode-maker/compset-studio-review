@@ -1,0 +1,5 @@
+exit=0
+worktree D:/Yellow/temp/order745/workspace
+HEAD 0000000000000000000000000000000000000000
+branch refs/heads/master
+

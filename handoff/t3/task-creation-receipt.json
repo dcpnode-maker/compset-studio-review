@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "evidence_source": {
+    "kind": "T3 owner creation and readback output retrieved through read_thread",
+    "owner_thread": "01a02df3-c84f-7773-a169-dec0e20c9da6",
+    "tool_event": "exec-a129623d-78fa-4df1-a57a-3652610ca92d"
+  },
+  "state": "three-task-homes-verified",
+  "observedAt": "2026-09-28T15:07:37.725Z",
+  "company": {
+    "id": "507332e8-54e2-4e2c-9f9d-e72ee972896f",
+    "name": "Yellow development"
+  },
+  "receipts": [
+    {
+      "title": "Yellow Ecosystem — Continuous Improvement",
+      "projectId": "44a48b31-8b2b-4bb1-ad12-f5aed8462e02",
+      "threadId": "17281829-d6d4-4c7e-b9a3-7fdf388f26fa",
+      "taskId": "bc7016d5-3d82-4717-b33f-5ee164c8f204",
+      "identifier": "YELA-1",
+      "status": "backlog",
+      "taskReused": false,
+      "primaryModel": "gpt-6-astra",
+      "primaryEffort": "medium",
+      "approvalControls": "unchanged",
+      "rolePolicy": "recorded; per-task Astra-to-Sol automation not yet verified"
+    },
+    {
+      "title": "CompSet Studio — Complete Acceptance and Improvement",
+      "projectId": "e67711c3-70b5-43a8-85b5-e67c356891d7",
+      "threadId": "d1ffe3aa-cabe-499e-a274-31f5fd2a50dc",
+      "taskId": "a4eca876-747d-4a92-b0c4-05d2d1e37c52",
+      "identifier": "YELA-2",
+      "status": "backlog",
+      "taskReused": false,
+      "primaryModel": "gpt-6-astra",
+      "primaryEffort": "medium",
+      "approvalControls": "unchanged",
+      "rolePolicy": "recorded; per-task Astra-to-Sol automation not yet verified"
+    },
+    {
+      "title": "Universal Harness — Readiness and Improvement",
+      "projectId": "ce4397bd-6e22-4a27-a0ec-f14b38b3bb47",
+      "threadId": "6600da29-8424-4cdf-aa39-75fa00298683",
+      "taskId": "7cc2b476-6988-42bf-bb78-beb6cbab757e",
+      "identifier": "YELA-3",
+      "status": "backlog",
+      "taskReused": false,
+      "primaryModel": "gpt-6-astra",
+      "primaryEffort": "medium",
+      "approvalControls": "unchanged",
+      "rolePolicy": "recorded; per-task Astra-to-Sol automation not yet verified"
+    }
+  ],
+  "jobsBefore": 0,
+  "jobsAfter": 3,
+  "runsBefore": 0,
+  "runsAfter": 0,
+  "modelGenerationCalls": 0,
+  "paidApiCalls": 0,
+  "workerConnection": "not_established",
+  "roleDispatchAutomation": "not_verified",
+  "taskNavigation": "Universal Harness desktop > Jobs & agents > Jobs; native home chats are in their source projects",
+  "tasksUrl": "http://127.0.0.1:38883/harness",
+  "compset_test_run": {
+    "status": "not_yet_received",
+    "complete_acceptance": false
+  }
+}

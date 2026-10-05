@@ -1,0 +1,3 @@
+exit=0
+origin	E:\YellowWorkspace\Data\Recovery\RESOURCE-20261001\source-20261001T072604800015Z-e15ca56f78\source-refs.bundle (fetch)
+origin	E:\YellowWorkspace\Data\Recovery\RESOURCE-20261001\source-20261001T072604800015Z-e15ca56f78\source-refs.bundle (push)

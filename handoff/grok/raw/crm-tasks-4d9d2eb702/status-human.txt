@@ -1,0 +1,8 @@
+exit=0
+## phase-7/crm-task-continuity-20261005
+ M frontend/yellow/src/workspaces/OperationalHub.tsx
+ M frontend/yellow/src/workspaces/department-task-table.css
+?? .order774-crm-task-proof-84dvkE/
+?? .order774-crm-task-proof-lZ1KuB/
+?? handoff/orders/RESOURCE-20261005-crm-task-continuity-74.md
+?? tests/order774-crm-task-continuity.test.tsx

@@ -1,0 +1,1199 @@
+{
+  "source_root": "E:\\YellowWorkspace\\CompSetStudio",
+  "source_base_commit": "82f1477b3b062fb861be43be68125f0afaeeeff4",
+  "source_state": "frozen working-tree snapshot including uncommitted files; no changes to original checkout",
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 32,
+      "sha256": "e256121952aeda46f5efe25032168194057e798dcd4bced4314c40240b309d5d"
+    },
+    {
+      "path": "ARCHITECTURE.md",
+      "size": 10731,
+      "sha256": "79a5b0f2cb2ecfa07aa742fa7c8fbaf2146a1613e50d08ff9224f5b6115c697c"
+    },
+    {
+      "path": "README.md",
+      "size": 23083,
+      "sha256": "4bfef9047f7cde25fd42abf009af1e9bbd5fabefbf3ab3fd3afa51cceabe4bbc"
+    },
+    {
+      "path": "Restart-CompSet.ps1",
+      "size": 3025,
+      "sha256": "c4071fcb7dd22db5ec11dc4cc9331da8069208c7622c4d26c0707c873a236539"
+    },
+    {
+      "path": "Setup-CompSet.ps1",
+      "size": 753,
+      "sha256": "8b8630b0c9fdcd80a3499e59b70c600d1b326606fb48a4125764a2ac042a0a3a"
+    },
+    {
+      "path": "Start-CompSet.cmd",
+      "size": 91,
+      "sha256": "6606f58b0fee03aa745306521fce378641a61550e4e9ee0909606ad2f9835df2"
+    },
+    {
+      "path": "Start-CompSet.ps1",
+      "size": 753,
+      "sha256": "bb4706e42ca71e0a77513528505ce79e674345c3daf01f409066755b0be76df9"
+    },
+    {
+      "path": "android-gateway/.gitignore",
+      "size": 79,
+      "sha256": "73ff96d6d63b1870dbcad72eedb67a10767717a8502e6484cb702052f4cf2f7d"
+    },
+    {
+      "path": "android-gateway/README.md",
+      "size": 1254,
+      "sha256": "511438051e5b1e80a62df45162c54771b7139c6b42f53df82614ea597a5a4176"
+    },
+    {
+      "path": "android-gateway/scripts/build-apk.ps1",
+      "size": 1030,
+      "sha256": "dc95680d7c48a16c769dea789752d693dec3b0a721f35641d0630917765e9c02"
+    },
+    {
+      "path": "android-gateway/scripts/run-core-tests.ps1",
+      "size": 876,
+      "sha256": "e22419da5fbd88903243623a23a1c4bbfacb0ed8f8a0cbf36d0415c4a1a17090"
+    },
+    {
+      "path": "compset/__init__.py",
+      "size": 54,
+      "sha256": "c30ec46b5a69043368870618b15c9adfe60b78ff5f77af7c35e3b184c3ce3823"
+    },
+    {
+      "path": "compset/__main__.py",
+      "size": 8657,
+      "sha256": "6da728542fc81a4c7edf0eb458294984fca52e249f8120389b2d8b1ce546d587"
+    },
+    {
+      "path": "compset/adaptive.py",
+      "size": 13051,
+      "sha256": "af6ce8da1b34da2797e2b692d2f36a5aff38ac07cde3838df3ceaf285bde5932"
+    },
+    {
+      "path": "compset/availability.py",
+      "size": 7512,
+      "sha256": "0070f0bf2c3a4221eeda062fbf9cc0a9754d9acd556f4fee9cb706108a4cb8d8"
+    },
+    {
+      "path": "compset/batch.py",
+      "size": 17078,
+      "sha256": "2b83f6bf189f2cc4d9b74acb98021ccc2b5f400f49c91fc044e8e050d02eca52"
+    },
+    {
+      "path": "compset/collect.py",
+      "size": 26881,
+      "sha256": "507cc90005c4d3acb74bccb03e904351d1f1e6730aed7659b36982d141aa88b1"
+    },
+    {
+      "path": "compset/discovery.py",
+      "size": 32766,
+      "sha256": "9ef04f195ab40d1dc12b3085dcf92e90178d1a9f2fb39910cd25dc86353aef46"
+    },
+    {
+      "path": "compset/gemini_google_probe.py",
+      "size": 9509,
+      "sha256": "6bfb115bcfab07e8fb805454d832a5143be51e99723e9fb229d1477e2d1e34ef"
+    },
+    {
+      "path": "compset/google_calendar_network.py",
+      "size": 26072,
+      "sha256": "7bdcc3f7d60b66122cc3fa58d49141a5318f0b3e771b721541279d6ada53cb1f"
+    },
+    {
+      "path": "compset/health.py",
+      "size": 5712,
+      "sha256": "09b42d8c3e0f6236b0fa6bf127fe4fddb3e412222962ae9c114e85b5a80cdf92"
+    },
+    {
+      "path": "compset/host_inventory.py",
+      "size": 2562,
+      "sha256": "1b420340bf1f6137f4f6fb1489d7691ad3745aa2c591feb6fc5026e9920c4ad2"
+    },
+    {
+      "path": "compset/hotel_aketa.py",
+      "size": 22507,
+      "sha256": "bc3b3201c522d5af86171334abd51c5e653ced6257d9b3febe0f9e71e56323b4"
+    },
+    {
+      "path": "compset/hotel_booking_expedia.py",
+      "size": 12255,
+      "sha256": "457699675a6d6e3fb9942742cffa84ba9b545c1e148d6c0a1106fb73cec6e299"
+    },
+    {
+      "path": "compset/hotel_compset.py",
+      "size": 20697,
+      "sha256": "ed42b690d8f67e25635fabae784a7d7b253cc02f7f3787fa37a7e98a64fc7737"
+    },
+    {
+      "path": "compset/hotel_contracts.py",
+      "size": 10715,
+      "sha256": "69f64fdbf0861ab1bf206a47b65897038b254ce3455ad3884c56b39fd8d3505b"
+    },
+    {
+      "path": "compset/hotel_jobs.py",
+      "size": 15726,
+      "sha256": "27e1158d7cb988d807737e470351323062d96c6fb0eff5846a02a6282b7beb13"
+    },
+    {
+      "path": "compset/hotel_memberships.py",
+      "size": 3331,
+      "sha256": "9e49c3f5f17fba2dc30adaa17217b673f5910c2323f3547de8264977d107b563"
+    },
+    {
+      "path": "compset/hotel_mmt_agoda.py",
+      "size": 31484,
+      "sha256": "15aa4d1192d37dc86d1cb4b07a938968f41079af6a92e47ea5fe15116c7ec9a7"
+    },
+    {
+      "path": "compset/hotel_portfolio.py",
+      "size": 21141,
+      "sha256": "d01488348d23b982d5c4a89d9361bf9d2bb8c1b1e28aa465a499153c807c2029"
+    },
+    {
+      "path": "compset/hotel_store.py",
+      "size": 3230,
+      "sha256": "fd4e9c4fdb085ba4bd016fffe40f0bbcbae458917a2f62f745c2d77138bd612a"
+    },
+    {
+      "path": "compset/intelligence.py",
+      "size": 26382,
+      "sha256": "7640af5413012063b1aad780e5195be06f5efbb9285465a62b1e85d9fb07d4c3"
+    },
+    {
+      "path": "compset/inventory.py",
+      "size": 25322,
+      "sha256": "96a45b1a0a1313156f62e7eafad1536cf43d819ba41ebcd8d5d4c03e082eedd2"
+    },
+    {
+      "path": "compset/nightly.py",
+      "size": 17564,
+      "sha256": "0923020ff5423fe1ade1f6ea5d8cc78a5665fe36e5574de21a82fb622e01b4ea"
+    },
+    {
+      "path": "compset/nightly_rows.py",
+      "size": 12645,
+      "sha256": "4cd2e07b3d9ab3a29bc6de975f932b9e97fa391486311d2a696a454bef4e7938"
+    },
+    {
+      "path": "compset/normalize.py",
+      "size": 27753,
+      "sha256": "f2dc2a946c9ef9a1a6b62fe1daf930c2005372f7bb1aa843a908f056fb56f7b7"
+    },
+    {
+      "path": "compset/one_night.py",
+      "size": 16877,
+      "sha256": "f4175c0fb9475ada0b25b040a0f3c7a746912f61702659e8d69e9683bdb70e1c"
+    },
+    {
+      "path": "compset/one_night_rows.py",
+      "size": 16689,
+      "sha256": "bc29ef92694409723b0445aedb6752cf5d2829d81aeca92eaf112545437a407e"
+    },
+    {
+      "path": "compset/ota_research.py",
+      "size": 8530,
+      "sha256": "6f28fca70f4b6790112afb92fcad4ca1f497b651f8ea0d5ab9a5a86e7bb8f612"
+    },
+    {
+      "path": "compset/ota_tool_adapters.py",
+      "size": 13960,
+      "sha256": "5062f7317804ec87700ac805cf714c488255d628ee1269518bb176de1d58b0dd"
+    },
+    {
+      "path": "compset/pipeline.py",
+      "size": 8422,
+      "sha256": "f05361c5cb99c9ad937e3c38b6205ac351a5e22300c8cc89b18c769899312864"
+    },
+    {
+      "path": "compset/portfolio.py",
+      "size": 30839,
+      "sha256": "ae72631ed8230af446423064332fa220de1f104ffd91356309214a39f569fc9c"
+    },
+    {
+      "path": "compset/portfolio_compsets.py",
+      "size": 29637,
+      "sha256": "ce40885e9c13596f114df12cb00781dcab8d93a34e7a46a7a0ed985b6c9f092d"
+    },
+    {
+      "path": "compset/profile.py",
+      "size": 5830,
+      "sha256": "bc8af1930914b8e7ec34d00dbf14a85a032d1dbcfa8cf4aa84a987b8850967a0"
+    },
+    {
+      "path": "compset/provider_queue.py",
+      "size": 12365,
+      "sha256": "1de9316e28be46f6497bb5471a5aa26dcb7233b46c25fc4c74533ea35db99bc0"
+    },
+    {
+      "path": "compset/provider_receipts.py",
+      "size": 25646,
+      "sha256": "f239010441dbce59190df6b8d7a12c74981da5444c463d3d7e9d4c2435b5649f"
+    },
+    {
+      "path": "compset/rate_policy.py",
+      "size": 4692,
+      "sha256": "a144923778b0e9e3a17717da5e40b8279b23f717ca7a80b117f42ab7f6f06ceb"
+    },
+    {
+      "path": "compset/refresh.py",
+      "size": 2361,
+      "sha256": "a6bd729745abe323eb065067dcf3d7da17730910ac65267df4d9c1b5fc269b75"
+    },
+    {
+      "path": "compset/server.py",
+      "size": 24925,
+      "sha256": "4efab43d0236a4d6a39ba0aff94ac06d8539dfbdd82856710687c391bce40727"
+    },
+    {
+      "path": "compset/similarity.py",
+      "size": 18481,
+      "sha256": "cca636a83dd158d71fac8085b5214843c497e202634b6a01c45e378b7b1ac602"
+    },
+    {
+      "path": "compset/static/app.js",
+      "size": 89549,
+      "sha256": "789604ae00fbe4c08b38472070eb1b9eef414bdcc9a41a81fb285b0ae18e3c09"
+    },
+    {
+      "path": "compset/static/dual-workspace.css",
+      "size": 47738,
+      "sha256": "1b4eff4753ec78596be6de11fe5042b8f501d72c5d89e0528a3bd8e1d0f4fdc8"
+    },
+    {
+      "path": "compset/static/dual-workspace.js",
+      "size": 115139,
+      "sha256": "cfea773c1c7234cffa0fdef8fe8bbb8f9ad5afd6aabbe341fc58de1c8ef6c9c0"
+    },
+    {
+      "path": "compset/static/index.html",
+      "size": 33008,
+      "sha256": "4f8334a303b8c9ac38671949ef4971ed27469d2f9dc2cf05ed8f7bb3206744d9"
+    },
+    {
+      "path": "compset/static/rates-workspace.css",
+      "size": 19561,
+      "sha256": "2d95124ebba2154b7ec331911d07906a0910098b5395557eeb6e078820852795"
+    },
+    {
+      "path": "compset/static/rates-workspace.js",
+      "size": 59710,
+      "sha256": "dc716d41a895c1f6d4ea845a0dee0c4d08c033ab321dd7e2e6b24dd2be7b8cec"
+    },
+    {
+      "path": "compset/static/style.css",
+      "size": 39794,
+      "sha256": "5f9a3960d97cca4a72bf7bd83baefe0f988d2ae99b5ea836553347bac3a740b1"
+    },
+    {
+      "path": "compset/static/vendor/LEAFLET-LICENSE.txt",
+      "size": 1395,
+      "sha256": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb"
+    },
+    {
+      "path": "compset/static/vendor/leaflet.css",
+      "size": 14806,
+      "sha256": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6"
+    },
+    {
+      "path": "compset/static/vendor/leaflet.js",
+      "size": 147552,
+      "sha256": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+    },
+    {
+      "path": "compset/workflows.py",
+      "size": 11491,
+      "sha256": "9dc882491c344b9bc70a3fbe603c5285f43e781027013fef9cf369d8a959bac3"
+    },
+    {
+      "path": "compset/workspace.py",
+      "size": 31527,
+      "sha256": "f13220d4e3bebd897c57eaa0914e71eff8ff7f2fafb1ffe15c52cfdcedcbbd48"
+    },
+    {
+      "path": "compset/workspace_jobs.py",
+      "size": 21598,
+      "sha256": "c8d71e304dd23379e59714f0a0ca89fe3a657ce97190b70e3c1cb4e812adba59"
+    },
+    {
+      "path": "docs/adaptive-comparison.md",
+      "size": 6193,
+      "sha256": "b095431b8611c5cd71d6a6f4b5b295b7599845cb0b787667bdd2ec4ae0bbad72"
+    },
+    {
+      "path": "docs/airbnb-calendar-semantics-research.md",
+      "size": 15298,
+      "sha256": "6ba30970669852ed7d21d4cdc623a5a7653376129ce9d6b371dd39b0904e1f6b"
+    },
+    {
+      "path": "docs/aketa-compset-methodology.md",
+      "size": 11879,
+      "sha256": "d5ef6bf11af88faac20b9d133cd2031b50e2b99bcd42fc09c0b30147ab98ce60"
+    },
+    {
+      "path": "docs/android-gateway.md",
+      "size": 15326,
+      "sha256": "c80afed0cc4f5e7614d91e1faf938ee21fc517c44f7e65a293f67f6c1a2bddd6"
+    },
+    {
+      "path": "docs/colab-drive-collection.md",
+      "size": 2680,
+      "sha256": "bcbbbfe58070d963411d2f77650f6a56cfb4cb0deca8d373e06b7529087f168d"
+    },
+    {
+      "path": "docs/dual-workspace-contract.md",
+      "size": 18226,
+      "sha256": "ddb9a1f783e2a0fd183884e2372d700d1f3c1f89869756dd3f2c5335e8cad233"
+    },
+    {
+      "path": "docs/dual-workspace-design.md",
+      "size": 6055,
+      "sha256": "b1e7fb34caae0f176044c2fa82f380a14112261ee93b147a2d427c9016d6c9de"
+    },
+    {
+      "path": "docs/dual-workspace-performance.md",
+      "size": 5821,
+      "sha256": "0c17a8989a0b407d5e5277f25928a5e354ea8b82b0744ea8d62961c356f8685c"
+    },
+    {
+      "path": "docs/gateway-master-architecture.md",
+      "size": 15231,
+      "sha256": "f5d47496afb4285e005e865ec601ccadaae969f49b5859947d3cfd6308698919"
+    },
+    {
+      "path": "docs/google-calendar-network.md",
+      "size": 4394,
+      "sha256": "2997c4dc447bd00272d5e6792e3740044af4dc718910ef2588b98106bca9e35b"
+    },
+    {
+      "path": "docs/hotel-aketa-profile-audit.md",
+      "size": 6382,
+      "sha256": "aed91263d20cac840eabe69f617ec38dcfedd9dd83f0eadd763584c91fe09db3"
+    },
+    {
+      "path": "docs/hotel-aketa-source-plan.md",
+      "size": 9535,
+      "sha256": "d72fbdccfd5634b8b40f7622ae559e1599cff9770dff363d76d9d18e1e802f5f"
+    },
+    {
+      "path": "docs/hotel-booking-expedia.md",
+      "size": 3580,
+      "sha256": "5cf9a0a6bf39ee16ec3ffac48ae18df75a33cf74f33707a35054611f38cd847c"
+    },
+    {
+      "path": "docs/hotel-mmt-agoda.md",
+      "size": 8866,
+      "sha256": "9e3dbf6c8bdfbb0d7ccb1cb9fcebe9445146060a5c1b965e94cbddf0805fd424"
+    },
+    {
+      "path": "docs/hotel-ota-pipelines.md",
+      "size": 7337,
+      "sha256": "9b8029bbf2ae2f173775ab101f1302cc6a38ee29609665817f3b06c5de32d7f2"
+    },
+    {
+      "path": "docs/hotel-portfolio-import.md",
+      "size": 7366,
+      "sha256": "09e7c0733180926f297a1e046b87c6700aca04512cc46f6739bd23138bb43634"
+    },
+    {
+      "path": "docs/market-studio-design.md",
+      "size": 4740,
+      "sha256": "d7f8fa288eb267e679e891bd019f3512e4cb7f5872703b8a56ce5e86759df55b"
+    },
+    {
+      "path": "docs/market-studio-research.md",
+      "size": 19810,
+      "sha256": "f3faa5bb375c0bafbc29bb91f38534e117f48ba98721e4923a301cdefe45ba68"
+    },
+    {
+      "path": "docs/one-adult-price-semantics.md",
+      "size": 12951,
+      "sha256": "ea7efbf14e8a44dbf1dffea1656bbd333fb3b64bc05b0eed232e5029e3cd4699"
+    },
+    {
+      "path": "docs/operator-research.md",
+      "size": 4420,
+      "sha256": "3899c9ec5fce9c0e9b5f7778b7daf2e9e077aff8eb7f5c2817d0b8fbd45784b2"
+    },
+    {
+      "path": "docs/portfolio-compsets.md",
+      "size": 4617,
+      "sha256": "e29e5f0142168e47dd49bf956fc69cf4521eaf6b59a5fbd634c9838f9dbe5dbd"
+    },
+    {
+      "path": "docs/provider-receipts-and-cloud-status.md",
+      "size": 2904,
+      "sha256": "539b4a2e7bb4ee94714e0c6f1591b0d72654344e87f6245c0b986af3e5ce5381"
+    },
+    {
+      "path": "docs/proxy-pool-and-android.md",
+      "size": 4966,
+      "sha256": "1304f6eb46833c01f9c934c2a3b53013204e0a63161db3d8bcaaaea49701e228"
+    },
+    {
+      "path": "docs/rate-intelligence-workspace.md",
+      "size": 7920,
+      "sha256": "66286019dc58e9240f1d5c29f2ab634fb8e371b80378832a6d0c3e985e2aa55e"
+    },
+    {
+      "path": "docs/rate-workspace-contract.md",
+      "size": 4755,
+      "sha256": "fbf638c2f18d71ea762355b0dc8f0bbbddd2bae130b87426de1ca259a366f68a"
+    },
+    {
+      "path": "docs/str-pms-research-and-yellow-handoff.md",
+      "size": 9662,
+      "sha256": "ea26538670bc8807d554f20f6fe6adab97d3d698b7dada4b2905a9162a75df80"
+    },
+    {
+      "path": "docs/workspace-collection-contract.md",
+      "size": 4728,
+      "sha256": "a5f986be0af008200f771682ccf350891d321e60b5b35b19102b47f9d381275f"
+    },
+    {
+      "path": "handoff/delivery-2026-09-28.md",
+      "size": 5091,
+      "sha256": "4223d17b43f13177b0effecdff3f770f7a9ace923aab4774b4536b45589320f4"
+    },
+    {
+      "path": "handoff/external-review/README.md",
+      "size": 15704,
+      "sha256": "519ac9abe56faf5f0b4cb820120a8fdd37cb412dd7b049baf91e6453983383b5"
+    },
+    {
+      "path": "handoff/external-review/manifest.json",
+      "size": 42988,
+      "sha256": "39d31d1dda8cf26a903f1f29c99437d7f76ea2576724cb18d67ac8d869f22c22"
+    },
+    {
+      "path": "handoff/orders/001-airbnb-pipeline.md",
+      "size": 1524,
+      "sha256": "50d6a29e79e98c1fba8596247f3c4026b51b9fbc5f253296579d4fb309e757b3"
+    },
+    {
+      "path": "handoff/orders/002-local-dashboard.md",
+      "size": 1241,
+      "sha256": "1fcb212f27f755331b2fda17c1593a147cf028995b4a9ded2fadf603e47ae557"
+    },
+    {
+      "path": "handoff/orders/003-compset-discovery.md",
+      "size": 3998,
+      "sha256": "30a18b8e23630cffd126a425b053fd154182c1406c846995e733d896e4f19b14"
+    },
+    {
+      "path": "handoff/orders/004-bnbme-inventory.md",
+      "size": 3239,
+      "sha256": "4251c04c70a400abd52737745293fe8ff2441bd5f1931fd1e51193b8e21d3140"
+    },
+    {
+      "path": "handoff/orders/005-one-adult-nightly-and-routes.md",
+      "size": 3153,
+      "sha256": "ea855a5c04a23b0b5b3e83b6a1f4851b59c3de6d782b86477a0fe2ab8c2686ff"
+    },
+    {
+      "path": "handoff/orders/006-approved-route-canary.md",
+      "size": 987,
+      "sha256": "45819f65be995a1d1d34585cc4c84560f52dbcc480eeaa5ae0b82ec67831a55e"
+    },
+    {
+      "path": "handoff/orders/007-one-night-price-evidence-and-hotel-follow-on.md",
+      "size": 2774,
+      "sha256": "43a8c2e72ba613980b1128c9467338b743c71e6226a1e2ad99f7d2633dca5eba"
+    },
+    {
+      "path": "handoff/orders/008-hotel-portfolio-ota-pipelines.md",
+      "size": 3272,
+      "sha256": "eb0a3fdd8fa30c0399eff230e19aeeba69d0d5c32b1bf8d364bba73c6863b006"
+    },
+    {
+      "path": "handoff/orders/009-aketa-profile-audit.md",
+      "size": 2420,
+      "sha256": "549be85bebcd16388ef238579d1578c7c6e133dd305092694f3798573a4205ab"
+    },
+    {
+      "path": "handoff/orders/010-rate-intelligence-workspace.md",
+      "size": 4158,
+      "sha256": "99b167d831c59745f5ffc5c3c15656980567c0077390591f36f1abfe51ed0854"
+    },
+    {
+      "path": "handoff/orders/011-workspace-fresh-collection.md",
+      "size": 5696,
+      "sha256": "fd99b5a7eae3a4c183e25f184e1eb327b7f4f4c18f5e671ba8374a34534f60c9"
+    },
+    {
+      "path": "handoff/orders/012-portfolio-compset-completion.md",
+      "size": 4739,
+      "sha256": "0ef989300056237d8f47c333c9a2a0237bc0587570f8b1ac19bdb8d601ff39a5"
+    },
+    {
+      "path": "handoff/orders/013-str-hotel-workspaces.md",
+      "size": 4301,
+      "sha256": "32dfbf3af72afa02230a61aef9e1893f613a580644bb2c74ef18ff410092fc51"
+    },
+    {
+      "path": "handoff/orders/014-lighthouse-hotel-portfolio.md",
+      "size": 2841,
+      "sha256": "9f33660cd09d487e5188b839c85ffdd819a26941248379f0f641a6554adda19a"
+    },
+    {
+      "path": "handoff/orders/015-proxy-pool-and-owned-android-gateways.md",
+      "size": 4359,
+      "sha256": "1eefd7a31c203a2e81b95acf84b637d2aa47009510d001524fd875ac65ae18c6"
+    },
+    {
+      "path": "handoff/orders/016-workspace-responsiveness.md",
+      "size": 2573,
+      "sha256": "8159327cb189808367c28a556c9147422c21ced2f58a1c4a947f5402dbe11a20"
+    },
+    {
+      "path": "handoff/orders/017-master-and-team-node-architecture.md",
+      "size": 2726,
+      "sha256": "d094876f8188cc76eed6a50b1dab7881d8b397c53bad859ad44776117c9f3f9c"
+    },
+    {
+      "path": "handoff/orders/018-portable-source-review-export.md",
+      "size": 2229,
+      "sha256": "f8aeaa70d2e651e6398dd8b31a22769b4215b737574857111362c14150e05413"
+    },
+    {
+      "path": "handoff/orders/019-t3-complete-acceptance.md",
+      "size": 3226,
+      "sha256": "053c497760c26b91d4321d4272cc7943719b2a7a7b39652f75b0b202f4536db8"
+    },
+    {
+      "path": "handoff/orders/020-mobile-ui-and-map-area.md",
+      "size": 5735,
+      "sha256": "8dff134842057f1c5d91a003b39b0377a06703f6e3eadc9fc807250fdc39b629"
+    },
+    {
+      "path": "handoff/orders/021-data-drive-relocation.md",
+      "size": 1401,
+      "sha256": "b7ecff0265feac30f481be91285add284fb27025aaeca37e68de2f63e6d021e2"
+    },
+    {
+      "path": "handoff/orders/022-market-studio-redesign.md",
+      "size": 3185,
+      "sha256": "c8602a8e420eef0ed0203d4081fe0a9fe0bcd814d31410b7d0a9b00f68e1f626"
+    },
+    {
+      "path": "handoff/orders/023-str-hotel-product-ui.md",
+      "size": 2998,
+      "sha256": "b9f167782dfda87c9f3f9870f5b1f6b0d979cab9453e2f7887c355e8e56d4688"
+    },
+    {
+      "path": "handoff/orders/024-colab-drive-collection.md",
+      "size": 1937,
+      "sha256": "7ad9e814e4ee7f4624614557beae87182ab80bfb8eeb6cfd4003e8ea9e8b9ffc"
+    },
+    {
+      "path": "handoff/reviews/001-independent-review.md",
+      "size": 2537,
+      "sha256": "9c021190162fe4e6b29cfbce20b5ba4eda0c34208eef651bbf7eef9853a48d15"
+    },
+    {
+      "path": "handoff/reviews/004-inventory-review.md",
+      "size": 8117,
+      "sha256": "7dfbfd4811525c5808831368461e715d688c42dbea6e7ffc13853504f84eb577"
+    },
+    {
+      "path": "handoff/reviews/005-runtime-review.md",
+      "size": 11672,
+      "sha256": "29c880c0ee2eec41a547ee40cd95a9800f4f3e7bfb76a2a598ab4ff4a99f6b77"
+    },
+    {
+      "path": "handoff/reviews/006-calendar-preflight-review.md",
+      "size": 3034,
+      "sha256": "271fd06413f10a230d8f90d1838dd288757fd5297406d4bba571943f1c054880"
+    },
+    {
+      "path": "handoff/reviews/007-one-adult-orchestration.md",
+      "size": 9812,
+      "sha256": "9423225d5ba4970242e6b2a1831ff3f5341c9fa6a6c610bbb389ed3742a1b5a4"
+    },
+    {
+      "path": "handoff/reviews/008-routes-review.md",
+      "size": 8310,
+      "sha256": "c6aaf9132bde2df1bf6163bc4194005628a8f6b92dfc1b8bc2915d1481cf3ea9"
+    },
+    {
+      "path": "handoff/reviews/009-integration-and-live-proof.md",
+      "size": 5101,
+      "sha256": "49708035eb11835f756e71aa456c0c71839edaa642c539631c704604828ccdf8"
+    },
+    {
+      "path": "handoff/reviews/010-approved-route-runtime.md",
+      "size": 2786,
+      "sha256": "e2fb0c545efc84d910ef06e310d2a52caa64918fce969a9dd6aa2628a8287dc1"
+    },
+    {
+      "path": "handoff/reviews/011-one-night-job-review.md",
+      "size": 8706,
+      "sha256": "f37a42d50f18f6d6fd55e241c1d15c33c452e7b2ac6eded8e8ef3252ec376f7b"
+    },
+    {
+      "path": "handoff/reviews/012-sections-transport-review.md",
+      "size": 6199,
+      "sha256": "8ad85c27e95770c696b693c8e3287510bd4666e708aa660c570e98c87f478dbb"
+    },
+    {
+      "path": "handoff/reviews/013-final-price-review.md",
+      "size": 6809,
+      "sha256": "77b5df6ffc12428029a9a510ea39b4fdb16873669c3d5a0bc2be4816d35276cb"
+    },
+    {
+      "path": "handoff/reviews/014-saved-price-hotel-review.md",
+      "size": 10141,
+      "sha256": "96dad1e8bb8546689ab29220b40bd91a052de5cbad1f776a24d058a3cfaa6211"
+    },
+    {
+      "path": "handoff/reviews/015-order007-live-delivery.md",
+      "size": 4596,
+      "sha256": "5a3e83fed4837118de4768c3147f27890c6fa728e2136bc327467434a6a1cceb"
+    },
+    {
+      "path": "handoff/reviews/016-hotel-portfolio-review.md",
+      "size": 11323,
+      "sha256": "279b8bf76075da20136a2bde0cbf860a8f5bf53f632e010a17ea28fd3f166250"
+    },
+    {
+      "path": "handoff/reviews/017-hotel-pipeline-integration.md",
+      "size": 5452,
+      "sha256": "6553323d81c1d26a1c66e48cda4e3c5942133a8c4536b428b2f49edfc7f7f76c"
+    },
+    {
+      "path": "handoff/reviews/018-aketa-profile-audit.md",
+      "size": 7412,
+      "sha256": "0f91f13abf21502db467c3d71cb3dcae55b923992164c41ed2ab297e736ee6e4"
+    },
+    {
+      "path": "handoff/reviews/019-rate-workspace.md",
+      "size": 9467,
+      "sha256": "f28cf484321c868ccf8ca384a1a1bbd18cd9949dc3c5bd2b9c58b74e83f5cf54"
+    },
+    {
+      "path": "handoff/reviews/020-workspace-collection.md",
+      "size": 10148,
+      "sha256": "cc9e2ebe912d9fab1d5a744ebdb9cdab99dc71cdf1f035d56836b3c85c9d6283"
+    },
+    {
+      "path": "handoff/reviews/021-root-workspace-integration.md",
+      "size": 4078,
+      "sha256": "f5e82a954a410e5b7dcdd1305f12f9a30bc0e977f389a6388b4cdef197300b7b"
+    },
+    {
+      "path": "handoff/reviews/022-data-builders-and-projections.md",
+      "size": 2079,
+      "sha256": "8c942913c1f576a33ecbb6a3799daac339187ee12b838fe90b17839afa1fb298"
+    },
+    {
+      "path": "handoff/reviews/022-dual-workspace.md",
+      "size": 3950,
+      "sha256": "d628f7ac5d0e767204f380ad5c1dd954d0a3e152e2fbca2bb2c9fcba0b3773aa"
+    },
+    {
+      "path": "handoff/reviews/024-android-core.md",
+      "size": 8133,
+      "sha256": "54d2cf9a2d148e379df238fc96654d8b605527a889d901699397acf93f18c5fa"
+    },
+    {
+      "path": "handoff/reviews/024-owned-device-client.md",
+      "size": 4017,
+      "sha256": "03b9b412e39a6c41bd0a5aafa4c4ba828ba25480669c21999182a816ea8bcb69"
+    },
+    {
+      "path": "handoff/reviews/025-regional-discovery.md",
+      "size": 1447,
+      "sha256": "4c4a8543ed17b2611a9f991f059e88d824d9dcd6fe24ab7692908d988be270f9"
+    },
+    {
+      "path": "handoff/reviews/026-configured-hotel-labels.md",
+      "size": 5660,
+      "sha256": "0196fd78f9e40721574c652174455f093df3a300ccc6e0928657233aa15bf7e8"
+    },
+    {
+      "path": "handoff/reviews/027-android-lifecycle-build.md",
+      "size": 2393,
+      "sha256": "11acc36419e69a29ecc833db9c7056f2ec982369f2fb9c68d22729e7557544f3"
+    },
+    {
+      "path": "handoff/reviews/028-workspace-responsiveness.md",
+      "size": 8615,
+      "sha256": "64331c13320d006cedf5bcc51eab24bb4a7cf2130e065a6e2b14b27367e8614b"
+    },
+    {
+      "path": "handoff/reviews/029-android-device-tls.md",
+      "size": 23503,
+      "sha256": "7cef76e825a1856a84a614085c384c5834402d49cdb9fe3bc73f35cfb783dc91"
+    },
+    {
+      "path": "handoff/reviews/030-mobile-ui-map-area.md",
+      "size": 9176,
+      "sha256": "425f9ebb7a5aea1751c1d41962a2ba37151c6a155f45ba092f5b231297dca63f"
+    },
+    {
+      "path": "handoff/reviews/031-colab-drive-collection.md",
+      "size": 2767,
+      "sha256": "41ded159529ef3ed3a18df5aff3631e8aeb35786d42350740a42dd49da699a1f"
+    },
+    {
+      "path": "handoff/reviews/031-data-drive-relocation.md",
+      "size": 1818,
+      "sha256": "07436012ceac361113908013a1719d5963ed927d6e264ae2fe7d3fc1005eea5d"
+    },
+    {
+      "path": "handoff/reviews/032-market-studio-map-review.md",
+      "size": 3278,
+      "sha256": "20abf5f5d849582a3ae1e14bdea3856349a9e76aa41d54a91ac5f761d6afad86"
+    },
+    {
+      "path": "handoff/reviews/032-market-studio-redesign.md",
+      "size": 2785,
+      "sha256": "86c585a981d7c776a67685d15757dae1ebdf902f2c196f4c609365c5c2ebb22a"
+    },
+    {
+      "path": "handoff/t3/COMPLETE-ACCEPTANCE.md",
+      "size": 11401,
+      "sha256": "bfea394ca0a80b7dfeb31b1bd9b0766d6785a23e055677d2de07cad8cc85c818"
+    },
+    {
+      "path": "handoff/t3/ORCHESTRATION.md",
+      "size": 3648,
+      "sha256": "4ff7dd39fdcb58158dc19199709385890eadba4b44af4f386b63e22f8806e415"
+    },
+    {
+      "path": "handoff/t3/TASKS.md",
+      "size": 3610,
+      "sha256": "748f3e0f72d4f49f00ac9138aad74e08b868fa0e74928b48e43490567fe1fad7"
+    },
+    {
+      "path": "handoff/t3/task-creation-receipt.json",
+      "size": 2523,
+      "sha256": "7b403c755839b4996df6cbd31f289b57244fa56ccb468eca549891cda046e0ae"
+    },
+    {
+      "path": "requirements-lock.txt",
+      "size": 597,
+      "sha256": "a9735632ca9fc991e3aa30d9b405fdcdbaef08b3865eadccf18ae072d74237a0"
+    },
+    {
+      "path": "routes/README.md",
+      "size": 10486,
+      "sha256": "50a303d47e70d3237affbe68149cf772692b0eec6cfa0b86d7d834c47791d5df"
+    },
+    {
+      "path": "routes/__init__.py",
+      "size": 72,
+      "sha256": "a39ce977b0d98815cd8046d1d6abcd6436c522dcdbb38ad6d551ecd7688a27c1"
+    },
+    {
+      "path": "routes/airbnb_scraper.py",
+      "size": 6979,
+      "sha256": "cfb1e210cb7dc58bb3e1242a28cadefa2536f953efe0def66d2b371ade11ad65"
+    },
+    {
+      "path": "routes/docker-compose.yml",
+      "size": 372,
+      "sha256": "eddb72232f4127e3c9c76eeb92da03df84b40861b8061d8407f45d962008ed1f"
+    },
+    {
+      "path": "routes/kaggle_fetch_validate.py",
+      "size": 8907,
+      "sha256": "42a54fe30f464111c84cff614fd3deef517c0923c938325b74136a58958ced89"
+    },
+    {
+      "path": "routes/owned_devices.py",
+      "size": 16349,
+      "sha256": "1a7fc25abfc46a17b5212dff093cec62a5512a722c88a1e14c6a10d46e6c464d"
+    },
+    {
+      "path": "routes/pool.py",
+      "size": 8851,
+      "sha256": "51ed5106780823bdfb090e05f4743bca40e29d63ac638a4b8b9c049a44f4847a"
+    },
+    {
+      "path": "routes/proxy_server.py",
+      "size": 17414,
+      "sha256": "f92f09277c0a1bb451a0589a93ba72d99123b14993d03c0719480b9339a33dad"
+    },
+    {
+      "path": "routes/requirements.txt",
+      "size": 33,
+      "sha256": "6cc2efb89df6dd8ee4cf0b37ecc0d2edd2ef5c1081bd6467058f5bbc43a9f08d"
+    },
+    {
+      "path": "tests/probe_subject_details.py",
+      "size": 1732,
+      "sha256": "08371ecb2eead066f62ded454d47f8b332bf2a67a3a5a7bc20c871e545232a77"
+    },
+    {
+      "path": "tests/test_adaptive.py",
+      "size": 11641,
+      "sha256": "eee07499935f01833c80dc5db01bc4e911d66704beff29f227a49954a85200f2"
+    },
+    {
+      "path": "tests/test_availability.py",
+      "size": 11637,
+      "sha256": "415334f26244867af7ee9aab1cb2ff84bee0b56edb10a6857121414f6bc86d9a"
+    },
+    {
+      "path": "tests/test_batch.py",
+      "size": 9533,
+      "sha256": "fdf76fa2081195820a1fc5d9f0e647973b625401c1113d1acdeffff9f5acf41e"
+    },
+    {
+      "path": "tests/test_colab_collector.py",
+      "size": 2287,
+      "sha256": "e175a0b8975c2a85fcb587ee136716ad1a037acc29c5ea213432f62f65cc351c"
+    },
+    {
+      "path": "tests/test_colab_vm_collector.py",
+      "size": 3340,
+      "sha256": "a6ffa7a532d3b7866e91c77e823ccad0467433dd7d97298427c2a57db2447d61"
+    },
+    {
+      "path": "tests/test_collect.py",
+      "size": 11847,
+      "sha256": "e95218cbf4553e3c3703d94fbdf2fa596d122a427463f98c73529b22e63b8d98"
+    },
+    {
+      "path": "tests/test_discovery.py",
+      "size": 8459,
+      "sha256": "72244ce7b30a46da190c5cc76623271c38ffec3cfa538d0058e9d66365e58fda"
+    },
+    {
+      "path": "tests/test_dual_workspace.js",
+      "size": 50047,
+      "sha256": "1174119545c354f28299dc8ce1fd41818de3f2e20637a721198dd7b04a564783"
+    },
+    {
+      "path": "tests/test_dual_workspace_review.js",
+      "size": 9801,
+      "sha256": "47a98e591d51c9e133b962bf7110169d27e341c339b33ed47ff319651ba1d3a1"
+    },
+    {
+      "path": "tests/test_gemini_google_probe.py",
+      "size": 3409,
+      "sha256": "2302b5175f80ebe8d277b031c9c7d306ddcbee1cf604548f16444cfe33d8e306"
+    },
+    {
+      "path": "tests/test_google_calendar_network.py",
+      "size": 5035,
+      "sha256": "fa8a03f06077c883ecf3efd1fb557a0a93111c48ed3ade9dc36dfdda4ef0fb64"
+    },
+    {
+      "path": "tests/test_health.py",
+      "size": 2132,
+      "sha256": "b53e9cdea1b5a1e6467037836bc929e8c9e89a89fcfb5d114f470091635001cc"
+    },
+    {
+      "path": "tests/test_hotel_aketa.py",
+      "size": 9860,
+      "sha256": "00511023e495cf27648b1fb89b49438f248cf4be47fb37825d7bba19a3ee0062"
+    },
+    {
+      "path": "tests/test_hotel_booking_expedia.py",
+      "size": 8045,
+      "sha256": "433fe59e814eb19097750d8607c3dac8af4967aed46c1da34bcbc716a14e84c5"
+    },
+    {
+      "path": "tests/test_hotel_compset.py",
+      "size": 12675,
+      "sha256": "54a1eaa4d47d92ab354c11893e1917e811fdc8f94433953ed86c95df492a5bf5"
+    },
+    {
+      "path": "tests/test_hotel_memberships.py",
+      "size": 2963,
+      "sha256": "947f4b6a1038c949e823431d73aa95454f4d546b5d5ed889b311a09e4a71e9de"
+    },
+    {
+      "path": "tests/test_hotel_memberships_review.py",
+      "size": 6263,
+      "sha256": "5daa2e8611d3c141cbeff046e13d284c72d939485d31f8e862e760beefa108dd"
+    },
+    {
+      "path": "tests/test_hotel_mmt_agoda.py",
+      "size": 21637,
+      "sha256": "868281700eff4aad369a428de08c7ad883f433a84c3b1c8c8dcf5e8737e04b8d"
+    },
+    {
+      "path": "tests/test_hotel_portfolio.py",
+      "size": 11145,
+      "sha256": "cc14fa687e607850e434def1f48500fc990d4fae0064c2ffc71f3cc9a15a7883"
+    },
+    {
+      "path": "tests/test_hotel_portfolio_review.py",
+      "size": 18816,
+      "sha256": "7b41e7f3fa18daafd561a8d38ae02ae316b2f83e5449c585b3ccc95127159c68"
+    },
+    {
+      "path": "tests/test_intelligence.py",
+      "size": 11599,
+      "sha256": "816e41e88bcf805aeda26e23abf7283968164734d3639e6cac74b14560f4322a"
+    },
+    {
+      "path": "tests/test_intelligence_server.py",
+      "size": 3768,
+      "sha256": "a32de6f4140f72880a7ec7334ec769315ff32595be31d0f4f0ae3d18ef4dab9e"
+    },
+    {
+      "path": "tests/test_inventory.py",
+      "size": 22909,
+      "sha256": "cd90d325de1eb351cc4494a9437265e70450196860e9f7824a432b884515e41b"
+    },
+    {
+      "path": "tests/test_map_area.js",
+      "size": 33888,
+      "sha256": "d42f1af90406746e20e925deba7ca0490f0d6eea42e5f487e28e5af279dde67e"
+    },
+    {
+      "path": "tests/test_map_area_review.js",
+      "size": 22468,
+      "sha256": "852e555647787b1a09730173ca8644db62a1718477d1998cd35a8221542ee21d"
+    },
+    {
+      "path": "tests/test_nightly.py",
+      "size": 6478,
+      "sha256": "1ff81f38adf8f5066b35a4bca59a9c99beb10817965aa8cd08e6b8e3762d7b86"
+    },
+    {
+      "path": "tests/test_nightly_review.py",
+      "size": 18868,
+      "sha256": "12cb49f7ed2bb02d3c1b73c786c175878e2ef0981c8fcd2eb1d07a97c613ff0b"
+    },
+    {
+      "path": "tests/test_nightly_rows.py",
+      "size": 9913,
+      "sha256": "d8dcd2fa070020c86b7d796209c23b6165c47218c19d268599f2517c5b6ba5e5"
+    },
+    {
+      "path": "tests/test_normalize.py",
+      "size": 16257,
+      "sha256": "eb33bc7069124737f34b67afa18b32e912b4d6279e583efb1fab693b0bbd50a6"
+    },
+    {
+      "path": "tests/test_one_night_job.py",
+      "size": 7249,
+      "sha256": "9b8ad1a78d595422a91ccabe597c46498226ea0055545b8305deed1b0c53d102"
+    },
+    {
+      "path": "tests/test_one_night_review.py",
+      "size": 22911,
+      "sha256": "98a2756ac8aa500c74ceca1bef028b41d95f5e9a2350cef56e80fc0e1e589f37"
+    },
+    {
+      "path": "tests/test_one_night_rows.py",
+      "size": 17160,
+      "sha256": "1465220f506c2b1e1ab1be989a0aa5f0126577b1599d93105db14debf60734bd"
+    },
+    {
+      "path": "tests/test_owned_devices.py",
+      "size": 7123,
+      "sha256": "37d2fb4b11cdf05b05646f31689b213ab5c374008211267f7789ac384fb462a5"
+    },
+    {
+      "path": "tests/test_owned_devices_review.py",
+      "size": 13989,
+      "sha256": "1179eabeac190702a08b5f8d546071fdd0361a45cb6fca55d6508c7f44067f5e"
+    },
+    {
+      "path": "tests/test_pipeline.py",
+      "size": 2605,
+      "sha256": "3dc0bdeec75654ba59b3f6cb32040246c9f77b94740624adb7e7a79876a46d22"
+    },
+    {
+      "path": "tests/test_portfolio.py",
+      "size": 12360,
+      "sha256": "d4d60c5fff14e0b01a844f9fa2922ed752f833099efc3856f17bcf6d27d1d0af"
+    },
+    {
+      "path": "tests/test_portfolio_compsets.py",
+      "size": 9596,
+      "sha256": "6298843e68d4a7adaeb2e819480cbc7d3e4332488d1ea1e165e2fab009f42d9a"
+    },
+    {
+      "path": "tests/test_portfolio_discovery.py",
+      "size": 18526,
+      "sha256": "6dfc781bd08551f3fec09418fa3b9abcb591f151fcaa98e030ad4cd5fc3a49a4"
+    },
+    {
+      "path": "tests/test_profile.py",
+      "size": 3780,
+      "sha256": "a995c9706a1a1f5d90783289e7850903f4cdcabe1a53be39b8ea308836f04879"
+    },
+    {
+      "path": "tests/test_provider_receipt_routes.py",
+      "size": 3737,
+      "sha256": "b962c8d76660e41b9fe7639bf86a810eaef370f29079607b93762f0b7ced48fd"
+    },
+    {
+      "path": "tests/test_provider_receipts.py",
+      "size": 14971,
+      "sha256": "735ecba223527c04bc8c9fcec88673479f114d0249c82e61436c9b21cd418f99"
+    },
+    {
+      "path": "tests/test_rates_workspace.js",
+      "size": 35802,
+      "sha256": "7628c47045a324c4d58647e269f46a0e818818b40d16318aa6eb43c50f53e0c9"
+    },
+    {
+      "path": "tests/test_research_pipeline.py",
+      "size": 10196,
+      "sha256": "a63f9b92499cc21e039346dcd808e0729c7bfe9c4204aebfc66f968336dda230"
+    },
+    {
+      "path": "tests/test_root_routes_review.py",
+      "size": 5488,
+      "sha256": "1a0c1e43320c9a900a65fe5b59ebfd67f9d05749e787eaa03287079634b8b8c3"
+    },
+    {
+      "path": "tests/test_root_workspace_review.js",
+      "size": 8975,
+      "sha256": "e3dd417e25f7051d97f1ba1bf580968bab7dfad1ae3232bd4b5129c6302a647f"
+    },
+    {
+      "path": "tests/test_routes.py",
+      "size": 17919,
+      "sha256": "ba2ddc74b32364f26c9188978e6f66ebf7d46fea398d43e7c56ccc849d9d9324"
+    },
+    {
+      "path": "tests/test_routes_review.py",
+      "size": 14188,
+      "sha256": "850b0ab47217d0613adfe1d2bdf0a2bae3ee0c19728f61759ee5088cf85acd2c"
+    },
+    {
+      "path": "tests/test_runtime_review.py",
+      "size": 12000,
+      "sha256": "891e90f6acd88b5a953c2b29faf06da60f50938c8465ff076e8684e2e96f17aa"
+    },
+    {
+      "path": "tests/test_saved_price_server.py",
+      "size": 5349,
+      "sha256": "602bb0e49574ae271d4263d5c9fdfb75b5a888844e7649e21437d1bab0ed45ed"
+    },
+    {
+      "path": "tests/test_sections_transport.py",
+      "size": 13472,
+      "sha256": "d52a217b62186a4d3cbdb1bdfc1d4f8a809ff1590f8bbb2450794135a147ce87"
+    },
+    {
+      "path": "tests/test_sections_transport_review.py",
+      "size": 11706,
+      "sha256": "be159c1e1355a94f1a8b786a104594b2587f4a074b9104a674ae9c43c93dab62"
+    },
+    {
+      "path": "tests/test_server.py",
+      "size": 3326,
+      "sha256": "56433ed0dc659f35fe9216e8b47a5b0b12a16a2abfcd3d88b10f936ba7f03e64"
+    },
+    {
+      "path": "tests/test_similarity.py",
+      "size": 12919,
+      "sha256": "bc0a975c485d9c4f056e95b0fd0e449cf06890332748d7eaa6414386610b2d2f"
+    },
+    {
+      "path": "tests/test_workflows.py",
+      "size": 536,
+      "sha256": "eba1320c575866b7a1f7f024e66caddbb747ed8eeea1a9f6ee3eec89d461fd68"
+    },
+    {
+      "path": "tests/test_workspace.py",
+      "size": 17786,
+      "sha256": "b2254dbcb00ba7a1579dd5bd2e37a3bc29bf93c3b7c95de8173ad9e0ec1516a5"
+    },
+    {
+      "path": "tests/test_workspace_collection_review.py",
+      "size": 35268,
+      "sha256": "0fab59bfd75b54ae9f38b959f7d2026d7d2f01568aa5d1cca3d018f67e1ae8d2"
+    },
+    {
+      "path": "tests/test_workspace_jobs.py",
+      "size": 12060,
+      "sha256": "0c9fa2e7b839c2a90080edb730881a7f554366e91817fa4536967a001271c5da"
+    },
+    {
+      "path": "tests/test_workspace_responsiveness_review.js",
+      "size": 12227,
+      "sha256": "5d961b9ccab3e47e87c104dd9ab8323e0fe777ba49b1d96869c59d802d025dfe"
+    },
+    {
+      "path": "tests/test_workspace_review.py",
+      "size": 27775,
+      "sha256": "186328b848285a2a32ed739a4c6c8b72afd804d021cfdb8254707eef9f903958"
+    },
+    {
+      "path": "tools/build_aketa_receipt_preview.cjs",
+      "size": 38808,
+      "sha256": "47ace040e2cab3a3fe763003d66922f0e869f9da4d33cfcfcc8569d9b298c5bf"
+    },
+    {
+      "path": "tools/build_colab_collector.py",
+      "size": 10846,
+      "sha256": "2f6a1a99c5db23b804bf8b7474b693a45f2075413131abfbe26b5db67f15892a"
+    },
+    {
+      "path": "tools/build_colab_vm_collector.py",
+      "size": 6314,
+      "sha256": "8fbfb9d10be71926b9d9c658ae860838c91b6dffe88bf544d5a41975ec254fdb"
+    },
+    {
+      "path": "tools/save_aketa_provider_receipts.py",
+      "size": 10410,
+      "sha256": "1f5e2630c27f6c27ca3a999f3ebd75a853fa56b7d718088dc6fbad75c37a5425"
+    },
+    {
+      "path": "handoff/cloud/source-evidence/lighthouse-configured-labels.json",
+      "size": 2625,
+      "sha256": "3741f8134fcc363b30c352d5fd8f3e8a2bebc7af3cf6ce994a1a086d465beb8f"
+    }
+  ],
+  "excluded_files": [
+    "android-gateway/LICENSE",
+    "android-gateway/app/build.gradle",
+    "android-gateway/app/src/main/AndroidManifest.xml",
+    "android-gateway/app/src/main/java/com/compset/gateway/GatewayService.java",
+    "android-gateway/app/src/main/java/com/compset/gateway/MainActivity.java",
+    "android-gateway/app/src/main/java/com/compset/gateway/Networks.java",
+    "android-gateway/app/src/main/java/com/compset/gateway/Pairing.java",
+    "android-gateway/app/src/main/java/com/compset/gateway/core/ConnectRequest.java",
+    "android-gateway/app/src/main/java/com/compset/gateway/core/DestinationPolicy.java",
+    "android-gateway/app/src/main/java/com/compset/gateway/core/Nat64Duplicates.java",
+    "android-gateway/app/src/main/java/com/compset/gateway/core/SessionBudget.java",
+    "android-gateway/app/src/main/java/com/compset/gateway/core/TunnelServer.java",
+    "android-gateway/app/src/main/res/drawable/gateway_icon.xml",
+    "android-gateway/app/src/main/res/xml/data_extraction_rules.xml",
+    "android-gateway/build.gradle",
+    "android-gateway/gradle.properties",
+    "android-gateway/settings.gradle",
+    "android-gateway/tests/CoreTests.java",
+    "android-gateway/tests/Nat64DuplicateTests.java",
+    "compset/static/vendor/images/layers-2x.png",
+    "compset/static/vendor/images/layers.png",
+    "compset/static/vendor/images/marker-icon-2x.png",
+    "compset/static/vendor/images/marker-icon.png",
+    "compset/static/vendor/images/marker-shadow.png",
+    "docs/design/hotel-desktop.png",
+    "docs/design/market-studio-concept.png",
+    "docs/design/mobile-workspaces.png",
+    "docs/design/str-desktop.png",
+    "docs/screenshots/airbnb-checkout-only-stay.png",
+    "docs/screenshots/airbnb-unavailable-calendar.png",
+    "docs/screenshots/inventory-coverage.png",
+    "docs/screenshots/one-adult-window.png",
+    "notebooks/CompSet-Aketa-Colab-VM.ipynb",
+    "notebooks/CompSet-Aketa-Colab.ipynb",
+    "routes/.dockerignore",
+    "routes/Dockerfile",
+    "routes/working_proxies.json",
+    "routes/working_proxies.txt",
+    "server_stderr.log",
+    "server_stdout.log",
+    "tests/android/GatewayReviewerProof.java",
+    "tests/android/Nat64ReviewerProof.java"
+  ],
+  "credential_policy": "No runtime data, credential files, cookies, sessions, device registry or API tokens; reviewed negative test fixtures retained",
+  "evidence_policy": "Six exact configured Lighthouse subject labels and42name-only memberships are historical; no provider IDs/rates inferred",
+  "scope": "Standalone CompSet Studio only; Yellow excluded"
+}

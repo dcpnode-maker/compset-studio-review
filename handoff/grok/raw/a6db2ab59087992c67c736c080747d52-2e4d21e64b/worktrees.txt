@@ -1,0 +1,5 @@
+exit=0
+worktree D:/Yellow/harness/t3code
+HEAD d4b4ea0d146b9207900874bacb4c364f03281422
+branch refs/heads/phase-0/yellow-personal-harness
+

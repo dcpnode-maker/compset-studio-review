@@ -1,0 +1,85 @@
+exit=0
+ DECISIONS.log                                      |    3 +
+ bun.lock                                           |  113 +++
+ docs/CONTRACTS.md                                  |   19 +
+ docs/EVENTS.md                                     |    4 +
+ docs/PROJECT-STATUS.md                             |  687 ++++++++++++-
+ docs/STATE-MACHINES.md                             |    7 +
+ frontend/yellow/index.html                         |    2 +-
+ .../assets/FinanceWorkspace-CXh0JO34.js            |    1 -
+ .../yellow-next/assets/OperationalHub-DyYEhd6J.js  |    1 -
+ .../assets/ReservationWorkspace-CuqJRPi9.js        |    1 -
+ .../public/yellow-next/assets/index-BZRdwTST.js    |    2 -
+ frontend/yellow/public/yellow-next/index.html      |    2 +-
+ frontend/yellow/src/App.tsx                        |  547 +++++++----
+ .../yellow/src/ecosystem/capability-registry.ts    |    6 +-
+ frontend/yellow/src/main.tsx                       |    1 +
+ frontend/yellow/src/reservation-board.ts           |   22 +
+ frontend/yellow/src/styles.css                     |   45 +-
+ frontend/yellow/src/today-workspace.ts             |   18 +-
+ frontend/yellow/src/ui/OptionsDrawer.tsx           |   31 +-
+ frontend/yellow/src/ui/SegmentedRibbon.tsx         |  185 +++-
+ frontend/yellow/src/workspaces/EcosystemHub.tsx    |   14 +-
+ .../yellow/src/workspaces/FinanceWorkspace.tsx     |  215 +++-
+ .../src/workspaces/MarketIntelligenceLab.tsx       |    5 +-
+ frontend/yellow/src/workspaces/OperationalHub.tsx  |    9 +-
+ .../yellow/src/workspaces/ReservationWorkspace.tsx | 1036 ++++++++++++--------
+ .../yellow/src/workspaces/TodayGlassDashboard.tsx  |   37 +-
+ frontend/yellow/src/yellow-api.tsx                 |  244 ++++-
+ frontend/yellow/vite.config.ts                     |    9 +-
+ handoff/LEDGER.md                                  |  408 ++++++++
+ package.json                                       |    6 +-
+ public/yellow-next/assets/EcosystemHub-EDFkSayR.js |    1 -
+ .../assets/FinanceWorkspace-CXh0JO34.js            |    1 -
+ .../assets/MarketIntelligenceLab-BCj8VG4l.js       |    1 -
+ .../yellow-next/assets/OperationalHub-DyYEhd6J.js  |    1 -
+ .../yellow-next/assets/OptionsDrawer-BJ5GciDZ.js   |    1 -
+ .../assets/ReservationWorkspace-CuqJRPi9.js        |    1 -
+ public/yellow-next/assets/StatusBadge-Dav-a6et.js  |    1 -
+ public/yellow-next/assets/index-BZRdwTST.js        |    2 -
+ public/yellow-next/assets/index-D1zeL5we.css       |    1 -
+ public/yellow-next/assets/vendor-CNqRKreC.js       |    9 -
+ public/yellow-next/index.html                      |    5 +-
+ scripts/license-check.ts                           |   56 +-
+ scripts/local-review.sh                            |    2 +-
+ src/app.ts                                         |   41 +-
+ src/contexts/reporting/index.ts                    |    3 +
+ src/contexts/reservations/board.ts                 |   97 +-
+ src/contexts/reservations/index.ts                 |   17 +
+ src/http/operator.ts                               |  274 +++++-
+ src/http/security-headers.ts                       |   18 +
+ src/kernel/build-info.ts                           |    2 +-
+ src/server.ts                                      |    5 +-
+ tests/build-readiness.test.ts                      |   12 +-
+ tests/free-host-arm64.test.ts                      |    2 +-
+ tests/license-check.test.ts                        |   50 +
+ ...or-reservation-read-surface.integration.test.ts |    2 +-
+ ...rder609-reservation-create-edit.browser.test.ts |   11 +-
+ tests/order611-today-glass-dashboard.test.ts       |   30 +-
+ tests/order620-today-colleague-demo-path.test.ts   |    3 +-
+ tests/order623-group-block-workbench.test.ts       |    5 +-
+ tests/release-workflow.test.ts                     |    2 +-
+ tests/reservation-board.integration.test.ts        |  115 ++-
+ tests/schema/expected.sql                          |   16 +
+ tests/security-headers.test.ts                     |   33 +-
+ ...reservation-board-attribute-performance.test.ts |   50 +-
+ tests/yellow-reservation-board-pages.test.ts       |   15 +-
+ tests/yellow-reservation-command-surface.test.ts   |   29 +-
+ tests/yellow-reservation-finance-entry.test.ts     |   21 +-
+ tests/yellow-today-workspace.test.ts               |    2 +-
+ 68 files changed, 3676 insertions(+), 941 deletions(-)
+warning: in the working copy of 'frontend/yellow/src/workspaces/FinanceWorkspace.tsx', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/LEDGER.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/orders/634-ready-checkin-demo-fixture.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/orders/638-ready-checkout-demo-fixture.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/orders/639-overwatch-gemini-provider-evidence.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/orders/640-public-finance-posting-proof.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/reviews/611-public-promotion-evidence.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/reviews/617-cashier-search-bounded-read-workbench.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/reviews/618-repeatable-public-demo-promotion.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/reviews/619-public-demo-speed-budget.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/reviews/620-today-colleague-demo-path.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/reviews/621-colleague-demo-readiness-probe.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'handoff/reviews/622-mobile-first-public-demo-probe.md', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'src/http/operator/operator.js', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of 'tests/build-readiness.test.ts', CRLF will be replaced by LF the next time Git touches it

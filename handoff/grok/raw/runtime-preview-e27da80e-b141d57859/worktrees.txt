@@ -1,0 +1,5 @@
+exit=0
+worktree E:/YellowWorkspace/Data/BuildArtifacts/yellow-receiving-build-20261001-v1/runtime-preview-e27da80e
+HEAD e27da80e2e4a55dc653f455adc7b2d271253d20b
+detached
+

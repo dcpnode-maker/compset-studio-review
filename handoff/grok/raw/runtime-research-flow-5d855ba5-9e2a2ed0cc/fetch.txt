@@ -1,0 +1,5 @@
+{
+  "exit": 0,
+  "stdout": "",
+  "stderr": "From E:\\YellowWorkspace\\Worktrees\\phase-7-resource-receiving-20261001\n   5d855ba5..2b096e5f  phase-7/live-ecosystem-20261002 -> origin/phase-7/live-ecosystem-20261002\n"
+}

@@ -1,0 +1,7 @@
+exit=0
+ M frontend/yellow/src/group-reservations-api.ts
+ M frontend/yellow/src/workspaces/ReservationWorkspace.tsx
+ M frontend/yellow/src/workspaces/reservation-search.css
+ M frontend/yellow/src/workspaces/reservation-search.ts
+ M tests/yellow-reservation-search.test.tsx
+?? tests/group-search-pagination.test.tsx

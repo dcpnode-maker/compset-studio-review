@@ -1,0 +1,4 @@
+exit=0
+ details/price.go | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: in the working copy of 'details/price.go', LF will be replaced by CRLF the next time Git touches it

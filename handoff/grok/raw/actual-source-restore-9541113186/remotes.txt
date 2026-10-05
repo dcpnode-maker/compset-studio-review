@@ -1,0 +1,3 @@
+exit=0
+origin	E:\YellowWorkspace\Data\Recovery\RESOURCE-20261001\receiving-b9ba702a\receiving-b9ba702a.bundle (fetch)
+origin	E:\YellowWorkspace\Data\Recovery\RESOURCE-20261001\receiving-b9ba702a\receiving-b9ba702a.bundle (push)

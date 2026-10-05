@@ -1,0 +1,5 @@
+{
+  "exit": 0,
+  "stdout": "",
+  "stderr": "From https://github.com/Alishahryar1/free-claude-code\n   bf59598..5e375e4  main       -> origin/main\n"
+}

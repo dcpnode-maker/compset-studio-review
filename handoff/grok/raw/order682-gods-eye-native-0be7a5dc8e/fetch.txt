@@ -1,0 +1,5 @@
+{
+  "exit": 0,
+  "stdout": "",
+  "stderr": "From https://github.com/bilawalsidhu/gods-eye-view\n   ce671ce..e1cc7af  main       -> origin/main\n"
+}

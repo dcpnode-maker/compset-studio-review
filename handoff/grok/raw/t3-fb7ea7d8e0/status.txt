@@ -1,0 +1,25 @@
+exit=0
+ M README.md
+ M manual-notebook-worker.py
+ M test-manual-notebook-worker.py
+?? __pycache__/kaggle-qwen-diagnostic.cpython-313.pyc
+?? __pycache__/kaggle-tpu-preflight.cpython-313.pyc
+?? __pycache__/manual-notebook-worker.cpython-313.pyc
+?? __pycache__/pinned-qwen-restoration.cpython-313.pyc
+?? __pycache__/pinned-qwen-source-runtime.cpython-313.pyc
+?? kaggle-api.mjs
+?? kaggle-api.test.mjs
+?? kaggle-jupyter.mjs
+?? kaggle-jupyter.test.mjs
+?? kaggle-owned-diagnostic.mjs
+?? kaggle-owned-diagnostic.test.mjs
+?? kaggle-qwen-diagnostic.py
+?? kaggle-tpu-preflight.py
+?? pinned-qwen-restoration.py
+?? pinned-qwen-source-runtime.py
+?? role-policy.mjs
+?? role-policy.test.mjs
+?? test-kaggle-qwen-diagnostic.py
+?? test-kaggle-tpu-preflight.py
+?? test-pinned-qwen-restoration.py
+?? test-pinned-qwen-source-runtime.py

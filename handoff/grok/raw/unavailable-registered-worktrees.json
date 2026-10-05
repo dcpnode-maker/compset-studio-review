@@ -1,0 +1,9 @@
+[
+  {
+    "path": "D:/Yellow/git-live-order611-source",
+    "exit": 128,
+    "stdout": "",
+    "stderr": "fatal: not a git repository (or any of the parent directories): .git\n",
+    "reason": "registered worktree was not readable as a Git checkout; no source or commit fabricated"
+  }
+]

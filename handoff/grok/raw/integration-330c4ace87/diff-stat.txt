@@ -1,0 +1,7 @@
+exit=0
+ frontend/yellow/src/App.tsx                        |  3 +-
+ .../yellow/src/workspaces/FinanceWorkspace.tsx     | 10 +++-
+ .../src/workspaces/HostReservationCalendar.tsx     | 67 +++++++++++++++++++++-
+ frontend/yellow/src/workspaces/OperationalHub.tsx  | 54 +++++++++++++++--
+ .../src/workspaces/department-task-table.css       |  9 +++
+ 5 files changed, 132 insertions(+), 11 deletions(-)

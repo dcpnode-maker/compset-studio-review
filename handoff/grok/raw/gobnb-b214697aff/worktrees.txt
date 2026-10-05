@@ -1,0 +1,5 @@
+exit=0
+worktree E:/YellowWorkspace/Documents/Codex/2026-09-29/ankit-discussions/outputs/airbnb-library-benchmark/vendor/gobnb
+HEAD fe795f5f9583924dfc239922148fd85053d4970a
+branch refs/heads/main
+

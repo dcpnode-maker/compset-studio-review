@@ -1,0 +1,2 @@
+exit=0
+E:/YellowWorkspace/CompSetStudio/.git

@@ -1,0 +1,5 @@
+exit=0
+worktree D:/Yellow/harness/adapters/t3
+HEAD ddd7c6c0143e98e91dcca6118e09ed5be93bbdaa
+branch refs/heads/phase-0/yellow-personal-harness
+

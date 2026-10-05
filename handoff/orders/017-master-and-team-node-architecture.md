@@ -1,0 +1,13 @@
+# Order 017: master-controlled team gateway architecture
+
+Status: architecture and implementation planning, 28 September 2026. This order does not claim or authorize deployment of an always-on remote service.
+
+User direction: the next APK will be distributed to team members who provide node support. The user operates a master controller, which inventories the maximum actually available Wi-Fi and cellular routes and schedules them for script sessions. The user wants persistent operation, including Wi-Fi alongside cellular and additional active SIM routes when supported. Support older Android versions where the public APIs permit it; do not promise simultaneous dual-SIM data or distinct public IPs without device evidence.
+
+Scope: `docs/gateway-master-architecture.md`, this order, and refreshed local handover metadata. Primary-source Android capability research and an independent architecture review are in scope. Existing app implementation, master-server deployment, credential enrollment, carrier settings, dashboard activation and collection traffic are outside this planning tranche. Root owns the plan; ota_review independently researches Android guarantees and limitations. The user selected their Windows laptop as master, available while that laptop is online. Cross-network reachability is a separately configurable transport; no public endpoint is deployed by this order.
+
+Design obligations: visible opt-in enrollment, authenticated encrypted transport, hardware-backed device identity where available, revocation and local Stop, per-network DNS/socket binding, measured address deduplication, stale-route expiry, session-sticky scheduling, explicit resource policy, and a reconnect lifecycle that respects actual Android availability. A long-running node advertises capabilities; it does not silently change a device's default SIM or pretend unavailable subscriptions are live routes. Existing challenge/cooldown handling stays in force.
+
+Prerequisite: the current 0.1.3 cellular probe failed at the duplicate-only DNS64 compatibility check. Define a separate reviewed resolver repair and its adversarial proof before admitting cellular routes to the pool. Preserve Wi-Fi success, failed cellular evidence and incomplete physical Stop assertions distinctly. Do not conflate a custom destination-policy rejection with the earlier tool-execution denial.
+
+Acceptance: an implementable architecture with component ownership, enrollment/transport contract, route/session state, Android capability matrix, cost/latency constraints, staged implementation tasks and independently identified risks. No statement that a vNext APK or master service is built until implementation and end-to-end device proof exist.

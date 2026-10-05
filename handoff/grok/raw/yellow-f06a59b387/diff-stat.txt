@@ -1,0 +1,14 @@
+exit=0
+ DECISIONS.log                             |   9 ++
+ docs/PROJECT-STATUS.md                    |  10 +++
+ handoff/LEDGER.md                         | 139 ++++++++++++++++++++++++++++++
+ src/app.ts                                |  76 ++++++++++++++++
+ src/demo/demo-arrival-fixture.ts          |   1 +
+ src/demo/mobile-shell.ts                  |  79 ++++++++++++++++-
+ tests/colleague-demo-readiness.test.ts    |  42 +++------
+ tools/build-continuity/OMNIROUTE.md       |  39 +++++----
+ tools/build-continuity/README.md          |  26 ++++++
+ tools/build-continuity/omniroute.py       | 130 +++++++++++++++++++++++++---
+ tools/build-continuity/provider-pool.json |  14 +--
+ 11 files changed, 501 insertions(+), 64 deletions(-)
+warning: in the working copy of 'handoff/LEDGER.md', CRLF will be replaced by LF the next time Git touches it

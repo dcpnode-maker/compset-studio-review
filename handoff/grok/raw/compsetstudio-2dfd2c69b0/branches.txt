@@ -1,0 +1,6 @@
+exit=0
+  codex/hotel-portfolio-otas       94b19f4 [codex] Add touch circle editing and compact Kole-informed workspaces
+  codex/one-adult-nightly-coverage 85d054f [codex] Add verified one-night evidence and Hotel Aketa calendar
+  phase-0/airbnb-pipeline          c968385 [codex] Build standalone inventory pipeline and calendar semantics safeguards
+  phase-0/compset-market-studio    82f1477 [codex] Build research-led CompSet market studio
+* phase-0/compset-product-ui       82f1477 [codex] Build research-led CompSet market studio

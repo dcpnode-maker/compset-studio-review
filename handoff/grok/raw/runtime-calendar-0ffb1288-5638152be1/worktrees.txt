@@ -1,0 +1,5 @@
+exit=0
+worktree E:/YellowWorkspace/Data/BuildArtifacts/yellow-receiving-build-20261001-v1/runtime-calendar-0ffb1288
+HEAD 0ffb1288a9bb6470da2865c83b4f473377d94f04
+detached
+

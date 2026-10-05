@@ -1,0 +1,9 @@
+# Astra cloud receiving contract
+
+This is a private frozen snapshot of the laptop CompSet Studio working tree. The laptop remains authoritative. Verify every file in `handoff/cloud/SOURCE-MANIFEST.json` before work. Never replace Yellow or the original laptop source. Write changes on a separate branch, preserve original evidence and return a scoped diff with tests and hashes for laptop integration.
+
+Use `python -m venv .venv` and the exact `requirements.txt`; browser access is separate from parser tests. Read README.md, ARCHITECTURE.md, relevant current orders, docs/market-studio-*.md, rate semantics and source controls. Write a new scoped order for this founder assignment before implementation. No credentials have been transferred. All dates and data coverage in retained docs are historical until independently revalidated.
+
+The imported Lighthouse label artifact contains six exact subject identities and42names-only competitor memberships. It does not resolve competitor identities, include all configured sets, or supply rates. The requested Aketa17hotel set still requires an explicit inventory and dated coverage audit. Never infer booked nights from unavailable dates, nightly rates from stay-average totals, final OTA quotes from Google indicative minimums, or exhaustive market inventory from ranked search pages.
+
+Research and implement hotel subject/map/product-quality compsets and STR Airbnb-only Dubai workflows with visible unknowns, freshness and source evidence. First collect a bounded live pilot with conservative serial reads, caching, checkpoints and source-stop handling. No source-block bypass or rotating identity following denial; no booking/payment actions. Keep no-response, unavailable and unknown distinct. Only source-proven values enter the app; unavailable data should be presented as gaps, not generated replacements.

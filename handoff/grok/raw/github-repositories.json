@@ -1,0 +1,18 @@
+[
+  {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "isPrivate": false,
+    "nameWithOwner": "dcpnode-maker/yellow",
+    "url": "https://github.com/dcpnode-maker/yellow"
+  },
+  {
+    "defaultBranchRef": {
+      "name": "cloud-source-20261003"
+    },
+    "isPrivate": true,
+    "nameWithOwner": "dcpnode-maker/compset-studio",
+    "url": "https://github.com/dcpnode-maker/compset-studio"
+  }
+]

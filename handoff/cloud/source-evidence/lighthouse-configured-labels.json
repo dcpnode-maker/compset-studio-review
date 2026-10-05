@@ -1,0 +1,17 @@
+{
+  "schema_version": "lighthouse-configured-labels.v1",
+  "observed_at": "2026-09-28T09:57:29Z",
+  "source_url": "https://app.mylighthouse.com/market/_378042/rates/hotel",
+  "observation_method": "Authenticated visible My hotels table; each of six subject rows expanded separately",
+  "identity_status": "name_only_competitors_unresolved_provider_ids",
+  "coverage": {"subject_count": 6, "observed_membership_count": 42, "all_subject_rows_expanded": true, "all_configured_compsets_verified": false},
+  "notes": ["These are labels in the currently displayed account comparison, not verified OTA identities.", "Competitor rate links retain the subject hotel ID and were not treated as competitor IDs.", "No prices, OTA mappings, property attributes or additional competitor-set memberships are inferred."],
+  "subjects": [
+    {"subject_id": "lighthouse:139318", "name": "Brandon Hall Hotel & Spa Warwickshire", "competitor_labels": ["Ramada Hotel & Suites by Wyndham Coventry", "Novotel Coventry"]},
+    {"subject_id": "lighthouse:314781", "name": "Islay House", "competitor_labels": ["Bridgend Hotel", "The Bowmore House Bed and Breakfast", "Lochside Hotel", "Kilmeny", "Port Charlotte Hotel", "Lochindaal Hotel", "Glenegedale House", "Machrie View", "No. 1 Charlotte Street"]},
+    {"subject_id": "lighthouse:79265", "name": "Rosslea Hall Hotel", "competitor_labels": ["Ardencaple Hotel by Greene King Inns", "Riva Boutique Hotel", "Knockderry Country House Hotel", "Queen of the Loch, Balloch by Marston's Inns", "The Loch Lomond Arms Hotel", "The Lodge On Loch Lomond Hotel"]},
+    {"subject_id": "lighthouse:88237", "name": "The Wiltshire Hotel, Golf and Leisure Resort", "competitor_labels": ["The Churchill", "The Angel in Wootton Bassett", "Holiday Inn Express Swindon West by IHG", "DoubleTree by Hilton Swindon Hotel", "Village Hotel Swindon", "Delta Hotels by Marriott Swindon", "Leonardo Hotel Swindon", "Marsh Farm Hotel", "The Schoolhouse Hotel"]},
+    {"subject_id": "lighthouse:128830", "name": "Thornbury Castle - A Relais & Chateaux Hotel", "competitor_labels": ["Whatley Manor", "The Fish Hotel", "Lucknam Park, Emblems Collection", "The Slaughters Manor House", "Cowley Manor Experimental", "Ellenborough Park"]},
+    {"subject_id": "lighthouse:33056", "name": "Weetwood Hall Estate", "competitor_labels": ["Village Hotel Leeds North", "Thorpe Park Hotel and Spa", "Leeds Marriott Hotel", "The Queens Hotel", "Park Plaza Leeds", "DoubleTree by Hilton Leeds", "Radisson Blu Hotel, Leeds City Centre", "Clayton Hotel, Leeds", "Oulton Hall Hotel, Spa & Golf Resort", "Hollins Hall Hotel, Spa & Golf"]}
+  ]
+}

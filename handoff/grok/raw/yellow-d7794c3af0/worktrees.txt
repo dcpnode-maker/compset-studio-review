@@ -1,0 +1,46 @@
+exit=0
+worktree E:/YellowWorkspace/Documents/Codex/2026-08-14/cl/outputs/yellow
+HEAD 57876f9d1760bb1f06fab77dad38631ee31d5784
+branch refs/heads/phase-0/founder-context-demo-readiness
+
+worktree C:/Users/astha/.codex/worktrees/bnbme-compset/yellow
+HEAD 57876f9d1760bb1f06fab77dad38631ee31d5784
+branch refs/heads/phase-14/bnbme-compset-research
+
+worktree C:/Users/astha/.codex/worktrees/harness-app/yellow
+HEAD d29142b39d9d6641a56bb0f8546b5745d5a4e9bc
+branch refs/heads/phase-0/harness-app
+
+worktree C:/Users/astha/.codex/worktrees/harness-astra-handoff/yellow
+HEAD 01c9ffa4d35894c29c93bf66556d6c26848a24be
+branch refs/heads/phase-9/pr93-ci-proof
+
+worktree C:/Users/astha/.codex/worktrees/pr-repairs/yellow
+HEAD d6e57ff7f91ee5ffb6e51f8e6d748294458afa45
+branch refs/heads/phase-9/pr97-base-repair
+
+worktree C:/Users/astha/.codex/worktrees/yellow-harness-controller/yellow
+HEAD 09d1a02de56380eaee6116f444ccc1816372505c
+branch refs/heads/phase-0/yellow-harness-controller
+
+worktree C:/Users/astha/Documents/Codex/2026-08-14/cl/outputs/yellow-order175-folio-responsive-containment
+HEAD 75a2eba1cd34d0512d010bf3f91230ebed4720e7
+branch refs/heads/phase-7/operator-invoice-workflow
+
+worktree D:/Yellow/git-live-order611-source
+HEAD a043bb29d64b5c3e555d46dc8263f85992e5dca2
+branch refs/heads/codex/live-order611-source
+prunable gitdir file points to non-existent location
+
+worktree D:/Yellow/git-live-order611-source-v2
+HEAD e06e400a57485cc10a8a35c21dcb1e01b5a667d1
+branch refs/heads/codex/live-order611-source-v2
+
+worktree E:/YellowWorkspace/Data/BuildArtifacts/yellow-receiving-build-20261001-v1/hosting/public-demo-autologin-patch-v1/verification-worktree
+HEAD 35d2f1c2f1dfba3c6f6353103bdc91e3526b982b
+detached
+
+worktree E:/YellowWorkspace/Worktrees/phase-7-resource-receiving-20261001
+HEAD 2b096e5f1bf932403a91a4e8f9f135d99465f691
+branch refs/heads/phase-7/live-ecosystem-20261002
+

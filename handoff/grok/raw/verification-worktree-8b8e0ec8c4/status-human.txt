@@ -1,0 +1,21 @@
+exit=0
+## HEAD (no branch)
+ M frontend/yellow/src/auth-session.ts
+ D public/yellow-next/assets/EcosystemHub-CQ8V9z1H.js
+ D public/yellow-next/assets/FinanceWorkspace-CDi8-L7A.js
+ D public/yellow-next/assets/MarketIntelligenceLab-D37DcWhA.js
+ D public/yellow-next/assets/OperationalHub-D_iEuzyX.js
+ D public/yellow-next/assets/OptionsDrawer-D-YbGgGk.js
+ D public/yellow-next/assets/ReservationWorkspace-wSlqY8Me.js
+ D public/yellow-next/assets/StatusBadge-BVqcWEJO.js
+ D public/yellow-next/assets/index-BSevgplG.js
+ D public/yellow-next/assets/index-D1zeL5we.css
+ D public/yellow-next/assets/react-runtime-DRp6H2Fp.js
+ D public/yellow-next/assets/rolldown-runtime-hePW80VL.js
+ D public/yellow-next/assets/vendor-DD35e0mo.js
+ D public/yellow-next/assets/yellow-app-C73-485U.js
+ M public/yellow-next/index.html
+ M src/app.ts
+ M src/server.ts
+ M tests/browser-session-http.test.ts
+ M tests/yellow-react-auth-session.test.ts

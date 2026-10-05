@@ -1,0 +1,88 @@
+exit=0
+2b096e5f1bf932403a91a4e8f9f135d99465f691 2026-10-04T06:38:12+05:30 [codex] Restore original reservations and neon-green host calendar
+c1b7c2b80a103b53d29d175e8087776f3cdd776e 2026-10-04T03:25:51+05:30 [codex] Restore calendar, reservation search and operational dashboards
+8bd09c25bb73083aebaab62d68ea464d838258aa 2026-10-03T20:27:47+05:30 [codex] Compose reviewed owner and portable exact guest money display
+b8294182e331e9fbadfd6ba3e9b460dd29f18492 2026-10-03T18:02:30+05:30 [codex] Open the actual guest deposit page from Cashier
+6f3157126a3e353f931c288b3f5365b0152aed78 2026-10-03T15:35:40+05:30 [codex] connect scoped guest profiles and clear revoked property evidence
+9438906c4b8920652d72281daa25e86e9c71bd9d 2026-10-03T12:57:26+05:30 [codex] show complete scoped group block and pickup evidence
+6f064fde43184e9e3c3507b294baf87b6ac7729d 2026-10-03T11:42:19+05:30 [codex] record verified advance presentation live release
+1eebbd82d9d3fdf6cb87d6a4685855e1cc619238 2026-10-03T11:21:44+05:30 [codex] issue exact advance presentation release
+46ab3afce9e1265e6865d85de0be2377084e7965 2026-10-03T11:19:36+05:30 [codex] compose reviewed advance evidence in existing cashier
+9019a5f65e27aaf270dbe02a49c14791fb6d6411 2026-10-03T10:39:40+05:30 [codex] correct active advance contracts and issue formatted evidence slice
+0a56a98efc044fce8c180959ad52a4eaaf5282b2 2026-10-03T10:11:55+05:30 [codex] record RMS live release and issue advance evidence slice
+bdc721b26d2811afeff902d537e13761c1212434 2026-10-03T09:58:59+05:30 [codex] admit reviewed RMS evidence screens in original workspace
+a5b116d7a582043418bfc9df4972703325d0b7e0 2026-10-03T09:16:59+05:30 [codex] record inventory release and issue RMS caller admission
+c2ba896ab52c34d69617c209a7ad31c630c33a98 2026-10-03T08:50:22+05:30 [codex] admit reviewed room and unit relationship page
+50a0f387b88d76ea9dea02fb60f741241b3e4254 2026-10-03T08:04:44+05:30 [codex] prepare scoped existing inventory page admission
+f29bfd4810ab393a3f2985e162051bf0ac5eb1c5 2026-10-03T08:01:59+05:30 [codex] issue mobile density refinement for inventory relationships
+ed99295f08767aaa3fea18d8ea2dc0969be5c7ea 2026-10-03T07:47:50+05:30 [codex] record verified research-flow preview publication
+49ca3d67e603c8287eca246a86143677a94a492b 2026-10-03T07:46:28+05:30 [codex] issue bounded researched inventory presentation order
+5d855ba570636b1821bff385c905fa2ab4f21c24 2026-10-03T07:43:48+05:30 [codex] clear housekeeping evidence after concealed property denial
+312d4f46384fc90accc78506d846631133524025 2026-10-03T07:10:56+05:30 [codex] show housekeeping progress within the selected room drawer
+e8f85bba5cc346fd6f6bb022c2725839b43833d3 2026-10-03T06:33:29+05:30 [codex] integrate reviewed housekeeping progress into native floor view
+51f3b595ef3416dbb33c7ef42077a93cae6c8fc1 2026-10-03T04:10:08+05:30 [codex] Record verified Today and native calendar laptop release
+eb05ba83ec41664eff0834d98a293fb58e5bb955 2026-10-03T04:03:25+05:30 [codex] Preserve recorded source performance without configured taxonomy
+65ba856b02c9071bd65cad83670d20a34e632787 2026-10-03T03:40:34+05:30 [codex] Add native calendar views and Today movement source-performance drawer
+0103326dd880a309e562a0699339a4a0350d41ab 2026-10-02T22:55:06+05:30 [codex] Record Calendar live admission and remaining ecosystem work
+0ffb1288a9bb6470da2865c83b4f473377d94f04 2026-10-02T22:47:14+05:30 [codex] Restore reservation Calendar in the live Yellow shell
+93bf7f94ce36bbe67404853661ed40f641b5db01 2026-10-02T17:02:32+05:30 [codex] Retain Yellow sessions during workspace navigation
+e27da80e2e4a55dc653f455adc7b2d271253d20b 2026-10-02T03:39:09+05:30 [codex] Restore temporary automatic preview sign-in
+35d2f1c2f1dfba3c6f6353103bdc91e3526b982b 2026-10-02T02:18:44+05:30 test: correct canonical normal-login fixture scopes
+a22290e42c481651efc9fb65e54ab78b32c28817 2026-10-02T01:33:17+05:30 [codex] align browser CI fixtures with normal login
+eb6559be5ebdd9299ab3ca5a18a132ca6ab24cc7 2026-10-02T01:31:52+05:30 [codex] expose CRS CRM and RMS in restored Yellow navigation
+3039ac9345503b2e0aec07759d5686493b3ff3c7 2026-10-02T00:29:26+05:30 [codex] preserve secure browser session across original Yellow workspaces
+326e80c8d936362059496e2aa41d28651a05e386 2026-10-01T23:40:55+05:30 [codex] restore requested Yellow reference UI and normal login
+444072ffdff2b7745345d88f71b603c17e11ace6 2026-10-01T21:15:34+05:30 test: pin readiness proofs to admitted migration 103
+5f087ef1fd9987c45c6aa10eadc6ce63fc79e926 2026-10-01T20:43:47+05:30 test: account for admitted linked group runtime authority
+7f1a70cf1b799685f4dfc4ce91bce1907ae62a8e 2026-10-01T19:45:45+05:30 Fix receiving integration test fixtures and exact runtime assertions
+b833155549d9d801a2ef1e353fdbc8e4b2564a90 2026-10-01T19:12:16+05:30 Align colleague demo regression with the working assistant handler
+b9ba702a074a487feeafa056abb49abcdcf01ba8 2026-10-01T18:58:35+05:30 Receive reviewed housekeeping, Hotel/STR mode and linked groups over cloud release
+9ff27ad8765dc75ebae9e083d4635c7a9b89fa62 2026-10-01T14:48:14+05:30 [codex] bound owned CDP proof startup and cleanup
+58cd09ad13987bafb6068ab72a753746a555bfa5 2026-10-01T13:37:34+05:30 [codex] align full schema snapshot with pinned PostgreSQL 18
+f610a9264840cbbf8d4ea05b29852889e0115e6f 2026-10-01T12:22:33+05:30 [codex] preserve historical fiscal containment and strict current catalogue
+932969aa5304b4fea9bfa8c64b43085023cd4d89 2026-10-01T06:19:43Z [codex] align current fiscal-series fixtures with governed release frontier
+a00ca3f941d601df6a436db53612d58b2f4f4729 2026-10-01T05:23:02Z [codex] align guarded series catalogue reference with reviewed helper
+808064df0d98c511f821ef33d6fd373eda9af7d3 2026-10-01T04:58:31Z [codex] keep credit-delivery rollback proof independent of planner estimates
+20c9ee13e11c8a9a146687b7d79c43a9c36ef420 2026-10-01T04:32:12Z [codex] pin native PostgreSQL index for ARM64 proof
+937912cc0546bfe7b7cd8b3c082f8ef798c20e5b 2026-10-01T04:05:06Z [codex] reconcile reviewed CI gates and real-time invoice proof
+a0fecd984800baa317a6140eef6ed4ab9528d9e0 2026-10-01T02:55:15Z [codex] freeze finalized independent release review
+f2a4964922cb97d6b16e17ce221fe06d65a7a549 2026-10-01T02:53:58Z [codex] join published source ancestry with reviewed tree unchanged
+a00d061e92a0ae9e15b36dda02edb44116822e93 2026-10-01T02:53:32Z [codex] resolve reviewed local release gates and source reconciliation
+51d3f47bb706f641bd68027b445c060bdcf91d69 2026-09-30T22:33:10Z [codex] reconcile inherited board and Finance fixtures
+6b0be810f5d78cdd3ebd9b3ad57f593594d5ef79 2026-09-30T22:13:12Z [codex] compose independently reviewed Yellow operational slices
+d708ff29e2e44df74a5c1a12e58a8cf656b14c8d 2026-09-29T02:51:03+05:30 [codex] repair PR97 browser proofs and current migration gates
+e06e400a57485cc10a8a35c21dcb1e01b5a667d1 2026-09-23T12:52:00+05:30 [codex] Detail public commercial stats projection
+392f812d972afe5e0c7349bfafcf0e2ecce6c46d 2026-09-23T12:48:13+05:30 [codex] Add commercial contribution read model
+74aba96cff0a27cc782dbf21fb98a311e0898eea 2026-09-23T12:39:56+05:30 [codex] Add public finance posting proof
+06205c52e40412e4d2698d19cae3915b88e7dadc 2026-09-23T12:34:23+05:30 [codex] Prove Gemini-backed Overwatch responses
+29b8f81daa7d3a97bc73e6256d0ff3b9ff1f7dd8 2026-09-23T12:29:49+05:30 [codex] Prove ready checkout in public demo
+3d0218f2247b9b5a0577f071d1d0e3fc9608ce3c 2026-09-23T12:26:29+05:30 [codex] Align runtime with PostgreSQL 18
+5a522d82ede5da9e3f18acf63b8a85c731c16b03 2026-09-23T12:19:42+05:30 [codex] Show business contribution hierarchy on Today
+b8f68fc79438627414ae160b4762413f51925270 2026-09-23T12:13:19+05:30 [codex] Fix housekeeping timestamp precision on PG18
+8a1b77f1216dd2705c709f07674e1cfca371ef6a 2026-09-23T11:48:05+05:30 [codex] Prove ready arrival check-in fixture
+4b3f02ed3441cc5683ea948525848ca1329cf4d2 2026-09-23T11:39:44+05:30 [codex] Show business mix on Today glass
+522cdc1356b13adbb6ca038f669a4918ecb396b7 2026-09-23T11:36:07+05:30 [codex] Expose reservation commercial codes
+1d3246dda6d5e25454f3680d0be136f76a5d47b9 2026-09-23T11:29:33+05:30 [codex] Surface ADR and RevPAR on Today glass
+089fde4f3d103a159a4c09ed238e3390f91ed6b6 2026-09-23T11:25:33+05:30 [codex] Prove guest profile stay history readiness
+ac600485b94f51e737a9db74e97944f7f8cd3f42 2026-09-23T11:20:49+05:30 [codex] Prove business day close readiness
+19452c254664670970b71089a7c175465ea44bce 2026-09-23T11:19:09+05:30 [codex] Prove multilingual Overwatch readiness
+6953c18827133d171893bbd055f518ecfcc74788 2026-09-23T11:17:50+05:30 [codex] Strengthen group block readiness proof
+f3f36f25463c1a9363177764a3fb327ff3df553a 2026-09-23T11:15:40+05:30 [codex] Add group block rooming list drilldown
+23cebeb10b8c6b23883ddc1c28bb511340003fdc 2026-09-23T11:07:46+05:30 [codex] Add reproducible public group block fixture
+1c385c8f4e0eb9e291a5f04cbcfdcf2175af6f6a 2026-09-23T11:02:21+05:30 [codex] Add group block workbench and PG18 demo cutover
+51fc0c64468f1e1695d9e08f05d1b4cea7856f69 2026-09-23T10:38:58+05:30 [codex] Add mobile public demo probe
+5fab2d6f9e7945146109870d3743a7c90d779379 2026-09-23T10:34:59+05:30 [codex] Add colleague demo readiness probe
+3e84bc32292d046a68ef016eeacd55580fc9fd2b 2026-09-23T10:30:01+05:30 [codex] Add Today colleague demo path
+d9cddb8a120af09d6368444bc0ea081089f61a94 2026-09-23T10:26:39+05:30 [codex] Add public demo speed budget probe
+697f77024026ea9360ace0a085b6abd591bc2f4c 2026-09-23T10:23:23+05:30 [codex] Import live Yellow public demo source
+a043bb29d64b5c3e555d46dc8263f85992e5dca2 2026-09-19T17:03:26+05:30 [codex] Preserve founder context and demo readiness
+3aeffa35fff645721cb023ccc0d5085be79b9733 2026-09-14T23:57:26+05:30 [codex] Close continuity orders 001 and 002
+db23ae66869ca2fb1f9c7c8b6986f4b3bc09ab07 2026-09-14T23:55:13+05:30 [codex] Close order416 local worktree consolidation
+c935e65276f9f89f2bcd9b7d41dadc1be7ac6311 2026-09-14T23:52:27+05:30 [codex] Add local project status doc for continuity handoff
+e2f97ce3488f0fed31ddd492abad1726013543f8 2026-09-14T23:51:51+05:30 [codex] Harden continuity symlink tests for Windows host
+0f1f622bb1635293412094868147b100a8a536df 2026-09-13T22:00:26+05:30 [codex] Prepare bounded parallel model continuity tooling
+a997e7144d0ee4418b1961f2d1e8f77d5fa723a2 2026-09-14T23:46:29+05:30 [codex] add india gst component tax context exports and tests
+5b2ba44689bd1d6937ca3522e94111ee1105f31c 2026-09-02T13:23:55+05:30 [codex] approve valuation catalogue oracle repair
+9f3659d0c82f9a1b99638d981cae595c5904d64c 2026-09-02T11:26:26+05:30 [codex] withhold governed valuation repair
+5f49c82d308a5f1732c9a066b478713c97b66f77 2026-08-23T17:30:04Z [claude] D-93: full Order-091 lineage context for Codex (single linear branch, Gate-3 history, review-debt manifest)
+e0326c0bd89925866136b16c1d3226e64d294108 2026-08-23T17:15:16Z [claude] final operational handoff to Codex

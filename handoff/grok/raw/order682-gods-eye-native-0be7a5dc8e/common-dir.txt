@@ -1,0 +1,2 @@
+exit=0
+D:/Yellow/temp/order682-gods-eye-native/.git

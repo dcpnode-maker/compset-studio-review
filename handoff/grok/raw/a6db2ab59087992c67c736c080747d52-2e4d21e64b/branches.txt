@@ -1,0 +1,2 @@
+exit=0
+* phase-0/yellow-personal-harness d4b4ea0d [codex] activate isolated Yellow development workspace

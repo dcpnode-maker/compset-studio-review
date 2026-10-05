@@ -1,0 +1,23 @@
+# Rate workspace API contract
+
+`GET /api/workspace` is read-only, local and no-store. Python `build_workspace(data_root)` returns the object below. It never starts collection or accesses a remote site. Missing evidence is represented in datasets/warnings rather than converted to zero prices. Dates are ISO dates; money is a decimal string or null.
+
+Root: `{schema_version:1, generated_at, datasets:[Dataset], portfolio:{observed_at,properties:[Property],summary}, warnings:[]}`.
+
+Dataset: `{id,label,kind,currency,context,observed_at,dates:[date],entities:[Entity],cells:[Cell],summary,source_states:[],profiles:[],candidates:[],warnings:[],comparison_note}`. Dataset IDs `aketa` and `airbnb-compset`. `kind` is `hotel` or `airbnb`. `context` retains original frozen request, including guest counts and rate basis. Default dataset `aketa`.
+
+Entity: `{id,label,source,role,source_url}`. Aketa entities are the five observation origins; Airbnb entities are the subject plus selected listing IDs, role subject/competitor. URLs are only safe public http(s) property links. No arbitrary source artifact filesystem paths in UI.
+
+Cell: `{entity_id,date,checkout,state,amount,display_amount,currency,precision,amount_basis,observed_at,reason,offers:[]}`. States `quoted`, `indicative`, `unavailable`, `restricted`, `unknown`. Amount is null for unknown/unavailable/restricted or abbreviated displays. Offers retain selected normalized safe fields for room, rate plan, meals, cancellation, taxes/fees and amount. No cross-source/currency/party minimum. Cell may show the minimum within matching source/stay only, explicitly an observed lowest offer; detail shows every alternative and conditions. Unknown never becomes zero.
+
+Summary keys: `date_cells`, `quoted_cells`, `indicative_cells`, `unavailable_cells`, `restricted_cells`, `unknown_cells`, `rate_rows`. Summary denominator includes planned cells. Source states preserve status/reason/time and last stay when applicable. Profiles preserve audit source/provider_id/name/url/sale_status/branding/inventory_mirror. Candidates are normalized public fields from existing compset candidates with selection/eligibility/reasons, location, beds/baths/amenities/rating/operator evidence. No hotel compset is implied by Airbnb compset membership.
+
+Property: `{id,title,city,country,currency,bedrooms,bathrooms,person_capacity,operator_name,publication_status,link_status,source_url,observed_at}`; summary is the existing BnBMe inventory summary, clearly separate from hotel rate rows.
+
+`comparison_note` explains why a full like-for-like market rank/parity metric is unavailable. UI does not infer one from incomplete rows. Refresh means re-read saved evidence. Export CSV contains current visible dataset/filter/window and provenance context; use formula-safe cells. Source/currency/state controls are view filters, not a new scrape context. UI errors are visible and do not silently substitute demo data.
+
+Projection details: `Cell.selection_note` names the headline selection rule. A Google cell prefers the observed calendar display as its headline and retains partner displays in `offers`; partner and calendar values never compete in a common minimum. Incompatible amount bases or tax inclusion states retain all offers with a null headline amount. Numeric abbreviated displays stay null, with their original display string and approximate amount in detail. Each offer includes `observed_context`, `amount_basis`, `source_amount_basis`, source timestamp and safe public URL. Airbnb `rate_plan` becomes `rate_plan_name`; verified alternate `rate_options` retain their plan, selected flag, amount, basis, currency and cancellation terms without replacing the primary selected quote.
+
+Airbnb `discovery_context` preserves the original candidate-search context separately from the one-night price request. A different or missing comp-set run raises a warning. The rate grid retains the planned `listing_ids` from the saved nightly job as well as current selected listings, so missing candidate metadata cannot silently shrink coverage. Calendar evidence of minimum nights or arrival/departure restrictions maps to `restricted`, while an explicit sleeping-night unavailability flag maps to `unavailable`. Neither state establishes a booking.
+
+Source observation times govern freshness. `generated_at` is only the time this read-only projection was created; it does not make historical source evidence current. Profile `audit_completed_at` is distinct from a source offer's `observed_at`; an unobserved profile does not receive a fabricated offer timestamp. The projection exposes selected public fields and canonical property links, excluding raw responses, source artifact paths, credentials and URL query strings.

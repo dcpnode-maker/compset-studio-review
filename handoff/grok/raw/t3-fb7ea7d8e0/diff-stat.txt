@@ -1,0 +1,8 @@
+exit=0
+ README.md                      | 51 ++++++++++++++++++++++++++++++
+ manual-notebook-worker.py      | 71 ++++++++++++++++++++++++++++++++++++------
+ test-manual-notebook-worker.py | 34 ++++++++++++++++++++
+ 3 files changed, 146 insertions(+), 10 deletions(-)
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'manual-notebook-worker.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'test-manual-notebook-worker.py', LF will be replaced by CRLF the next time Git touches it

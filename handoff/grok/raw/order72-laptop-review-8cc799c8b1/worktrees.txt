@@ -1,0 +1,21 @@
+exit=0
+worktree C:/Users/astha/yellow-recovery-20261004/order72-laptop-review
+HEAD 2b096e5f1bf932403a91a4e8f9f135d99465f691
+detached
+
+worktree C:/Users/astha/yellow-fast-20261005/calendar-values
+HEAD ccea8de907bef7268e4168c418afd98fdf452095
+branch refs/heads/phase-7/calendar-values-20261005
+
+worktree C:/Users/astha/yellow-recovery-20261004/order72-onto69-candidate
+HEAD 2b096e5f1bf932403a91a4e8f9f135d99465f691
+detached
+
+worktree C:/Users/astha/yellow-recovery-20261004/order72-onto69-candidate-final
+HEAD 3cfa8b3bd6ce5038a4a6947726b80a9bacd26773
+detached
+
+worktree C:/Users/astha/yellow-recovery-20261004/runtimes/3cfa8b3bd6ce5038a4a6947726b80a9bacd26773
+HEAD 3cfa8b3bd6ce5038a4a6947726b80a9bacd26773
+detached
+

@@ -1,0 +1,5 @@
+exit=0
+worktree C:/Users/astha/yellow-fast-20261005/group-inquiry
+HEAD 3cfa8b3bd6ce5038a4a6947726b80a9bacd26773
+branch refs/heads/phase-7/group-inquiry-native-20261005
+

@@ -1,0 +1,5 @@
+exit=0
+worktree E:/YellowWorkspace/Documents/Codex/2026-09-29/ankit-discussions/outputs/airbnb-library-benchmark/vendor/pyairbnb
+HEAD 1ee4151d7fcc2fc02dca1985753b67b0d45b2877
+branch refs/heads/main
+

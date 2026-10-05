@@ -1,0 +1,2 @@
+exit=0
+E:/YellowWorkspace/Documents/Codex/yellow-prototype-review-20261002/journey-v2/laptop/housekeeping-shell-composition65-v1/proof/package-base/.git

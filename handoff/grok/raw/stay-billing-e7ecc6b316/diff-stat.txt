@@ -1,0 +1,4 @@
+exit=0
+ frontend/yellow/src/App.tsx                         |  3 ++-
+ frontend/yellow/src/workspaces/FinanceWorkspace.tsx | 10 +++++++++-
+ 2 files changed, 11 insertions(+), 2 deletions(-)

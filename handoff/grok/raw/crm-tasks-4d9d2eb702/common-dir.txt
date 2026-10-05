@@ -1,0 +1,2 @@
+exit=0
+C:/Users/astha/yellow-fast-20261005/crm-tasks/.git

@@ -1,0 +1,2 @@
+exit=0
+E:/YellowWorkspace/Data/Recovery/RESOURCE-20261001/restore-20261001-proof-v2/.git
